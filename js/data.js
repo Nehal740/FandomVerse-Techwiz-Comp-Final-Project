@@ -12,7 +12,7 @@ const CATS = [
   { slug: 'movies', name: 'Movies', icon: '🎬', desc: 'Blockbusters, indie gems and cinematic universes.', cover: 'assets/images/movies_category_hd.jpg' },
   { slug: 'tvshows', name: 'TV Shows', icon: '📺', desc: 'Series, seasons and stories worth binging.', cover: 'assets/images/tvshows-cover.jpg' },
   { slug: 'kpop', name: 'K-Pop', icon: '🎤', desc: 'Idols, comebacks, concerts and fandom culture.', cover: 'assets/images/kpop-cover.jpg' },
-  { slug: 'comics', name: 'Comics', icon: '🦸', desc: 'Heroes, villains and legendary story arcs.', cover: 'assets/images/movies_category_hd.jpg' },
+  { slug: 'comics', name: 'Comics', icon: '🦸', desc: 'Heroes, villains and legendary story arcs.', cover: 'assets/images/comics-cover.svg' },
   { slug: 'manga', name: 'Manga', icon: '📖', desc: 'Chapters, artists and the pages that hook you.', cover: 'assets/images/manga-cover.jpg' }
 ];
 const FV = { items: [], failed: 0 };
