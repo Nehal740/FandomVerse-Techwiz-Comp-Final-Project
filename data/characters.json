@@ -117,7 +117,7 @@
   "date": "2026-03-23",
   "popularity": 99,
   "featured": false,
-  "img": "https://picsum.photos/seed/gaming-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford2.jpg"
  },
  {
   "id": "gaming-chr-4",
@@ -132,7 +132,7 @@
   "date": "2026-04-03",
   "popularity": 86,
   "featured": false,
-  "img": "https://picsum.photos/seed/gaming-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade2.jpg"
  },
  {
   "id": "gaming-chr-5",
@@ -192,7 +192,7 @@
   "date": "2026-08-10",
   "popularity": 95,
   "featured": false,
-  "img": "https://picsum.photos/seed/movies-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford3.jpg"
  },
  {
   "id": "movies-chr-4",
@@ -462,7 +462,7 @@
   "date": "2026-01-16",
   "popularity": 91,
   "featured": true,
-  "img": "https://picsum.photos/seed/manga-chr-1/500/300"
+  "img": "assets/images/Crimson_Kalpa.jpg"
  },
  {
   "id": "manga-chr-2",
