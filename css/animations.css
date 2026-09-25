@@ -1,0 +1,13 @@
+/* ===== ANIMATIONS ===== */
+@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@keyframes bob{50%{transform:translateY(-10px)}}
+@keyframes shimmer{from{background-position:200% 0}to{background-position:-200% 0}}
+@keyframes dot{50%{opacity:.2}}
+@keyframes pop{50%{transform:scale(1.35)}}
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .6s,transform .6s}.reveal.in{opacity:1;transform:none}
+.hero>div:first-child{animation:up .8s both}.float{animation:bob 6s ease-in-out infinite}.f2{animation-delay:-2s}.f3{animation-delay:-4s}
+.skel{background:linear-gradient(90deg,#111827 30%,#1e293b 50%,#111827 70%) 0 0/200% 100%;animation:shimmer 1.4s linear infinite}
+.bm.on{animation:pop .35s}.toast{animation:up .3s}.msg.typing{animation:dot 1s infinite}.auth[open]{animation:up .3s}
+.bot-btn{animation:bob 3s ease-in-out infinite}
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.reveal{opacity:1;transform:none}}

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "tvshows-art-1",
+  "title": "Harbor Nine: A Beginner's Guide",
+  "description": "An editorial look at Harbor Nine and what makes its fandom special.",
+  "type": "article",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Guide"
+  ],
+  "date": "2026-05-05",
+  "popularity": 77,
+  "featured": true,
+  "img": "https://picsum.photos/seed/tvshows-art-1/500/300"
+ },
+ {
+  "id": "tvshows-art-2",
+  "title": "Why The Quiet Syndicate Is Trending Now",
+  "description": "An editorial look at The Quiet Syndicate and what makes its fandom special.",
+  "type": "article",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Guide"
+  ],
+  "date": "2026-09-09",
+  "popularity": 95,
+  "featured": false,
+  "img": "https://picsum.photos/seed/tvshows-art-2/500/300"
+ },
+ {
+  "id": "tvshows-art-3",
+  "title": "Behind the Scenes of Orbit Street",
+  "description": "An editorial look at Orbit Street and what makes its fandom special.",
+  "type": "article",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Guide"
+  ],
+  "date": "2026-07-12",
+  "popularity": 93,
+  "featured": false,
+  "img": "https://picsum.photos/seed/tvshows-art-3/500/300"
+ },
+ {
+  "id": "tvshows-trl-1",
+  "title": "Harbor Nine \u2014 Official Trailer",
+  "description": "Watch the trailer for Harbor Nine. 2:10 min.",
+  "type": "trailer",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Video"
+  ],
+  "date": "2026-07-08",
+  "popularity": 59,
+  "featured": false,
+  "status": "UPCOMING",
+  "img": "https://picsum.photos/seed/tvshows-trl-1/500/300"
+ },
+ {
+  "id": "tvshows-trl-2",
+  "title": "The Quiet Syndicate \u2014 Official Trailer",
+  "description": "Watch the trailer for The Quiet Syndicate. 2:23 min.",
+  "type": "trailer",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Video"
+  ],
+  "date": "2026-02-06",
+  "popularity": 59,
+  "featured": false,
+  "status": "RECENTLY RELEASED",
+  "img": "https://picsum.photos/seed/tvshows-trl-2/500/300"
+ }
+]

@@ -1,0 +1,527 @@
+[
+ {
+  "id": "anime-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of Skyblade Requiem.",
+  "type": "character",
+  "category": "Anime",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-07-03",
+  "popularity": 65,
+  "featured": true,
+  "img": "assets/images/Kaito_Voss.jpg"
+ },
+ {
+  "id": "anime-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of Neon Shrine.",
+  "type": "character",
+  "category": "Anime",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-02-18",
+  "popularity": 77,
+  "featured": false,
+  "img": "assets/images/Mira_Solen.jpg"
+ },
+ {
+  "id": "anime-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Starforged Academy.",
+  "type": "character",
+  "category": "Anime",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-01-27",
+  "popularity": 86,
+  "featured": false,
+  "img": "assets/images/Ren_Ashford.jpg"
+ },
+ {
+  "id": "anime-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of Ashen Kitsune.",
+  "type": "character",
+  "category": "Anime",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-02-08",
+  "popularity": 90,
+  "featured": false,
+  "img": "assets/images/Yuna_Kade.jpg"
+ },
+ {
+  "id": "anime-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Tidebreaker.",
+  "type": "character",
+  "category": "Anime",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-01-19",
+  "popularity": 87,
+  "featured": false,
+  "img": "assets/images/Jax_Ryuu.jpg"
+ },
+ {
+  "id": "gaming-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of Voidrunner.",
+  "type": "character",
+  "category": "Gaming",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-08-19",
+  "popularity": 79,
+  "featured": true,
+  "img": "https://picsum.photos/seed/gaming-chr-1/500/300"
+ },
+ {
+  "id": "gaming-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of Ember Realms.",
+  "type": "character",
+  "category": "Gaming",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-06-10",
+  "popularity": 65,
+  "featured": false,
+  "img": "https://picsum.photos/seed/gaming-chr-2/500/300"
+ },
+ {
+  "id": "gaming-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Circuit Kingdoms.",
+  "type": "character",
+  "category": "Gaming",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-03-23",
+  "popularity": 99,
+  "featured": false,
+  "img": "https://picsum.photos/seed/gaming-chr-3/500/300"
+ },
+ {
+  "id": "gaming-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of Last Signal.",
+  "type": "character",
+  "category": "Gaming",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-04-03",
+  "popularity": 86,
+  "featured": false,
+  "img": "https://picsum.photos/seed/gaming-chr-4/500/300"
+ },
+ {
+  "id": "gaming-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Hollow Frontier.",
+  "type": "character",
+  "category": "Gaming",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-05-17",
+  "popularity": 81,
+  "featured": false,
+  "img": "https://picsum.photos/seed/gaming-chr-5/500/300"
+ },
+ {
+  "id": "movies-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of The Glass Horizon.",
+  "type": "character",
+  "category": "Movies",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-02-02",
+  "popularity": 96,
+  "featured": true,
+  "img": "https://picsum.photos/seed/movies-chr-1/500/300"
+ },
+ {
+  "id": "movies-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of Midnight Cartographer.",
+  "type": "character",
+  "category": "Movies",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-05-21",
+  "popularity": 86,
+  "featured": false,
+  "img": "https://picsum.photos/seed/movies-chr-2/500/300"
+ },
+ {
+  "id": "movies-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Iron Lantern.",
+  "type": "character",
+  "category": "Movies",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-08-10",
+  "popularity": 95,
+  "featured": false,
+  "img": "https://picsum.photos/seed/movies-chr-3/500/300"
+ },
+ {
+  "id": "movies-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of Echoes of Tomorrow.",
+  "type": "character",
+  "category": "Movies",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-07-22",
+  "popularity": 72,
+  "featured": false,
+  "img": "https://picsum.photos/seed/movies-chr-4/500/300"
+ },
+ {
+  "id": "movies-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Paper Moons.",
+  "type": "character",
+  "category": "Movies",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-01-15",
+  "popularity": 72,
+  "featured": false,
+  "img": "https://picsum.photos/seed/movies-chr-5/500/300"
+ },
+ {
+  "id": "tvshows-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of Harbor Nine.",
+  "type": "character",
+  "category": "TV Shows",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-04-22",
+  "popularity": 64,
+  "featured": true,
+  "img": "https://picsum.photos/seed/tvshows-chr-1/500/300"
+ },
+ {
+  "id": "tvshows-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of The Quiet Syndicate.",
+  "type": "character",
+  "category": "TV Shows",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-01-16",
+  "popularity": 87,
+  "featured": false,
+  "img": "https://picsum.photos/seed/tvshows-chr-2/500/300"
+ },
+ {
+  "id": "tvshows-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Orbit Street.",
+  "type": "character",
+  "category": "TV Shows",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-03-09",
+  "popularity": 68,
+  "featured": false,
+  "img": "https://picsum.photos/seed/tvshows-chr-3/500/300"
+ },
+ {
+  "id": "tvshows-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of Nightshift Manor.",
+  "type": "character",
+  "category": "TV Shows",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-01-05",
+  "popularity": 76,
+  "featured": false,
+  "img": "https://picsum.photos/seed/tvshows-chr-4/500/300"
+ },
+ {
+  "id": "tvshows-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Riverlight.",
+  "type": "character",
+  "category": "TV Shows",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-09-12",
+  "popularity": 89,
+  "featured": false,
+  "img": "https://picsum.photos/seed/tvshows-chr-5/500/300"
+ },
+ {
+  "id": "kpop-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of LUMEN-7.",
+  "type": "character",
+  "category": "K-Pop",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-06-20",
+  "popularity": 51,
+  "featured": true,
+  "img": "https://picsum.photos/seed/kpop-chr-1/500/300"
+ },
+ {
+  "id": "kpop-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of Starfall Seoul.",
+  "type": "character",
+  "category": "K-Pop",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-02-28",
+  "popularity": 63,
+  "featured": false,
+  "img": "https://picsum.photos/seed/kpop-chr-2/500/300"
+ },
+ {
+  "id": "kpop-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Velvet Circuit.",
+  "type": "character",
+  "category": "K-Pop",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-07-05",
+  "popularity": 90,
+  "featured": false,
+  "img": "https://picsum.photos/seed/kpop-chr-3/500/300"
+ },
+ {
+  "id": "kpop-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of NOVA Crown.",
+  "type": "character",
+  "category": "K-Pop",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-05-12",
+  "popularity": 88,
+  "featured": false,
+  "img": "https://picsum.photos/seed/kpop-chr-4/500/300"
+ },
+ {
+  "id": "kpop-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Pastel Riot.",
+  "type": "character",
+  "category": "K-Pop",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-06-16",
+  "popularity": 57,
+  "featured": false,
+  "img": "https://picsum.photos/seed/kpop-chr-5/500/300"
+ },
+ {
+  "id": "comics-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of Captain Meridian.",
+  "type": "character",
+  "category": "Comics",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-03-12",
+  "popularity": 99,
+  "featured": true,
+  "img": "https://picsum.photos/seed/comics-chr-1/500/300"
+ },
+ {
+  "id": "comics-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of Shadowline.",
+  "type": "character",
+  "category": "Comics",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-04-18",
+  "popularity": 84,
+  "featured": false,
+  "img": "https://picsum.photos/seed/comics-chr-2/500/300"
+ },
+ {
+  "id": "comics-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Ironwood Saga.",
+  "type": "character",
+  "category": "Comics",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-09-11",
+  "popularity": 90,
+  "featured": false,
+  "img": "https://picsum.photos/seed/comics-chr-3/500/300"
+ },
+ {
+  "id": "comics-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of Nightglass.",
+  "type": "character",
+  "category": "Comics",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-04-20",
+  "popularity": 98,
+  "featured": false,
+  "img": "https://picsum.photos/seed/comics-chr-4/500/300"
+ },
+ {
+  "id": "comics-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Solar Sentinels.",
+  "type": "character",
+  "category": "Comics",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-04-26",
+  "popularity": 65,
+  "featured": false,
+  "img": "https://picsum.photos/seed/comics-chr-5/500/300"
+ },
+ {
+  "id": "manga-chr-1",
+  "title": "Kaito Voss",
+  "description": "Kaito Voss — Brave, Loyal lead of Crimson Kalpa.",
+  "type": "character",
+  "category": "Manga",
+  "tags": [
+   "Brave",
+   "Loyal"
+  ],
+  "date": "2026-01-16",
+  "popularity": 91,
+  "featured": true,
+  "img": "https://picsum.photos/seed/manga-chr-1/500/300"
+ },
+ {
+  "id": "manga-chr-2",
+  "title": "Mira Solen",
+  "description": "Mira Solen — Cunning, Calm lead of Moonlit Ronin.",
+  "type": "character",
+  "category": "Manga",
+  "tags": [
+   "Cunning",
+   "Calm"
+  ],
+  "date": "2026-06-26",
+  "popularity": 91,
+  "featured": false,
+  "img": "https://picsum.photos/seed/manga-chr-2/500/300"
+ },
+ {
+  "id": "manga-chr-3",
+  "title": "Ren Ashford",
+  "description": "Ren Ashford — Fierce, Curious lead of Ink & Ember.",
+  "type": "character",
+  "category": "Manga",
+  "tags": [
+   "Fierce",
+   "Curious"
+  ],
+  "date": "2026-02-27",
+  "popularity": 92,
+  "featured": false,
+  "img": "https://picsum.photos/seed/manga-chr-3/500/300"
+ },
+ {
+  "id": "manga-chr-4",
+  "title": "Yuna Kade",
+  "description": "Yuna Kade — Gentle, Strategic lead of Blade of Dusk.",
+  "type": "character",
+  "category": "Manga",
+  "tags": [
+   "Gentle",
+   "Strategic"
+  ],
+  "date": "2026-02-13",
+  "popularity": 95,
+  "featured": false,
+  "img": "https://picsum.photos/seed/manga-chr-4/500/300"
+ },
+ {
+  "id": "manga-chr-5",
+  "title": "Jax Ryuu",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Petal Protocol.",
+  "type": "character",
+  "category": "Manga",
+  "tags": [
+   "Bold",
+   "Mysterious"
+  ],
+  "date": "2026-04-16",
+  "popularity": 61,
+  "featured": false,
+  "img": "https://picsum.photos/seed/manga-chr-5/500/300"
+ }
+]

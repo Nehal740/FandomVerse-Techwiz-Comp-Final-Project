@@ -1,0 +1,79 @@
+[
+ {
+  "id": "movies-art-1",
+  "title": "The Glass Horizon: A Beginner's Guide",
+  "description": "An editorial look at The Glass Horizon and what makes its fandom special.",
+  "type": "article",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Guide"
+  ],
+  "date": "2026-09-19",
+  "popularity": 70,
+  "featured": true,
+  "img": "https://picsum.photos/seed/movies-art-1/500/300"
+ },
+ {
+  "id": "movies-art-2",
+  "title": "Why Midnight Cartographer Is Trending Now",
+  "description": "An editorial look at Midnight Cartographer and what makes its fandom special.",
+  "type": "article",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Guide"
+  ],
+  "date": "2026-06-23",
+  "popularity": 72,
+  "featured": false,
+  "img": "https://picsum.photos/seed/movies-art-2/500/300"
+ },
+ {
+  "id": "movies-art-3",
+  "title": "Behind the Scenes of Iron Lantern",
+  "description": "An editorial look at Iron Lantern and what makes its fandom special.",
+  "type": "article",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Guide"
+  ],
+  "date": "2026-08-19",
+  "popularity": 79,
+  "featured": false,
+  "img": "https://picsum.photos/seed/movies-art-3/500/300"
+ },
+ {
+  "id": "movies-trl-1",
+  "title": "The Glass Horizon \u2014 Official Trailer",
+  "description": "Watch the trailer for The Glass Horizon. 2:10 min.",
+  "type": "trailer",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Video"
+  ],
+  "date": "2026-02-27",
+  "popularity": 55,
+  "featured": false,
+  "status": "UPCOMING",
+  "img": "https://picsum.photos/seed/movies-trl-1/500/300"
+ },
+ {
+  "id": "movies-trl-2",
+  "title": "Midnight Cartographer \u2014 Official Trailer",
+  "description": "Watch the trailer for Midnight Cartographer. 2:23 min.",
+  "type": "trailer",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Video"
+  ],
+  "date": "2026-05-16",
+  "popularity": 94,
+  "featured": false,
+  "status": "RECENTLY RELEASED",
+  "img": "https://picsum.photos/seed/movies-trl-2/500/300"
+ }
+]

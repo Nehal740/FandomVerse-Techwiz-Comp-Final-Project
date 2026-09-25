@@ -1,0 +1,130 @@
+[
+ {
+  "keys": [
+   "anime",
+   "anime"
+  ],
+  "reply": "Absolutely. Let's enter the Anime Universe.",
+  "href": "#/cat/anime",
+  "label": "Explore Anime"
+ },
+ {
+  "keys": [
+   "gaming",
+   "gaming"
+  ],
+  "reply": "Absolutely. Let's enter the Gaming Universe.",
+  "href": "#/cat/gaming",
+  "label": "Explore Gaming"
+ },
+ {
+  "keys": [
+   "movies",
+   "movies",
+   "movie",
+   "film"
+  ],
+  "reply": "Absolutely. Let's enter the Movies Universe.",
+  "href": "#/cat/movies",
+  "label": "Explore Movies"
+ },
+ {
+  "keys": [
+   "tv shows",
+   "tvshows",
+   "tv",
+   "television"
+  ],
+  "reply": "Absolutely. Let's enter the TV Shows Universe.",
+  "href": "#/cat/tvshows",
+  "label": "Explore TV Shows"
+ },
+ {
+  "keys": [
+   "k-pop",
+   "kpop",
+   "kpop",
+   "idol"
+  ],
+  "reply": "Absolutely. Let's enter the K-Pop Universe.",
+  "href": "#/cat/kpop",
+  "label": "Explore K-Pop"
+ },
+ {
+  "keys": [
+   "comics",
+   "comics"
+  ],
+  "reply": "Absolutely. Let's enter the Comics Universe.",
+  "href": "#/cat/comics",
+  "label": "Explore Comics"
+ },
+ {
+  "keys": [
+   "manga",
+   "manga"
+  ],
+  "reply": "Absolutely. Let's enter the Manga Universe.",
+  "href": "#/cat/manga",
+  "label": "Explore Manga"
+ },
+ {
+  "keys": [
+   "trending",
+   "popular"
+  ],
+  "reply": "Here's what fans are watching right now.",
+  "href": "#/search",
+  "label": "See Trending"
+ },
+ {
+  "keys": [
+   "event",
+   "coming"
+  ],
+  "reply": "Fan summits and premieres are listed under each category hub.",
+  "href": "#/search",
+  "label": "Find Events"
+ },
+ {
+  "keys": [
+   "merch",
+   "shop",
+   "buy"
+  ],
+  "reply": "Browse merchandise and add items to the demo cart. No purchases are possible.",
+  "href": "#/cart",
+  "label": "Open Cart"
+ },
+ {
+  "keys": [
+   "bookmark",
+   "save"
+  ],
+  "reply": "Tap the \u2606 on any card to save it. Bookmarks persist in your browser and can be exported as JSON.",
+  "href": "#/bookmarks",
+  "label": "Open Vault"
+ },
+ {
+  "keys": [
+   "cart"
+  ],
+  "reply": "The cart is a frontend-only demo.",
+  "href": "#/cart",
+  "label": "Open Cart"
+ },
+ {
+  "keys": [
+   "hello",
+   "hi ",
+   "hey"
+  ],
+  "reply": "Hey explorer! Ask about trending content, categories, events or merch."
+ },
+ {
+  "keys": [],
+  "reply": "I didn't catch that. Try: trending, anime, events, merchandise or bookmarks.",
+  "href": "#/search",
+  "label": "Search Instead"
+ }
+]

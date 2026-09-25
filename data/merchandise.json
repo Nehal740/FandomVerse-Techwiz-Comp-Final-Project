@@ -1,0 +1,338 @@
+[
+ {
+  "id": "anime-mrc-1",
+  "title": "Skyblade Requiem T-Shirt",
+  "description": "Official-style t-shirt inspired by Skyblade Requiem (demo product).",
+  "type": "merchandise",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Merch"
+  ],
+  "date": "2026-03-18",
+  "popularity": 47,
+  "featured": false,
+  "price": 24,
+  "img": "assets/images/Skyblade_Requiem_T-Shirt.png"
+ },
+ {
+  "id": "anime-mrc-2",
+  "title": "Neon Shrine Collector Figure",
+  "description": "Official-style collector figure inspired by Neon Shrine (demo product).",
+  "type": "merchandise",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Merch"
+  ],
+  "date": "2026-05-18",
+  "popularity": 92,
+  "featured": false,
+  "price": 60,
+  "img": "assets/images/Neon_Shrine_Collector_Figure.jpg"
+ },
+ {
+  "id": "anime-mrc-3",
+  "title": "Starforged Academy Art Poster",
+  "description": "Official-style art poster inspired by Starforged Academy (demo product).",
+  "type": "merchandise",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Merch"
+  ],
+  "date": "2026-03-04",
+  "popularity": 77,
+  "featured": false,
+  "price": 17,
+  "img": "assets/images/Starforged_Academy_Art_Poster.jpg"
+ },
+ {
+  "id": "gaming-mrc-1",
+  "title": "Voidrunner T-Shirt",
+  "description": "Official-style t-shirt inspired by Voidrunner (demo product).",
+  "type": "merchandise",
+  "category": "Gaming",
+  "tags": [
+   "Gaming",
+   "Merch"
+  ],
+  "date": "2026-03-25",
+  "popularity": 61,
+  "featured": false,
+  "price": 24,
+  "img": "https://picsum.photos/seed/gaming-mrc-1/500/300"
+ },
+ {
+  "id": "gaming-mrc-2",
+  "title": "Ember Realms Collector Figure",
+  "description": "Official-style collector figure inspired by Ember Realms (demo product).",
+  "type": "merchandise",
+  "category": "Gaming",
+  "tags": [
+   "Gaming",
+   "Merch"
+  ],
+  "date": "2026-03-16",
+  "popularity": 66,
+  "featured": false,
+  "price": 60,
+  "img": "https://picsum.photos/seed/gaming-mrc-2/500/300"
+ },
+ {
+  "id": "gaming-mrc-3",
+  "title": "Circuit Kingdoms Art Poster",
+  "description": "Official-style art poster inspired by Circuit Kingdoms (demo product).",
+  "type": "merchandise",
+  "category": "Gaming",
+  "tags": [
+   "Gaming",
+   "Merch"
+  ],
+  "date": "2026-01-22",
+  "popularity": 44,
+  "featured": false,
+  "price": 17,
+  "img": "https://picsum.photos/seed/gaming-mrc-3/500/300"
+ },
+ {
+  "id": "movies-mrc-1",
+  "title": "The Glass Horizon T-Shirt",
+  "description": "Official-style t-shirt inspired by The Glass Horizon (demo product).",
+  "type": "merchandise",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Merch"
+  ],
+  "date": "2026-04-13",
+  "popularity": 65,
+  "featured": false,
+  "price": 24,
+  "img": "https://picsum.photos/seed/movies-mrc-1/500/300"
+ },
+ {
+  "id": "movies-mrc-2",
+  "title": "Midnight Cartographer Collector Figure",
+  "description": "Official-style collector figure inspired by Midnight Cartographer (demo product).",
+  "type": "merchandise",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Merch"
+  ],
+  "date": "2026-08-03",
+  "popularity": 50,
+  "featured": false,
+  "price": 60,
+  "img": "https://picsum.photos/seed/movies-mrc-2/500/300"
+ },
+ {
+  "id": "movies-mrc-3",
+  "title": "Iron Lantern Art Poster",
+  "description": "Official-style art poster inspired by Iron Lantern (demo product).",
+  "type": "merchandise",
+  "category": "Movies",
+  "tags": [
+   "Movies",
+   "Merch"
+  ],
+  "date": "2026-08-13",
+  "popularity": 75,
+  "featured": false,
+  "price": 17,
+  "img": "https://picsum.photos/seed/movies-mrc-3/500/300"
+ },
+ {
+  "id": "tvshows-mrc-1",
+  "title": "Harbor Nine T-Shirt",
+  "description": "Official-style t-shirt inspired by Harbor Nine (demo product).",
+  "type": "merchandise",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Merch"
+  ],
+  "date": "2026-09-13",
+  "popularity": 65,
+  "featured": false,
+  "price": 24,
+  "img": "https://picsum.photos/seed/tvshows-mrc-1/500/300"
+ },
+ {
+  "id": "tvshows-mrc-2",
+  "title": "The Quiet Syndicate Collector Figure",
+  "description": "Official-style collector figure inspired by The Quiet Syndicate (demo product).",
+  "type": "merchandise",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Merch"
+  ],
+  "date": "2026-07-13",
+  "popularity": 46,
+  "featured": false,
+  "price": 60,
+  "img": "https://picsum.photos/seed/tvshows-mrc-2/500/300"
+ },
+ {
+  "id": "tvshows-mrc-3",
+  "title": "Orbit Street Art Poster",
+  "description": "Official-style art poster inspired by Orbit Street (demo product).",
+  "type": "merchandise",
+  "category": "TV Shows",
+  "tags": [
+   "TV Shows",
+   "Merch"
+  ],
+  "date": "2026-08-21",
+  "popularity": 65,
+  "featured": false,
+  "price": 17,
+  "img": "https://picsum.photos/seed/tvshows-mrc-3/500/300"
+ },
+ {
+  "id": "kpop-mrc-1",
+  "title": "LUMEN-7 T-Shirt",
+  "description": "Official-style t-shirt inspired by LUMEN-7 (demo product).",
+  "type": "merchandise",
+  "category": "K-Pop",
+  "tags": [
+   "K-Pop",
+   "Merch"
+  ],
+  "date": "2026-02-24",
+  "popularity": 61,
+  "featured": false,
+  "price": 24,
+  "img": "https://picsum.photos/seed/kpop-mrc-1/500/300"
+ },
+ {
+  "id": "kpop-mrc-2",
+  "title": "Starfall Seoul Collector Figure",
+  "description": "Official-style collector figure inspired by Starfall Seoul (demo product).",
+  "type": "merchandise",
+  "category": "K-Pop",
+  "tags": [
+   "K-Pop",
+   "Merch"
+  ],
+  "date": "2026-05-16",
+  "popularity": 93,
+  "featured": false,
+  "price": 60,
+  "img": "https://picsum.photos/seed/kpop-mrc-2/500/300"
+ },
+ {
+  "id": "kpop-mrc-3",
+  "title": "Velvet Circuit Art Poster",
+  "description": "Official-style art poster inspired by Velvet Circuit (demo product).",
+  "type": "merchandise",
+  "category": "K-Pop",
+  "tags": [
+   "K-Pop",
+   "Merch"
+  ],
+  "date": "2026-03-17",
+  "popularity": 41,
+  "featured": false,
+  "price": 17,
+  "img": "https://picsum.photos/seed/kpop-mrc-3/500/300"
+ },
+ {
+  "id": "comics-mrc-1",
+  "title": "Captain Meridian T-Shirt",
+  "description": "Official-style t-shirt inspired by Captain Meridian (demo product).",
+  "type": "merchandise",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Merch"
+  ],
+  "date": "2026-01-01",
+  "popularity": 90,
+  "featured": false,
+  "price": 24,
+  "img": "https://picsum.photos/seed/comics-mrc-1/500/300"
+ },
+ {
+  "id": "comics-mrc-2",
+  "title": "Shadowline Collector Figure",
+  "description": "Official-style collector figure inspired by Shadowline (demo product).",
+  "type": "merchandise",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Merch"
+  ],
+  "date": "2026-05-16",
+  "popularity": 56,
+  "featured": false,
+  "price": 60,
+  "img": "https://picsum.photos/seed/comics-mrc-2/500/300"
+ },
+ {
+  "id": "comics-mrc-3",
+  "title": "Ironwood Saga Art Poster",
+  "description": "Official-style art poster inspired by Ironwood Saga (demo product).",
+  "type": "merchandise",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Merch"
+  ],
+  "date": "2026-04-23",
+  "popularity": 78,
+  "featured": false,
+  "price": 17,
+  "img": "https://picsum.photos/seed/comics-mrc-3/500/300"
+ },
+ {
+  "id": "manga-mrc-1",
+  "title": "Crimson Kalpa T-Shirt",
+  "description": "Official-style t-shirt inspired by Crimson Kalpa (demo product).",
+  "type": "merchandise",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Merch"
+  ],
+  "date": "2026-02-24",
+  "popularity": 50,
+  "featured": false,
+  "price": 24,
+  "img": "https://picsum.photos/seed/manga-mrc-1/500/300"
+ },
+ {
+  "id": "manga-mrc-2",
+  "title": "Moonlit Ronin Collector Figure",
+  "description": "Official-style collector figure inspired by Moonlit Ronin (demo product).",
+  "type": "merchandise",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Merch"
+  ],
+  "date": "2026-03-05",
+  "popularity": 41,
+  "featured": false,
+  "price": 60,
+  "img": "https://picsum.photos/seed/manga-mrc-2/500/300"
+ },
+ {
+  "id": "manga-mrc-3",
+  "title": "Ink & Ember Art Poster",
+  "description": "Official-style art poster inspired by Ink & Ember (demo product).",
+  "type": "merchandise",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Merch"
+  ],
+  "date": "2026-03-19",
+  "popularity": 69,
+  "featured": false,
+  "price": 17,
+  "img": "https://picsum.photos/seed/manga-mrc-3/500/300"
+ }
+]

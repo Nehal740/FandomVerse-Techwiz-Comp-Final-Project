@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FandomVerse — Enter Your Fandom</title>
+<meta name="description" content="FandomVerse: one portal for anime, gaming, movies, TV shows, K-Pop, comics and manga.">
+<meta property="og:title" content="FandomVerse — Portal for the Fandom World">
+<meta property="og:description" content="One Universe. Every Fandom.">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+<link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+<!-- =====================================================
+     NAVBAR / HEADER
+     Links are generated in js/app.js (buildNav)
+     ===================================================== -->
+<header id="nav" class="nav">
+  <div class="container nav-in">
+    <a href="#/" class="logo">FANDOM<span>VERSE</span></a>
+    <nav id="menu" class="menu" aria-label="Main"></nav>
+    <div class="tools">
+      <a href="#/search" aria-label="Search">🔍</a>
+      <a href="#/bookmarks" aria-label="Bookmarks">🔖<b id="bm-count">0</b></a>
+      <a href="#/cart" aria-label="Cart">🛒<b id="cart-count">0</b></a>
+      <button id="login-btn" class="btn sm">Login / Sign Up</button>
+      <button id="burger" class="burger" aria-label="Toggle menu" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+  <div class="container strip"><span id="clock"></span><span>FANDOM EXPLORERS ONLINE <b id="visitors"></b> <small>(simulated)</small></span></div>
+</header>
+
+<!-- MAIN MOUNT POINT: all views render here -->
+<main id="app" tabindex="-1"></main>
+
+<!-- =====================================================
+     FOOTER
+     ===================================================== -->
+<footer class="footer">
+  <div class="container fgrid">
+    <div><div class="logo">FANDOM<span>VERSE</span></div><p class="muted">One Universe. Every Fandom.</p></div>
+    <div><h2>Explore</h2><a href="#/">Home</a><a href="#/search">Search</a><a href="#/bookmarks">Bookmarks</a><a href="#/cart">Cart</a></div>
+    <div><h2>Categories</h2><span id="f-cats"></span></div>
+    <div><h2>Community</h2><a href="#/about">About</a><a href="#/contact">Contact</a><span class="muted">𝕏 • Discord • YouTube</span></div>
+  </div>
+  <p class="container muted fbot">© 2026 FandomVerse. Academic Project. • Built with HTML • CSS • JavaScript</p>
+</footer>
+
+<!-- CHATBOT (scripted, no external API) -->
+<button id="bot-btn" class="bot-btn" aria-label="Open Fandom Guide chatbot" aria-expanded="false">✦</button>
+<section id="bot" class="bot" aria-label="Fandom Guide chatbot" aria-hidden="true">
+  <header><div><b>FANDOM GUIDE</b><small>Ask me about FandomVerse.</small></div><button id="bot-x" aria-label="Close chat">✕</button></header>
+  <div id="bot-log" class="log" aria-live="polite"></div>
+  <div id="bot-tips" class="tips"></div>
+  <form id="bot-form"><input id="bot-in" aria-label="Message" placeholder="Type a message…" autocomplete="off"><button class="btn sm">Send</button></form>
+</section>
+
+<!-- LOGIN / SIGNUP MODAL (UI only) -->
+<dialog id="auth" class="auth" aria-labelledby="auth-title">
+  <form id="auth-form">
+    <h2 id="auth-title">LOGIN</h2>
+    <label id="name-row" hidden>Name<input name="name" autocomplete="name"></label>
+    <label>Email<input type="email" name="email" required autocomplete="email"></label>
+    <label>Password<input type="password" name="pw" required autocomplete="current-password"></label>
+    <button class="btn">Continue</button>
+    <button type="button" id="auth-switch" class="link">Need an account? Sign up</button>
+    <button type="button" id="auth-x" class="link">Close</button>
+    <p class="muted"><small>Demo interface — authentication is not connected.</small></p>
+  </form>
+</dialog>
+<div id="toasts" class="toasts" aria-live="polite"></div>
+
+<script src="js/data.js" defer></script>
+<script src="js/search.js" defer></script>
+<script src="js/filters.js" defer></script>
+<script src="js/bookmarks.js" defer></script>
+<script src="js/cart.js" defer></script>
+<script src="js/chatbot.js" defer></script>
+<script src="js/visitor-counter.js" defer></script>
+<script src="js/clock.js" defer></script>
+<script src="js/app.js" defer></script>
+</body>
+</html>
