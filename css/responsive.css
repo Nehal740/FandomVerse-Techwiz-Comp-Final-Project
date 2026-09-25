@@ -1,0 +1,14 @@
+/* ===== 21. RESPONSIVE RULES ===== */
+/* RESPONSIVE MOBILE NAVIGATION — breakpoint and menu behaviour */
+@media (max-width:1000px){
+  .burger{display:block}
+  .menu{position:absolute;top:100%;left:0;right:0;flex-direction:column;gap:0;background:rgba(7,10,19,.97);padding:.5rem 4%;max-height:0;overflow:hidden;visibility:hidden;transition:.3s}
+  .menu.open{max-height:80vh;visibility:visible}.menu a{padding:.8rem 0}
+  .nav.menu-open .burger i:nth-child(1){transform:translateY(8px) rotate(45deg)}.nav.menu-open .burger i:nth-child(2){opacity:0}.nav.menu-open .burger i:nth-child(3){transform:translateY(-8px) rotate(-45deg)}
+  .tools{margin-left:auto}#login-btn{display:none}
+  .hero{grid-template-columns:1fr}.stack{height:300px}.fgrid{grid-template-columns:1fr 1fr}
+}
+@media (max-width:640px){
+  #trending{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:.6rem}#trending>*{flex:0 0 78%;scroll-snap-align:start}
+  .stack{display:none}.fgrid{grid-template-columns:1fr}.strip{font-size:.62rem}.filters select{flex:1}
+}

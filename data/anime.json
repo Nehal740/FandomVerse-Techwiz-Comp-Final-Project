@@ -1,0 +1,79 @@
+[
+ {
+  "id": "anime-art-1",
+  "title": "Skyblade Requiem: A Beginner's Guide",
+  "description": "An editorial look at Skyblade Requiem and what makes its fandom special.",
+  "type": "article",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Guide"
+  ],
+  "date": "2026-06-05",
+  "popularity": 75,
+  "featured": true,
+  "img": "https://picsum.photos/seed/anime-art-1/500/300"
+ },
+ {
+  "id": "anime-art-2",
+  "title": "Why Neon Shrine Is Trending Now",
+  "description": "An editorial look at Neon Shrine and what makes its fandom special.",
+  "type": "article",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Guide"
+  ],
+  "date": "2026-01-03",
+  "popularity": 84,
+  "featured": false,
+  "img": "https://picsum.photos/seed/anime-art-2/500/300"
+ },
+ {
+  "id": "anime-art-3",
+  "title": "Behind the Scenes of Starforged Academy",
+  "description": "An editorial look at Starforged Academy and what makes its fandom special.",
+  "type": "article",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Guide"
+  ],
+  "date": "2026-02-12",
+  "popularity": 87,
+  "featured": false,
+  "img": "https://picsum.photos/seed/anime-art-3/500/300"
+ },
+ {
+  "id": "anime-trl-1",
+  "title": "Skyblade Requiem \u2014 Official Trailer",
+  "description": "Watch the trailer for Skyblade Requiem. 2:10 min.",
+  "type": "trailer",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Video"
+  ],
+  "date": "2026-01-17",
+  "popularity": 63,
+  "featured": false,
+  "status": "UPCOMING",
+  "img": "https://picsum.photos/seed/anime-trl-1/500/300"
+ },
+ {
+  "id": "anime-trl-2",
+  "title": "Neon Shrine \u2014 Official Trailer",
+  "description": "Watch the trailer for Neon Shrine. 2:23 min.",
+  "type": "trailer",
+  "category": "Anime",
+  "tags": [
+   "Anime",
+   "Video"
+  ],
+  "date": "2026-01-03",
+  "popularity": 77,
+  "featured": false,
+  "status": "RECENTLY RELEASED",
+  "img": "https://picsum.photos/seed/anime-trl-2/500/300"
+ }
+]

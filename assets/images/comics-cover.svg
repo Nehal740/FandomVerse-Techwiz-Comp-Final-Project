@@ -1,0 +1,67 @@
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#1b0f3a"/>
+    <stop offset="55%" stop-color="#0D1220"/>
+    <stop offset="100%" stop-color="#07040f"/>
+  </linearGradient>
+  <radialGradient id="burstGrad" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="#FF3CAC"/>
+    <stop offset="100%" stop-color="#8B5CF6"/>
+  </radialGradient>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+    <circle cx="8" cy="8" r="3" fill="#F8FAFC" opacity=".12"/>
+  </pattern>
+  <linearGradient id="panelA" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity=".35"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity=".05"/>
+  </linearGradient>
+  <linearGradient id="panelB" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0%" stop-color="#FF3CAC" stop-opacity=".35"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity=".05"/>
+  </linearGradient>
+</defs>
+
+<rect width="900" height="600" fill="url(#bg)"/>
+<rect width="900" height="600" fill="url(#dots)"/>
+
+<!-- comic panel grid, abstract only -->
+<g stroke="#F8FAFC" stroke-width="6" stroke-opacity=".85" fill="none">
+  <rect x="30" y="30" width="380" height="230" fill="url(#panelA)"/>
+  <rect x="430" y="30" width="440" height="140" fill="url(#panelB)"/>
+  <rect x="430" y="190" width="440" height="70" fill="url(#panelA)"/>
+  <rect x="30" y="280" width="230" height="290" fill="url(#panelB)"/>
+  <rect x="280" y="280" width="290" height="290" fill="url(#panelA)"/>
+  <rect x="590" y="280" width="280" height="290" fill="url(#panelB)"/>
+</g>
+
+<!-- generic starburst impact shape (no text) -->
+<g transform="translate(200,150)">
+  <path fill="url(#burstGrad)" stroke="#F8FAFC" stroke-width="5" d="
+    M0,-90 L20,-25 L88,-52 L38,0 L88,52 L20,25 L0,90 L-20,25 L-88,52 L-38,0 L-88,-52 L-20,-25 Z"/>
+</g>
+
+<!-- generic speech bubble, empty -->
+<g transform="translate(680,100)">
+  <ellipse cx="0" cy="0" rx="140" ry="72" fill="#F8FAFC" stroke="#8B5CF6" stroke-width="6"/>
+  <path d="M-60,55 L-95,110 L-15,62 Z" fill="#F8FAFC" stroke="#8B5CF6" stroke-width="6" stroke-linejoin="round"/>
+</g>
+
+<!-- generic silhouette: caped figure, no identifying features -->
+<g transform="translate(160,470)" fill="#070A13">
+  <path d="M0,-120 C34,-120 55,-96 55,-64 L55,-10 C90,10 110,55 100,110 L-100,110 C-110,55 -90,10 -55,-10 L-55,-64 C-55,-96 -34,-120 0,-120 Z"/>
+  <path d="M-55,-40 C-110,-10 -130,60 -90,120 L-70,100 C-95,55 -85,5 -45,-20 Z" fill="#FF3CAC" opacity=".9"/>
+  <path d="M55,-40 C110,-10 130,60 90,120 L70,100 C95,55 85,5 45,-20 Z" fill="#00E5FF" opacity=".9"/>
+</g>
+
+<!-- action lines -->
+<g stroke="#F8FAFC" stroke-width="4" stroke-linecap="round" opacity=".5">
+  <line x1="470" y1="330" x2="560" y2="330"/>
+  <line x1="470" y1="360" x2="540" y2="360"/>
+  <line x1="470" y1="390" x2="570" y2="390"/>
+  <line x1="470" y1="420" x2="530" y2="420"/>
+</g>
+
+<circle cx="770" cy="470" r="70" fill="url(#burstGrad)" opacity=".85"/>
+<circle cx="770" cy="470" r="70" fill="none" stroke="#F8FAFC" stroke-width="5"/>
+</svg>

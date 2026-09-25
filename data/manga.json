@@ -1,0 +1,79 @@
+[
+ {
+  "id": "manga-art-1",
+  "title": "Crimson Kalpa: A Beginner's Guide",
+  "description": "An editorial look at Crimson Kalpa and what makes its fandom special.",
+  "type": "article",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Guide"
+  ],
+  "date": "2026-06-15",
+  "popularity": 96,
+  "featured": true,
+  "img": "https://picsum.photos/seed/manga-art-1/500/300"
+ },
+ {
+  "id": "manga-art-2",
+  "title": "Why Moonlit Ronin Is Trending Now",
+  "description": "An editorial look at Moonlit Ronin and what makes its fandom special.",
+  "type": "article",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Guide"
+  ],
+  "date": "2026-06-12",
+  "popularity": 55,
+  "featured": false,
+  "img": "https://picsum.photos/seed/manga-art-2/500/300"
+ },
+ {
+  "id": "manga-art-3",
+  "title": "Behind the Scenes of Ink & Ember",
+  "description": "An editorial look at Ink & Ember and what makes its fandom special.",
+  "type": "article",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Guide"
+  ],
+  "date": "2026-04-04",
+  "popularity": 64,
+  "featured": false,
+  "img": "https://picsum.photos/seed/manga-art-3/500/300"
+ },
+ {
+  "id": "manga-trl-1",
+  "title": "Crimson Kalpa \u2014 Official Trailer",
+  "description": "Watch the trailer for Crimson Kalpa. 2:10 min.",
+  "type": "trailer",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Video"
+  ],
+  "date": "2026-08-07",
+  "popularity": 71,
+  "featured": false,
+  "status": "UPCOMING",
+  "img": "https://picsum.photos/seed/manga-trl-1/500/300"
+ },
+ {
+  "id": "manga-trl-2",
+  "title": "Moonlit Ronin \u2014 Official Trailer",
+  "description": "Watch the trailer for Moonlit Ronin. 2:23 min.",
+  "type": "trailer",
+  "category": "Manga",
+  "tags": [
+   "Manga",
+   "Video"
+  ],
+  "date": "2026-04-16",
+  "popularity": 89,
+  "featured": false,
+  "status": "RECENTLY RELEASED",
+  "img": "https://picsum.photos/seed/manga-trl-2/500/300"
+ }
+]

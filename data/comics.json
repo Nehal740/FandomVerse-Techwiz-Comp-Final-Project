@@ -1,0 +1,79 @@
+[
+ {
+  "id": "comics-art-1",
+  "title": "Captain Meridian: A Beginner's Guide",
+  "description": "An editorial look at Captain Meridian and what makes its fandom special.",
+  "type": "article",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Guide"
+  ],
+  "date": "2026-04-17",
+  "popularity": 73,
+  "featured": true,
+  "img": "https://picsum.photos/seed/comics-art-1/500/300"
+ },
+ {
+  "id": "comics-art-2",
+  "title": "Why Shadowline Is Trending Now",
+  "description": "An editorial look at Shadowline and what makes its fandom special.",
+  "type": "article",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Guide"
+  ],
+  "date": "2026-03-23",
+  "popularity": 84,
+  "featured": false,
+  "img": "https://picsum.photos/seed/comics-art-2/500/300"
+ },
+ {
+  "id": "comics-art-3",
+  "title": "Behind the Scenes of Ironwood Saga",
+  "description": "An editorial look at Ironwood Saga and what makes its fandom special.",
+  "type": "article",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Guide"
+  ],
+  "date": "2026-01-25",
+  "popularity": 83,
+  "featured": false,
+  "img": "https://picsum.photos/seed/comics-art-3/500/300"
+ },
+ {
+  "id": "comics-trl-1",
+  "title": "Captain Meridian \u2014 Official Trailer",
+  "description": "Watch the trailer for Captain Meridian. 2:10 min.",
+  "type": "trailer",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Video"
+  ],
+  "date": "2026-05-21",
+  "popularity": 55,
+  "featured": false,
+  "status": "UPCOMING",
+  "img": "https://picsum.photos/seed/comics-trl-1/500/300"
+ },
+ {
+  "id": "comics-trl-2",
+  "title": "Shadowline \u2014 Official Trailer",
+  "description": "Watch the trailer for Shadowline. 2:23 min.",
+  "type": "trailer",
+  "category": "Comics",
+  "tags": [
+   "Comics",
+   "Video"
+  ],
+  "date": "2026-05-17",
+  "popularity": 73,
+  "featured": false,
+  "status": "RECENTLY RELEASED",
+  "img": "https://picsum.photos/seed/comics-trl-2/500/300"
+ }
+]
