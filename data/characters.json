@@ -2,7 +2,7 @@
  {
   "id": "anime-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of Skyblade Requiem.",
+  "description": "Kaito Voss — Brave, Loyal lead of Skyblade Requiem.",
   "type": "character",
   "category": "Anime",
   "tags": [
@@ -12,12 +12,12 @@
   "date": "2026-07-03",
   "popularity": 65,
   "featured": true,
-  "img": "https://picsum.photos/seed/anime-chr-1/500/300"
+  "img": "assets/images/Kaito_Voss.jpg"
  },
  {
   "id": "anime-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of Neon Shrine.",
+  "description": "Mira Solen — Cunning, Calm lead of Neon Shrine.",
   "type": "character",
   "category": "Anime",
   "tags": [
@@ -27,12 +27,12 @@
   "date": "2026-02-18",
   "popularity": 77,
   "featured": false,
-  "img": "https://picsum.photos/seed/anime-chr-2/500/300"
+  "img": "assets/images/Mira_Solen.jpg"
  },
  {
   "id": "anime-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Starforged Academy.",
+  "description": "Ren Ashford — Fierce, Curious lead of Starforged Academy.",
   "type": "character",
   "category": "Anime",
   "tags": [
@@ -42,12 +42,12 @@
   "date": "2026-01-27",
   "popularity": 86,
   "featured": false,
-  "img": "https://picsum.photos/seed/anime-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford.jpg"
  },
  {
   "id": "anime-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of Ashen Kitsune.",
+  "description": "Yuna Kade — Gentle, Strategic lead of Ashen Kitsune.",
   "type": "character",
   "category": "Anime",
   "tags": [
@@ -57,12 +57,12 @@
   "date": "2026-02-08",
   "popularity": 90,
   "featured": false,
-  "img": "https://picsum.photos/seed/anime-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade.jpg"
  },
  {
   "id": "anime-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Tidebreaker.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Tidebreaker.",
   "type": "character",
   "category": "Anime",
   "tags": [
@@ -72,12 +72,12 @@
   "date": "2026-01-19",
   "popularity": 87,
   "featured": false,
-  "img": "https://picsum.photos/seed/anime-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu.jpg"
  },
  {
   "id": "gaming-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of Voidrunner.",
+  "description": "Kaito Voss — Brave, Loyal lead of Voidrunner.",
   "type": "character",
   "category": "Gaming",
   "tags": [
@@ -92,7 +92,7 @@
  {
   "id": "gaming-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of Ember Realms.",
+  "description": "Mira Solen — Cunning, Calm lead of Ember Realms.",
   "type": "character",
   "category": "Gaming",
   "tags": [
@@ -107,7 +107,7 @@
  {
   "id": "gaming-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Circuit Kingdoms.",
+  "description": "Ren Ashford — Fierce, Curious lead of Circuit Kingdoms.",
   "type": "character",
   "category": "Gaming",
   "tags": [
@@ -122,7 +122,7 @@
  {
   "id": "gaming-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of Last Signal.",
+  "description": "Yuna Kade — Gentle, Strategic lead of Last Signal.",
   "type": "character",
   "category": "Gaming",
   "tags": [
@@ -137,7 +137,7 @@
  {
   "id": "gaming-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Hollow Frontier.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Hollow Frontier.",
   "type": "character",
   "category": "Gaming",
   "tags": [
@@ -152,7 +152,7 @@
  {
   "id": "movies-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of The Glass Horizon.",
+  "description": "Kaito Voss — Brave, Loyal lead of The Glass Horizon.",
   "type": "character",
   "category": "Movies",
   "tags": [
@@ -167,7 +167,7 @@
  {
   "id": "movies-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of Midnight Cartographer.",
+  "description": "Mira Solen — Cunning, Calm lead of Midnight Cartographer.",
   "type": "character",
   "category": "Movies",
   "tags": [
@@ -182,7 +182,7 @@
  {
   "id": "movies-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Iron Lantern.",
+  "description": "Ren Ashford — Fierce, Curious lead of Iron Lantern.",
   "type": "character",
   "category": "Movies",
   "tags": [
@@ -197,7 +197,7 @@
  {
   "id": "movies-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of Echoes of Tomorrow.",
+  "description": "Yuna Kade — Gentle, Strategic lead of Echoes of Tomorrow.",
   "type": "character",
   "category": "Movies",
   "tags": [
@@ -212,7 +212,7 @@
  {
   "id": "movies-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Paper Moons.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Paper Moons.",
   "type": "character",
   "category": "Movies",
   "tags": [
@@ -227,7 +227,7 @@
  {
   "id": "tvshows-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of Harbor Nine.",
+  "description": "Kaito Voss — Brave, Loyal lead of Harbor Nine.",
   "type": "character",
   "category": "TV Shows",
   "tags": [
@@ -242,7 +242,7 @@
  {
   "id": "tvshows-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of The Quiet Syndicate.",
+  "description": "Mira Solen — Cunning, Calm lead of The Quiet Syndicate.",
   "type": "character",
   "category": "TV Shows",
   "tags": [
@@ -257,7 +257,7 @@
  {
   "id": "tvshows-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Orbit Street.",
+  "description": "Ren Ashford — Fierce, Curious lead of Orbit Street.",
   "type": "character",
   "category": "TV Shows",
   "tags": [
@@ -272,7 +272,7 @@
  {
   "id": "tvshows-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of Nightshift Manor.",
+  "description": "Yuna Kade — Gentle, Strategic lead of Nightshift Manor.",
   "type": "character",
   "category": "TV Shows",
   "tags": [
@@ -287,7 +287,7 @@
  {
   "id": "tvshows-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Riverlight.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Riverlight.",
   "type": "character",
   "category": "TV Shows",
   "tags": [
@@ -302,7 +302,7 @@
  {
   "id": "kpop-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of LUMEN-7.",
+  "description": "Kaito Voss — Brave, Loyal lead of LUMEN-7.",
   "type": "character",
   "category": "K-Pop",
   "tags": [
@@ -317,7 +317,7 @@
  {
   "id": "kpop-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of Starfall Seoul.",
+  "description": "Mira Solen — Cunning, Calm lead of Starfall Seoul.",
   "type": "character",
   "category": "K-Pop",
   "tags": [
@@ -332,7 +332,7 @@
  {
   "id": "kpop-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Velvet Circuit.",
+  "description": "Ren Ashford — Fierce, Curious lead of Velvet Circuit.",
   "type": "character",
   "category": "K-Pop",
   "tags": [
@@ -347,7 +347,7 @@
  {
   "id": "kpop-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of NOVA Crown.",
+  "description": "Yuna Kade — Gentle, Strategic lead of NOVA Crown.",
   "type": "character",
   "category": "K-Pop",
   "tags": [
@@ -362,7 +362,7 @@
  {
   "id": "kpop-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Pastel Riot.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Pastel Riot.",
   "type": "character",
   "category": "K-Pop",
   "tags": [
@@ -377,7 +377,7 @@
  {
   "id": "comics-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of Captain Meridian.",
+  "description": "Kaito Voss — Brave, Loyal lead of Captain Meridian.",
   "type": "character",
   "category": "Comics",
   "tags": [
@@ -392,7 +392,7 @@
  {
   "id": "comics-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of Shadowline.",
+  "description": "Mira Solen — Cunning, Calm lead of Shadowline.",
   "type": "character",
   "category": "Comics",
   "tags": [
@@ -407,7 +407,7 @@
  {
   "id": "comics-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Ironwood Saga.",
+  "description": "Ren Ashford — Fierce, Curious lead of Ironwood Saga.",
   "type": "character",
   "category": "Comics",
   "tags": [
@@ -422,7 +422,7 @@
  {
   "id": "comics-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of Nightglass.",
+  "description": "Yuna Kade — Gentle, Strategic lead of Nightglass.",
   "type": "character",
   "category": "Comics",
   "tags": [
@@ -437,7 +437,7 @@
  {
   "id": "comics-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Solar Sentinels.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Solar Sentinels.",
   "type": "character",
   "category": "Comics",
   "tags": [
@@ -452,7 +452,7 @@
  {
   "id": "manga-chr-1",
   "title": "Kaito Voss",
-  "description": "Kaito Voss \u2014 Brave, Loyal lead of Crimson Kalpa.",
+  "description": "Kaito Voss — Brave, Loyal lead of Crimson Kalpa.",
   "type": "character",
   "category": "Manga",
   "tags": [
@@ -467,7 +467,7 @@
  {
   "id": "manga-chr-2",
   "title": "Mira Solen",
-  "description": "Mira Solen \u2014 Cunning, Calm lead of Moonlit Ronin.",
+  "description": "Mira Solen — Cunning, Calm lead of Moonlit Ronin.",
   "type": "character",
   "category": "Manga",
   "tags": [
@@ -482,7 +482,7 @@
  {
   "id": "manga-chr-3",
   "title": "Ren Ashford",
-  "description": "Ren Ashford \u2014 Fierce, Curious lead of Ink & Ember.",
+  "description": "Ren Ashford — Fierce, Curious lead of Ink & Ember.",
   "type": "character",
   "category": "Manga",
   "tags": [
@@ -497,7 +497,7 @@
  {
   "id": "manga-chr-4",
   "title": "Yuna Kade",
-  "description": "Yuna Kade \u2014 Gentle, Strategic lead of Blade of Dusk.",
+  "description": "Yuna Kade — Gentle, Strategic lead of Blade of Dusk.",
   "type": "character",
   "category": "Manga",
   "tags": [
@@ -512,7 +512,7 @@
  {
   "id": "manga-chr-5",
   "title": "Jax Ryuu",
-  "description": "Jax Ryuu \u2014 Bold, Mysterious lead of Petal Protocol.",
+  "description": "Jax Ryuu — Bold, Mysterious lead of Petal Protocol.",
   "type": "character",
   "category": "Manga",
   "tags": [

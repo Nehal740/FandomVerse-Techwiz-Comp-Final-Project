@@ -2,7 +2,7 @@
  {
   "id": "anime-evt-1",
   "title": "Skyblade Requiem Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating Skyblade Requiem.",
+  "description": "Tokyo • community meetup celebrating Skyblade Requiem.",
   "type": "event",
   "category": "Anime",
   "tags": [
@@ -13,12 +13,12 @@
   "popularity": 54,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/anime-evt-1/500/300"
+  "img": "assets/images/Skyblade_Requiem_Fan_Summit.jpg"
  },
  {
   "id": "anime-evt-2",
   "title": "Neon Shrine Fan Summit",
-  "description": "Online \u2022 community meetup celebrating Neon Shrine.",
+  "description": "Online • community meetup celebrating Neon Shrine.",
   "type": "event",
   "category": "Anime",
   "tags": [
@@ -29,12 +29,12 @@
   "popularity": 94,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/anime-evt-2/500/300"
+  "img": "assets/images/Neon_Shrine_Fan_Summit.jpg"
  },
  {
   "id": "anime-evt-3",
   "title": "Starforged Academy Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Starforged Academy.",
+  "description": "Seoul • community meetup celebrating Starforged Academy.",
   "type": "event",
   "category": "Anime",
   "tags": [
@@ -45,12 +45,12 @@
   "popularity": 66,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/anime-evt-3/500/300"
+  "img": "assets/images/Starforged_Academy_Fan_Summit.jpg"
  },
  {
   "id": "gaming-evt-1",
   "title": "Voidrunner Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating Voidrunner.",
+  "description": "Tokyo • community meetup celebrating Voidrunner.",
   "type": "event",
   "category": "Gaming",
   "tags": [
@@ -66,7 +66,7 @@
  {
   "id": "gaming-evt-2",
   "title": "Ember Realms Fan Summit",
-  "description": "Online \u2022 community meetup celebrating Ember Realms.",
+  "description": "Online • community meetup celebrating Ember Realms.",
   "type": "event",
   "category": "Gaming",
   "tags": [
@@ -82,7 +82,7 @@
  {
   "id": "gaming-evt-3",
   "title": "Circuit Kingdoms Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Circuit Kingdoms.",
+  "description": "Seoul • community meetup celebrating Circuit Kingdoms.",
   "type": "event",
   "category": "Gaming",
   "tags": [
@@ -98,7 +98,7 @@
  {
   "id": "movies-evt-1",
   "title": "The Glass Horizon Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating The Glass Horizon.",
+  "description": "Tokyo • community meetup celebrating The Glass Horizon.",
   "type": "event",
   "category": "Movies",
   "tags": [
@@ -114,7 +114,7 @@
  {
   "id": "movies-evt-2",
   "title": "Midnight Cartographer Fan Summit",
-  "description": "Online \u2022 community meetup celebrating Midnight Cartographer.",
+  "description": "Online • community meetup celebrating Midnight Cartographer.",
   "type": "event",
   "category": "Movies",
   "tags": [
@@ -130,7 +130,7 @@
  {
   "id": "movies-evt-3",
   "title": "Iron Lantern Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Iron Lantern.",
+  "description": "Seoul • community meetup celebrating Iron Lantern.",
   "type": "event",
   "category": "Movies",
   "tags": [
@@ -146,7 +146,7 @@
  {
   "id": "tvshows-evt-1",
   "title": "Harbor Nine Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating Harbor Nine.",
+  "description": "Tokyo • community meetup celebrating Harbor Nine.",
   "type": "event",
   "category": "TV Shows",
   "tags": [
@@ -162,7 +162,7 @@
  {
   "id": "tvshows-evt-2",
   "title": "The Quiet Syndicate Fan Summit",
-  "description": "Online \u2022 community meetup celebrating The Quiet Syndicate.",
+  "description": "Online • community meetup celebrating The Quiet Syndicate.",
   "type": "event",
   "category": "TV Shows",
   "tags": [
@@ -178,7 +178,7 @@
  {
   "id": "tvshows-evt-3",
   "title": "Orbit Street Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Orbit Street.",
+  "description": "Seoul • community meetup celebrating Orbit Street.",
   "type": "event",
   "category": "TV Shows",
   "tags": [
@@ -194,7 +194,7 @@
  {
   "id": "kpop-evt-1",
   "title": "LUMEN-7 Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating LUMEN-7.",
+  "description": "Tokyo • community meetup celebrating LUMEN-7.",
   "type": "event",
   "category": "K-Pop",
   "tags": [
@@ -210,7 +210,7 @@
  {
   "id": "kpop-evt-2",
   "title": "Starfall Seoul Fan Summit",
-  "description": "Online \u2022 community meetup celebrating Starfall Seoul.",
+  "description": "Online • community meetup celebrating Starfall Seoul.",
   "type": "event",
   "category": "K-Pop",
   "tags": [
@@ -226,7 +226,7 @@
  {
   "id": "kpop-evt-3",
   "title": "Velvet Circuit Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Velvet Circuit.",
+  "description": "Seoul • community meetup celebrating Velvet Circuit.",
   "type": "event",
   "category": "K-Pop",
   "tags": [
@@ -242,7 +242,7 @@
  {
   "id": "comics-evt-1",
   "title": "Captain Meridian Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating Captain Meridian.",
+  "description": "Tokyo • community meetup celebrating Captain Meridian.",
   "type": "event",
   "category": "Comics",
   "tags": [
@@ -258,7 +258,7 @@
  {
   "id": "comics-evt-2",
   "title": "Shadowline Fan Summit",
-  "description": "Online \u2022 community meetup celebrating Shadowline.",
+  "description": "Online • community meetup celebrating Shadowline.",
   "type": "event",
   "category": "Comics",
   "tags": [
@@ -274,7 +274,7 @@
  {
   "id": "comics-evt-3",
   "title": "Ironwood Saga Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Ironwood Saga.",
+  "description": "Seoul • community meetup celebrating Ironwood Saga.",
   "type": "event",
   "category": "Comics",
   "tags": [
@@ -290,7 +290,7 @@
  {
   "id": "manga-evt-1",
   "title": "Crimson Kalpa Fan Summit",
-  "description": "Tokyo \u2022 community meetup celebrating Crimson Kalpa.",
+  "description": "Tokyo • community meetup celebrating Crimson Kalpa.",
   "type": "event",
   "category": "Manga",
   "tags": [
@@ -306,7 +306,7 @@
  {
   "id": "manga-evt-2",
   "title": "Moonlit Ronin Fan Summit",
-  "description": "Online \u2022 community meetup celebrating Moonlit Ronin.",
+  "description": "Online • community meetup celebrating Moonlit Ronin.",
   "type": "event",
   "category": "Manga",
   "tags": [
@@ -322,7 +322,7 @@
  {
   "id": "manga-evt-3",
   "title": "Ink & Ember Fan Summit",
-  "description": "Seoul \u2022 community meetup celebrating Ink & Ember.",
+  "description": "Seoul • community meetup celebrating Ink & Ember.",
   "type": "event",
   "category": "Manga",
   "tags": [

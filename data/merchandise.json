@@ -13,7 +13,7 @@
   "popularity": 47,
   "featured": false,
   "price": 24,
-  "img": "https://picsum.photos/seed/anime-mrc-1/500/300"
+  "img": "assets/images/Skyblade_Requiem_T-Shirt.png"
  },
  {
   "id": "anime-mrc-2",
@@ -29,7 +29,7 @@
   "popularity": 92,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/anime-mrc-2/500/300"
+  "img": "assets/images/Neon_Shrine_Collector_Figure.jpg"
  },
  {
   "id": "anime-mrc-3",
@@ -45,7 +45,7 @@
   "popularity": 77,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/anime-mrc-3/500/300"
+  "img": "assets/images/Starforged_Academy_Art_Poster.jpg"
  },
  {
   "id": "gaming-mrc-1",

@@ -12,7 +12,7 @@
   "date": "2026-06-05",
   "popularity": 75,
   "featured": true,
-  "img": "https://picsum.photos/seed/anime-art-1/500/300"
+  "img": "assets/images/Skyblade_Requiem___Official_Trailer.jpg"
  },
  {
   "id": "anime-art-2",
@@ -27,7 +27,7 @@
   "date": "2026-01-03",
   "popularity": 84,
   "featured": false,
-  "img": "https://picsum.photos/seed/anime-art-2/500/300"
+  "img": "assets/images/Why_Neon_Shrine_Is_Trending_Now.jpg"
  },
  {
   "id": "anime-art-3",
@@ -42,11 +42,11 @@
   "date": "2026-02-12",
   "popularity": 87,
   "featured": false,
-  "img": "https://picsum.photos/seed/anime-art-3/500/300"
+  "img": "assets/images/Behind_the_Scenes_of_Starforged_Academy.jpg"
  },
  {
   "id": "anime-trl-1",
-  "title": "Skyblade Requiem \u2014 Official Trailer",
+  "title": "Skyblade Requiem — Official Trailer",
   "description": "Watch the trailer for Skyblade Requiem. 2:10 min.",
   "type": "trailer",
   "category": "Anime",
@@ -58,11 +58,11 @@
   "popularity": 63,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/anime-trl-1/500/300"
+  "img": "assets/images/Skyblade_Requiem___Official_Trailer.jpg"
  },
  {
   "id": "anime-trl-2",
-  "title": "Neon Shrine \u2014 Official Trailer",
+  "title": "Neon Shrine — Official Trailer",
   "description": "Watch the trailer for Neon Shrine. 2:23 min.",
   "type": "trailer",
   "category": "Anime",
@@ -74,6 +74,6 @@
   "popularity": 77,
   "featured": false,
   "status": "RECENTLY RELEASED",
-  "img": "https://picsum.photos/seed/anime-trl-2/500/300"
+  "img": "assets/images/Neon_Shrine___Official_Trailer.jpg"
  }
 ]
