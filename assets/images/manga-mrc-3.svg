@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ink &amp; Ember Art Poster">
+<defs>
+  <linearGradient id="bg-manga-mrc-3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-manga-mrc-3" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff003c" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff003c" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-manga-mrc-3" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-manga-mrc-3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-manga-mrc-3)"/>
+<g><rect x="1.0" y="250.0" width="16.2" height="50" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="1.0" y="246.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="20.2" y="217.0" width="16.2" height="83" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="20.2" y="213.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="39.5" y="203.0" width="16.2" height="97" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="39.5" y="199.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="58.7" y="230.0" width="16.2" height="70" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="58.7" y="226.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="77.9" y="245.0" width="16.2" height="55" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="77.9" y="241.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="97.2" y="166.0" width="16.2" height="134" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="97.2" y="162.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="116.4" y="244.0" width="16.2" height="56" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="116.4" y="240.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="135.6" y="287.0" width="16.2" height="13" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="135.6" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="154.8" y="287.0" width="16.2" height="13" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="154.8" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="174.1" y="168.0" width="16.2" height="132" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="174.1" y="164.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="193.3" y="184.0" width="16.2" height="116" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="193.3" y="180.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="212.5" y="266.0" width="16.2" height="34" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="212.5" y="262.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="231.8" y="274.0" width="16.2" height="26" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="231.8" y="270.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="251.0" y="226.0" width="16.2" height="74" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="251.0" y="222.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="270.2" y="274.0" width="16.2" height="26" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="270.2" y="270.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="289.5" y="279.0" width="16.2" height="21" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="289.5" y="275.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="308.7" y="250.0" width="16.2" height="50" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="308.7" y="246.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="327.9" y="217.0" width="16.2" height="83" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="327.9" y="213.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="347.2" y="203.0" width="16.2" height="97" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="347.2" y="199.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="366.4" y="230.0" width="16.2" height="70" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="366.4" y="226.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="385.6" y="245.0" width="16.2" height="55" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="385.6" y="241.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="404.8" y="166.0" width="16.2" height="134" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="404.8" y="162.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="424.1" y="244.0" width="16.2" height="56" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="424.1" y="240.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="443.3" y="287.0" width="16.2" height="13" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="443.3" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="462.5" y="287.0" width="16.2" height="13" fill="#ff003c" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="462.5" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="481.8" y="168.0" width="16.2" height="132" fill="#00fff2" opacity="0.65" filter="url(#glow-manga-mrc-3)"/><rect x="481.8" y="164.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><line x1="0" y1="299" x2="500" y2="299" stroke="#ff003c" stroke-width="1.5" opacity="0.8"/></g>
+<g><ellipse cx="250" cy="193.1" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M208.4,122.3 C132.9,187.0 162.6,286.0 220.3,292.0 L279.7,292.0 C337.4,286.0 367.1,187.0 291.6,122.3 Z" fill="#00fff2" opacity="0.16"/><path d="M218.3,187.0 L244.0,187.0 L243.7,292.0 L218.0,292.0 Z" fill="#080614" stroke="#ff003c" stroke-width="1.2" opacity="0.92"/><path d="M256.0,187.0 L281.7,187.0 L282.0,292.0 L256.3,292.0 Z" fill="#080614" stroke="#ff003c" stroke-width="1.2" opacity="0.92"/><path d="M200.5,118.3 L299.5,118.3 L280.7,187.0 L219.3,187.0 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.6" opacity="0.95" filter="url(#glow-manga-mrc-3)"/><line x1="250" y1="122.3" x2="250" y2="185.0" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,118.3 L244.0,104.3 L248.0,118.3 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/><path d="M264.0,118.3 L256.0,104.3 L252.0,118.3 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/><line x1="200.5" y1="122.3" x2="204.5" y2="195.0" stroke="#ff003c" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="299.5" y1="122.3" x2="295.5" y2="195.0" stroke="#ff003c" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="111.3" width="10" height="8" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><circle cx="250" cy="94.3" r="21" fill="#0a0818" stroke="#ff003c" stroke-width="1.6" filter="url(#glow-manga-mrc-3)"/><path d="M230.3,82.8 L235.3,67.8 L236.3,82.8 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M236.0,78.2 L234.0,64.2 L242.0,78.2 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M243.2,75.7 L246.2,59.7 L249.2,75.7 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M250.8,75.7 L252.8,62.7 L256.8,75.7 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M258.0,78.2 L262.0,65.2 L264.0,78.2 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M263.7,82.8 L264.7,70.8 L269.7,82.8 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><rect x="234.9" y="92.3" width="30.2" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-manga-mrc-3)"/></g>
+<rect width="500" height="300" fill="url(#scan-manga-mrc-3)"/>
+
+<g stroke="#ff003c" stroke-width="2" fill="none" filter="url(#glow-manga-mrc-3)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff003c">
+  <text x="18" y="22">📖 MANGA</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ff003c" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-manga-mrc-3)"><tspan x="250" dy="0">INK &amp; EMBER ART POSTER</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-manga-mrc-3)"><tspan x="250" dy="0">INK &amp; EMBER ART POSTER</tspan></text>
+</svg>

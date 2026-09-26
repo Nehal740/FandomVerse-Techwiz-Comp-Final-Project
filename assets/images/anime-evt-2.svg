@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon Shrine Fan Summit">
+<defs>
+  <linearGradient id="bg-anime-evt-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-anime-evt-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff2bd6" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff2bd6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-anime-evt-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-anime-evt-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-anime-evt-2)"/>
+<g><rect width="500" height="300" fill="#00fff2" opacity="0.04"/><rect x="-23" y="0.0" width="500" height="13" fill="#ff2bd6" opacity="0.22"/><rect x="0" y="18.8" width="500" height="16" fill="#00fff2" opacity="0.41"/><rect x="24" y="37.5" width="500" height="10" fill="#ff2bd6" opacity="0.25"/><rect x="-8" y="56.2" width="500" height="12" fill="#00fff2" opacity="0.45"/><rect x="-12" y="75.0" width="500" height="16" fill="#ff2bd6" opacity="0.29"/><rect x="-6" y="93.8" width="500" height="14" fill="#00fff2" opacity="0.43"/><rect x="-10" y="112.5" width="500" height="10" fill="#ff2bd6" opacity="0.17"/><rect x="-19" y="131.2" width="500" height="16" fill="#00fff2" opacity="0.19"/><rect x="-23" y="150.0" width="500" height="8" fill="#ff2bd6" opacity="0.33"/><rect x="0" y="168.8" width="500" height="8" fill="#00fff2" opacity="0.37"/><rect x="24" y="187.5" width="500" height="14" fill="#ff2bd6" opacity="0.39"/><rect x="-8" y="206.2" width="500" height="16" fill="#00fff2" opacity="0.41"/><rect x="-12" y="225.0" width="500" height="4" fill="#ff2bd6" opacity="0.35"/><rect x="-6" y="243.8" width="500" height="11" fill="#00fff2" opacity="0.20"/><rect x="-10" y="262.5" width="500" height="15" fill="#ff2bd6" opacity="0.26"/><rect x="-19" y="281.2" width="500" height="10" fill="#00fff2" opacity="0.43"/><rect x="0" y="254" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="72" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="200" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="140" width="500" height="1.5" fill="#ffffff" opacity="0.5"/></g>
+<g><ellipse cx="250" cy="191.8" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M213.0,119.7 C144.8,185.4 171.2,286.0 223.6,292.0 L276.4,292.0 C328.8,286.0 355.2,185.4 287.0,119.7 Z" fill="#00fff2" opacity="0.16"/><path d="M221.1,185.4 L244.0,185.4 L244.3,292.0 L221.4,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M256.0,185.4 L278.9,185.4 L278.6,292.0 L255.7,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M206.0,115.7 L294.0,115.7 L277.3,185.4 L222.7,185.4 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" opacity="0.95" filter="url(#glow-anime-evt-2)"/><line x1="250" y1="119.7" x2="250" y2="183.4" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,115.7 L244.0,101.7 L248.0,115.7 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><path d="M264.0,115.7 L256.0,101.7 L252.0,115.7 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><rect x="211.1" y="121.7" width="44.0" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="235.9" y="133.7" width="44.0" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="245" y="108.7" width="10" height="8" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><circle cx="250" cy="91.7" r="21" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" filter="url(#glow-anime-evt-2)"/><path d="M230.8,79.7 L228.8,65.7 L236.8,79.7 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M238.1,74.6 L236.1,56.6 L244.1,74.6 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M247.0,72.8 L249.0,60.8 L253.0,72.8 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M255.9,74.6 L261.9,60.6 L261.9,74.6 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M263.2,79.7 L263.2,61.7 L269.2,79.7 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><rect x="234.9" y="89.7" width="30.2" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-anime-evt-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-anime-evt-2)"/>
+
+<g stroke="#ff2bd6" stroke-width="2" fill="none" filter="url(#glow-anime-evt-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff2bd6">
+  <text x="18" y="22">⛩ ANIME</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">EVENT</text>
+
+<text x="486" y="238.0" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">LIVE</text>
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ff2bd6" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-anime-evt-2)"><tspan x="250" dy="0">NEON SHRINE FAN SUMMIT</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-anime-evt-2)"><tspan x="250" dy="0">NEON SHRINE FAN SUMMIT</tspan></text>
+</svg>

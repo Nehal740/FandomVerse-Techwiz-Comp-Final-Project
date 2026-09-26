@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Voidrunner T-Shirt">
+<defs>
+  <linearGradient id="bg-gaming-mrc-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-gaming-mrc-1" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#00fff2" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff2bd6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#00fff2" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-gaming-mrc-1" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-gaming-mrc-1" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-gaming-mrc-1)"/>
+<g><rect x="1.0" y="208.0" width="16.2" height="92" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="1.0" y="204.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="20.2" y="187.0" width="16.2" height="113" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="20.2" y="183.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="39.5" y="243.0" width="16.2" height="57" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="39.5" y="239.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="58.7" y="161.0" width="16.2" height="139" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="58.7" y="157.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="77.9" y="262.0" width="16.2" height="38" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="77.9" y="258.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="97.2" y="163.0" width="16.2" height="137" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="97.2" y="159.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="116.4" y="253.0" width="16.2" height="47" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="116.4" y="249.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="135.6" y="273.0" width="16.2" height="27" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="135.6" y="269.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="154.8" y="270.0" width="16.2" height="30" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="154.8" y="266.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="174.1" y="210.0" width="16.2" height="90" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="174.1" y="206.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="193.3" y="212.0" width="16.2" height="88" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="193.3" y="208.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="212.5" y="180.0" width="16.2" height="120" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="212.5" y="176.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="231.8" y="237.0" width="16.2" height="63" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="231.8" y="233.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="251.0" y="277.0" width="16.2" height="23" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="251.0" y="273.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="270.2" y="177.0" width="16.2" height="123" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="270.2" y="173.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="289.5" y="276.0" width="16.2" height="24" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="289.5" y="272.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="308.7" y="208.0" width="16.2" height="92" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="308.7" y="204.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="327.9" y="187.0" width="16.2" height="113" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="327.9" y="183.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="347.2" y="243.0" width="16.2" height="57" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="347.2" y="239.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="366.4" y="161.0" width="16.2" height="139" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="366.4" y="157.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="385.6" y="262.0" width="16.2" height="38" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="385.6" y="258.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="404.8" y="163.0" width="16.2" height="137" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="404.8" y="159.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="424.1" y="253.0" width="16.2" height="47" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="424.1" y="249.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="443.3" y="273.0" width="16.2" height="27" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="443.3" y="269.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="462.5" y="270.0" width="16.2" height="30" fill="#00fff2" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="462.5" y="266.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="481.8" y="210.0" width="16.2" height="90" fill="#ff2bd6" opacity="0.65" filter="url(#glow-gaming-mrc-1)"/><rect x="481.8" y="206.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><line x1="0" y1="299" x2="500" y2="299" stroke="#00fff2" stroke-width="1.5" opacity="0.8"/></g>
+<g><ellipse cx="250" cy="186.8" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M220.2,181.8 L242.0,181.8 L240.5,292.0 L218.7,292.0 Z" fill="#080614" stroke="#00fff2" stroke-width="1.2" opacity="0.92"/><path d="M258.0,181.8 L279.8,181.8 L281.3,292.0 L259.5,292.0 Z" fill="#080614" stroke="#00fff2" stroke-width="1.2" opacity="0.92"/><path d="M208.0,109.7 L292.0,109.7 L276.0,181.8 L224.0,181.8 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1.6" opacity="0.95" filter="url(#glow-gaming-mrc-1)"/><line x1="250" y1="113.7" x2="250" y2="179.8" stroke="#ff2bd6" stroke-width="1" opacity="0.5"/><path d="M236.0,109.7 L244.0,95.7 L248.0,109.7 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1.2" opacity="0.9"/><path d="M264.0,109.7 L256.0,95.7 L252.0,109.7 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1.2" opacity="0.9"/><path d="M208.0,113.7 L197.9,175.8 L216.4,183.8" fill="none" stroke="#00fff2" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="292.0" y1="113.7" x2="292.0" y2="181.8" stroke="#00fff2" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="102.7" width="10" height="8" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><circle cx="250" cy="81.7" r="25" fill="#0a0818" stroke="#00fff2" stroke-width="1.6" filter="url(#glow-gaming-mrc-1)"/><path d="M227.7,67.3 L232.7,49.3 L233.7,67.3 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M236.4,61.3 L243.4,44.3 L242.4,61.3 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M247.0,59.2 L253.0,42.2 L253.0,59.2 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M257.6,61.3 L262.6,44.3 L263.6,61.3 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M266.3,67.3 L271.3,57.3 L272.3,67.3 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><rect x="232.0" y="79.7" width="36.0" height="4.2" rx="2" fill="#ff2bd6" opacity="0.95" filter="url(#glow-gaming-mrc-1)"/></g>
+<rect width="500" height="300" fill="url(#scan-gaming-mrc-1)"/>
+
+<g stroke="#00fff2" stroke-width="2" fill="none" filter="url(#glow-gaming-mrc-1)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#00fff2">
+  <text x="18" y="22">🎮 GAMING</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff2bd6" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#00fff2" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#00fff2" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff2bd6" opacity="0.55" filter="url(#glow-gaming-mrc-1)"><tspan x="250" dy="0">VOIDRUNNER T-SHIRT</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-gaming-mrc-1)"><tspan x="250" dy="0">VOIDRUNNER T-SHIRT</tspan></text>
+</svg>

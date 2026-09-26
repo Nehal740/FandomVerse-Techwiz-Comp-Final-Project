@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Captain Meridian: A Beginner&#x27;s Guide">
+<defs>
+  <linearGradient id="bg-comics-art-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-comics-art-1" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ccff00" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff003c" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ccff00" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-comics-art-1" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-comics-art-1" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-comics-art-1)"/>
+<g><circle cx="250" cy="150" r="20" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.50"/><circle cx="250" cy="150" r="40" fill="none" stroke="#ccff00" stroke-width="1.2" opacity="0.45"/><circle cx="250" cy="150" r="60" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.40"/><circle cx="250" cy="150" r="80" fill="none" stroke="#ccff00" stroke-width="1.2" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.30"/><circle cx="250" cy="150" r="120" fill="none" stroke="#ccff00" stroke-width="1.2" opacity="0.25"/><circle cx="250" cy="150" r="140" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.20"/><circle cx="390.0" cy="152.7" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="356.5" cy="240.9" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="193.5" cy="278.1" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="188.4" cy="275.7" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="110.8" cy="134.8" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="110.2" cy="143.4" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="172.2" cy="33.6" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="311.0" cy="24.0" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="313.5" cy="25.2" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/><circle cx="387.8" cy="175.0" r="2.4" fill="#ff003c" opacity="0.85" filter="url(#glow-comics-art-1)"/></g>
+<g><ellipse cx="250" cy="184.5" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M212.2,105.9 C147.0,177.1 174.0,286.0 223.0,292.0 L277.0,292.0 C326.0,286.0 353.0,177.1 287.8,105.9 Z" fill="#ff003c" opacity="0.16"/><path d="M220.6,177.1 L244.0,177.1 L242.8,292.0 L219.4,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M256.0,177.1 L279.4,177.1 L280.6,292.0 L257.2,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M205.0,101.9 L295.0,101.9 L277.9,177.1 L222.1,177.1 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" opacity="0.95" filter="url(#glow-comics-art-1)"/><line x1="250" y1="105.9" x2="250" y2="175.1" stroke="#ff003c" stroke-width="1" opacity="0.5"/><path d="M236.0,101.9 L244.0,87.9 L248.0,101.9 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><path d="M264.0,101.9 L256.0,87.9 L252.0,101.9 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><rect x="210.4" y="107.9" width="45.0" height="9" rx="4" fill="#0a0818" stroke="#ccff00" stroke-width="1.1"/><rect x="235.6" y="119.9" width="45.0" height="9" rx="4" fill="#0a0818" stroke="#ccff00" stroke-width="1.1"/><rect x="245" y="94.9" width="10" height="8" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><circle cx="250" cy="76.9" r="22" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" filter="url(#glow-comics-art-1)"/><path d="M232.3,62.2 L236.3,44.2 L238.3,62.2 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M247.0,57.1 L251.0,45.1 L253.0,57.1 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M261.7,62.2 L267.7,52.2 L267.7,62.2 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><rect x="234.2" y="74.9" width="31.7" height="4.2" rx="2" fill="#ff003c" opacity="0.95" filter="url(#glow-comics-art-1)"/></g>
+<rect width="500" height="300" fill="url(#scan-comics-art-1)"/>
+
+<g stroke="#ccff00" stroke-width="2" fill="none" filter="url(#glow-comics-art-1)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ccff00">
+  <text x="18" y="22">🦸 COMICS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff003c" opacity="0.9">ARTICLE</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ccff00" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff003c" opacity="0.55" filter="url(#glow-comics-art-1)"><tspan x="250" dy="0">CAPTAIN MERIDIAN: A</tspan><tspan x="250" dy="20">BEGINNER&#x27;S GUIDE</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-comics-art-1)"><tspan x="250" dy="0">CAPTAIN MERIDIAN: A</tspan><tspan x="250" dy="20">BEGINNER&#x27;S GUIDE</tspan></text>
+</svg>

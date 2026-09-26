@@ -12,7 +12,7 @@
   "date": "2026-09-19",
   "popularity": 70,
   "featured": true,
-  "img": "https://picsum.photos/seed/movies-art-1/500/300"
+  "img": "assets/images/The_Glass_Horizon_A_Beginner_s_Guide.jpg"
  },
  {
   "id": "movies-art-2",
@@ -27,7 +27,7 @@
   "date": "2026-06-23",
   "popularity": 72,
   "featured": false,
-  "img": "https://picsum.photos/seed/movies-art-2/500/300"
+  "img": "assets/images/Why_Midnight_Cartographer_Is_Trending_Now.jpg"
  },
  {
   "id": "movies-art-3",
@@ -42,11 +42,11 @@
   "date": "2026-08-19",
   "popularity": 79,
   "featured": false,
-  "img": "https://picsum.photos/seed/movies-art-3/500/300"
+  "img": "assets/images/Behind_the_Scenes_of_Iron_Lantern.jpg"
  },
  {
   "id": "movies-trl-1",
-  "title": "The Glass Horizon \u2014 Official Trailer",
+  "title": "The Glass Horizon — Official Trailer",
   "description": "Watch the trailer for The Glass Horizon. 2:10 min.",
   "type": "trailer",
   "category": "Movies",
@@ -58,11 +58,11 @@
   "popularity": 55,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/movies-trl-1/500/300"
+  "img": "assets/images/The_Glass_Horizon___Official_Trailer.jpg"
  },
  {
   "id": "movies-trl-2",
-  "title": "Midnight Cartographer \u2014 Official Trailer",
+  "title": "Midnight Cartographer — Official Trailer",
   "description": "Watch the trailer for Midnight Cartographer. 2:23 min.",
   "type": "trailer",
   "category": "Movies",
@@ -74,6 +74,6 @@
   "popularity": 94,
   "featured": false,
   "status": "RECENTLY RELEASED",
-  "img": "https://picsum.photos/seed/movies-trl-2/500/300"
+  "img": "assets/images/Midnight_Cartographer___Official_Trailer.jpg"
  }
 ]

@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Shadowline Collector Figure">
+<defs>
+  <linearGradient id="bg-comics-mrc-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-comics-mrc-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ccff00" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff003c" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ccff00" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-comics-mrc-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-comics-mrc-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-comics-mrc-2)"/>
+<g><circle cx="250" cy="184" r="79" fill="url(#sun-comics-mrc-2)"/><rect x="0.0" y="121.0" width="26.9" height="57" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="18.9" y="126.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="38.5" y="111.0" width="26.9" height="67" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="57.4" y="116.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="76.9" y="130.0" width="26.9" height="48" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="95.8" y="135.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="115.4" y="142.0" width="26.9" height="36" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="134.3" y="147.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="153.8" y="127.0" width="26.9" height="51" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="172.8" y="132.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="192.3" y="150.0" width="26.9" height="28" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="211.2" y="155.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="230.8" y="150.0" width="26.9" height="28" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="249.7" y="155.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="269.2" y="152.0" width="26.9" height="26" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="288.2" y="157.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="307.7" y="149.0" width="26.9" height="29" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="326.6" y="154.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="346.2" y="146.0" width="26.9" height="32" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="365.1" y="151.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="384.6" y="157.0" width="26.9" height="21" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="403.5" y="162.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="423.1" y="150.0" width="26.9" height="28" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="442.0" y="155.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="461.5" y="119.0" width="26.9" height="59" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="480.5" y="124.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><line x1="0" y1="178" x2="500" y2="178" stroke="#ccff00" stroke-width="1.4" opacity="0.8" filter="url(#glow-comics-mrc-2)"/><line x1="0" y1="180.3" x2="500" y2="180.3" stroke="#ccff00" stroke-width="1" opacity="0.16"/><line x1="0" y1="186.1" x2="500" y2="186.1" stroke="#ccff00" stroke-width="1" opacity="0.20"/><line x1="0" y1="194.9" x2="500" y2="194.9" stroke="#ccff00" stroke-width="1" opacity="0.24"/><line x1="0" y1="206.3" x2="500" y2="206.3" stroke="#ccff00" stroke-width="1" opacity="0.28"/><line x1="0" y1="220.4" x2="500" y2="220.4" stroke="#ccff00" stroke-width="1" opacity="0.31"/><line x1="0" y1="236.8" x2="500" y2="236.8" stroke="#ccff00" stroke-width="1" opacity="0.35"/><line x1="0" y1="255.6" x2="500" y2="255.6" stroke="#ccff00" stroke-width="1" opacity="0.39"/><line x1="0" y1="276.7" x2="500" y2="276.7" stroke="#ccff00" stroke-width="1" opacity="0.43"/><line x1="0" y1="300.0" x2="500" y2="300.0" stroke="#ccff00" stroke-width="1" opacity="0.47"/><line x1="0" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="42" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="84" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="126" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="168" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="210" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="252" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="294" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="336" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="378" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="420" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="462" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/></g>
+<g><ellipse cx="250" cy="182.1" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M215.1,104.2 C155.3,176.0 180.2,286.0 225.1,292.0 L274.9,292.0 C319.8,286.0 344.7,176.0 284.9,104.2 Z" fill="#ff003c" opacity="0.16"/><path d="M219.4,176.0 L241.0,176.0 L240.1,292.0 L218.5,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M259.0,176.0 L280.6,176.0 L281.5,292.0 L259.9,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M208.5,100.2 L291.5,100.2 L275.7,176.0 L224.3,176.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" opacity="0.95" filter="url(#glow-comics-mrc-2)"/><line x1="250" y1="104.2" x2="250" y2="174.0" stroke="#ff003c" stroke-width="1" opacity="0.5"/><path d="M236.0,100.2 L244.0,86.2 L248.0,100.2 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><path d="M264.0,100.2 L256.0,86.2 L252.0,100.2 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><line x1="208.5" y1="104.2" x2="211.8" y2="184.0" stroke="#ccff00" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="291.5" y1="104.2" x2="288.2" y2="184.0" stroke="#ccff00" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="93.2" width="10" height="8" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><circle cx="250" cy="72.2" r="25" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" filter="url(#glow-comics-mrc-2)"/><path d="M227.2,58.5 L233.2,45.5 L233.2,58.5 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M233.9,53.0 L235.9,35.0 L239.9,53.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M242.4,50.1 L243.4,34.1 L248.4,50.1 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M251.6,50.1 L257.6,34.1 L257.6,50.1 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M260.1,53.0 L264.1,36.0 L266.1,53.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M266.8,58.5 L270.8,46.5 L272.8,58.5 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><rect x="232.0" y="70.2" width="36.0" height="4.2" rx="2" fill="#ff003c" opacity="0.95" filter="url(#glow-comics-mrc-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-comics-mrc-2)"/>
+
+<g stroke="#ccff00" stroke-width="2" fill="none" filter="url(#glow-comics-mrc-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ccff00">
+  <text x="18" y="22">🦸 COMICS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff003c" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ccff00" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff003c" opacity="0.55" filter="url(#glow-comics-mrc-2)"><tspan x="250" dy="0">SHADOWLINE COLLECTOR</tspan><tspan x="250" dy="20">FIGURE</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-comics-mrc-2)"><tspan x="250" dy="0">SHADOWLINE COLLECTOR</tspan><tspan x="250" dy="20">FIGURE</tspan></text>
+</svg>

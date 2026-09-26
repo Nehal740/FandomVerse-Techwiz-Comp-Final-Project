@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Quiet Syndicate Collector Figure">
+<defs>
+  <linearGradient id="bg-tvshows-mrc-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-tvshows-mrc-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#00aaff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#b026ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#00aaff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-tvshows-mrc-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-tvshows-mrc-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-tvshows-mrc-2)"/>
+<g><circle cx="250" cy="184" r="87" fill="url(#sun-tvshows-mrc-2)"/><rect x="0.0" y="113.0" width="21.9" height="65" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="13.9" y="118.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="31.2" y="162.0" width="21.9" height="16" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="45.1" y="167.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="62.5" y="112.0" width="21.9" height="66" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="76.4" y="117.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="93.8" y="151.0" width="21.9" height="27" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="107.6" y="156.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="125.0" y="135.0" width="21.9" height="43" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="138.9" y="140.0" width="4" height="3" fill="#00aaff" opacity="0.85"/><rect x="156.2" y="110.0" width="21.9" height="68" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="170.1" y="115.0" width="4" height="3" fill="#00aaff" opacity="0.85"/><rect x="187.5" y="117.0" width="21.9" height="61" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="201.4" y="122.0" width="4" height="3" fill="#00aaff" opacity="0.85"/><rect x="218.8" y="133.0" width="21.9" height="45" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="232.6" y="138.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="250.0" y="145.0" width="21.9" height="33" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="263.9" y="150.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="281.2" y="107.0" width="21.9" height="71" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="295.1" y="112.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="312.5" y="143.0" width="21.9" height="35" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="326.4" y="148.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="343.8" y="144.0" width="21.9" height="34" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="357.6" y="149.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="375.0" y="130.0" width="21.9" height="48" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="388.9" y="135.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="406.2" y="129.0" width="21.9" height="49" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="420.1" y="134.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="437.5" y="147.0" width="21.9" height="31" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="451.4" y="152.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="468.8" y="158.0" width="21.9" height="20" fill="#0a0820" stroke="#00aaff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="482.6" y="163.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><line x1="0" y1="178" x2="500" y2="178" stroke="#00aaff" stroke-width="1.4" opacity="0.8" filter="url(#glow-tvshows-mrc-2)"/><line x1="0" y1="180.3" x2="500" y2="180.3" stroke="#00aaff" stroke-width="1" opacity="0.16"/><line x1="0" y1="186.1" x2="500" y2="186.1" stroke="#00aaff" stroke-width="1" opacity="0.20"/><line x1="0" y1="194.9" x2="500" y2="194.9" stroke="#00aaff" stroke-width="1" opacity="0.24"/><line x1="0" y1="206.3" x2="500" y2="206.3" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="0" y1="220.4" x2="500" y2="220.4" stroke="#00aaff" stroke-width="1" opacity="0.31"/><line x1="0" y1="236.8" x2="500" y2="236.8" stroke="#00aaff" stroke-width="1" opacity="0.35"/><line x1="0" y1="255.6" x2="500" y2="255.6" stroke="#00aaff" stroke-width="1" opacity="0.39"/><line x1="0" y1="276.7" x2="500" y2="276.7" stroke="#00aaff" stroke-width="1" opacity="0.43"/><line x1="0" y1="300.0" x2="500" y2="300.0" stroke="#00aaff" stroke-width="1" opacity="0.47"/><line x1="0" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="42" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="84" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="126" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="168" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="210" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="252" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="294" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="336" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="378" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="420" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/><line x1="462" y1="300" x2="250" y2="178" stroke="#00aaff" stroke-width="1" opacity="0.22"/></g>
+<g><ellipse cx="250" cy="184.1" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M219.9,176.0 L243.0,176.0 L241.5,292.0 L218.4,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M257.0,176.0 L280.1,176.0 L281.6,292.0 L258.5,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M205.5,100.2 L294.5,100.2 L277.6,176.0 L222.4,176.0 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" opacity="0.95" filter="url(#glow-tvshows-mrc-2)"/><line x1="250" y1="104.2" x2="250" y2="174.0" stroke="#b026ff" stroke-width="1" opacity="0.5"/><path d="M236.0,100.2 L244.0,86.2 L248.0,100.2 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M264.0,100.2 L256.0,86.2 L252.0,100.2 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M205.5,104.2 L194.8,170.0 L214.4,178.0" fill="none" stroke="#00aaff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="294.5" y1="104.2" x2="294.5" y2="176.0" stroke="#00aaff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="93.2" width="10" height="8" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><circle cx="250" cy="76.2" r="21" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" filter="url(#glow-tvshows-mrc-2)"/><path d="M231.6,63.4 L237.6,50.4 L237.6,63.4 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M241.3,58.0 L244.3,42.0 L247.3,58.0 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M252.7,58.0 L253.7,45.0 L258.7,58.0 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M262.4,63.4 L266.4,50.4 L268.4,63.4 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><rect x="234.9" y="74.2" width="30.2" height="4.2" rx="2" fill="#b026ff" opacity="0.95" filter="url(#glow-tvshows-mrc-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-tvshows-mrc-2)"/>
+
+<g stroke="#00aaff" stroke-width="2" fill="none" filter="url(#glow-tvshows-mrc-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#00aaff">
+  <text x="18" y="22">📺 TV SHOWS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#b026ff" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#00aaff" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#b026ff" opacity="0.55" filter="url(#glow-tvshows-mrc-2)"><tspan x="250" dy="0">THE QUIET SYNDICATE</tspan><tspan x="250" dy="20">COLLECTOR FIGURE</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-tvshows-mrc-2)"><tspan x="250" dy="0">THE QUIET SYNDICATE</tspan><tspan x="250" dy="20">COLLECTOR FIGURE</tspan></text>
+</svg>

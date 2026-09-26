@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Why Neon Shrine Is Trending Now">
+<defs>
+  <linearGradient id="bg-anime-art-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-anime-art-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff2bd6" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff2bd6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-anime-art-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-anime-art-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-anime-art-2)"/>
+<g><rect width="500" height="300" fill="#ff2bd6" opacity="0.03"/><path d="M123,42 L123,42 L123,146 L76,146" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M76,146 L90,146 L90,198 L90,198" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M90,198 L186,198 L186,184 L186,184" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M186,184 L456,184 L456,54 L456,54" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M456,54 L48,54 L48,102 L48,102" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M48,102 L204,102 L204,36 L204,36" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M204,36 L202,36 L202,148 L202,148" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><path d="M202,148 L181,148 L181,248 L181,248" stroke="#ff2bd6" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-anime-art-2)"/><circle cx="123" cy="42" r="3" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="76" cy="146" r="5" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="90" cy="198" r="3" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="186" cy="184" r="3" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="456" cy="54" r="5" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="48" cy="102" r="4" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="204" cy="36" r="5" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="202" cy="148" r="3" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/><circle cx="181" cy="248" r="3" fill="#00fff2" opacity="0.9" filter="url(#glow-anime-art-2)"/></g>
+<g><ellipse cx="250" cy="186.6" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M213.0,111.1 C144.8,180.2 171.2,286.0 223.6,292.0 L276.4,292.0 C328.8,286.0 355.2,180.2 287.0,111.1 Z" fill="#00fff2" opacity="0.16"/><path d="M221.1,180.2 L244.0,180.2 L243.4,292.0 L220.5,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M256.0,180.2 L278.9,180.2 L279.5,292.0 L256.6,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M206.0,107.1 L294.0,107.1 L277.3,180.2 L222.7,180.2 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" opacity="0.95" filter="url(#glow-anime-art-2)"/><line x1="250" y1="111.1" x2="250" y2="178.2" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,107.1 L244.0,93.1 L248.0,107.1 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><path d="M264.0,107.1 L256.0,93.1 L252.0,107.1 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><rect x="211.1" y="113.1" width="44.0" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="235.9" y="125.1" width="44.0" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="245" y="100.1" width="10" height="8" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><circle cx="250" cy="81.1" r="23" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" filter="url(#glow-anime-art-2)"/><path d="M230.1,67.0 L228.1,55.0 L236.1,67.0 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M240.8,61.2 L240.8,45.2 L246.8,61.2 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M253.2,61.2 L253.2,43.2 L259.2,61.2 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M263.9,67.0 L267.9,53.0 L269.9,67.0 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><rect x="233.4" y="79.1" width="33.1" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-anime-art-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-anime-art-2)"/>
+
+<g stroke="#ff2bd6" stroke-width="2" fill="none" filter="url(#glow-anime-art-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff2bd6">
+  <text x="18" y="22">⛩ ANIME</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">ARTICLE</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ff2bd6" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-anime-art-2)"><tspan x="250" dy="0">WHY NEON SHRINE IS</tspan><tspan x="250" dy="20">TRENDING NOW</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-anime-art-2)"><tspan x="250" dy="0">WHY NEON SHRINE IS</tspan><tspan x="250" dy="20">TRENDING NOW</tspan></text>
+</svg>

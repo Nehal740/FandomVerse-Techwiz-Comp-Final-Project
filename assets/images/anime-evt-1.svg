@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skyblade Requiem Fan Summit">
+<defs>
+  <linearGradient id="bg-anime-evt-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-anime-evt-1" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff2bd6" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff2bd6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-anime-evt-1" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-anime-evt-1" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-anime-evt-1)"/>
+<g><rect x="1.0" y="259.0" width="16.2" height="41" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="1.0" y="255.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="20.2" y="199.0" width="16.2" height="101" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="20.2" y="195.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="39.5" y="207.0" width="16.2" height="93" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="39.5" y="203.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="58.7" y="287.0" width="16.2" height="13" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="58.7" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="77.9" y="267.0" width="16.2" height="33" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="77.9" y="263.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="97.2" y="273.0" width="16.2" height="27" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="97.2" y="269.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="116.4" y="262.0" width="16.2" height="38" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="116.4" y="258.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="135.6" y="266.0" width="16.2" height="34" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="135.6" y="262.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="154.8" y="203.0" width="16.2" height="97" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="154.8" y="199.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="174.1" y="217.0" width="16.2" height="83" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="174.1" y="213.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="193.3" y="165.0" width="16.2" height="135" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="193.3" y="161.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="212.5" y="190.0" width="16.2" height="110" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="212.5" y="186.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="231.8" y="290.0" width="16.2" height="10" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="231.8" y="286.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="251.0" y="194.0" width="16.2" height="106" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="251.0" y="190.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="270.2" y="198.0" width="16.2" height="102" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="270.2" y="194.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="289.5" y="180.0" width="16.2" height="120" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="289.5" y="176.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="308.7" y="259.0" width="16.2" height="41" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="308.7" y="255.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="327.9" y="199.0" width="16.2" height="101" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="327.9" y="195.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="347.2" y="207.0" width="16.2" height="93" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="347.2" y="203.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="366.4" y="287.0" width="16.2" height="13" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="366.4" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="385.6" y="267.0" width="16.2" height="33" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="385.6" y="263.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="404.8" y="273.0" width="16.2" height="27" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="404.8" y="269.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="424.1" y="262.0" width="16.2" height="38" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="424.1" y="258.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="443.3" y="266.0" width="16.2" height="34" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="443.3" y="262.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="462.5" y="203.0" width="16.2" height="97" fill="#ff2bd6" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="462.5" y="199.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="481.8" y="217.0" width="16.2" height="83" fill="#00fff2" opacity="0.65" filter="url(#glow-anime-evt-1)"/><rect x="481.8" y="213.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><line x1="0" y1="299" x2="500" y2="299" stroke="#ff2bd6" stroke-width="1.5" opacity="0.8"/></g>
+<g><ellipse cx="250" cy="189.1" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M208.4,117.1 C145.9,183.8 175.6,286.0 220.3,292.0 L279.7,292.0 C324.4,286.0 354.1,183.8 291.6,117.1 Z" fill="#00fff2" opacity="0.16"/><path d="M217.3,183.8 L243.0,183.8 L241.5,292.0 L215.8,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M257.0,183.8 L282.7,183.8 L284.2,292.0 L258.5,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M200.5,113.1 L299.5,113.1 L280.7,183.8 L219.3,183.8 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" opacity="0.95" filter="url(#glow-anime-evt-1)"/><line x1="250" y1="117.1" x2="250" y2="181.8" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,113.1 L244.0,99.1 L248.0,113.1 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><path d="M264.0,113.1 L256.0,99.1 L252.0,113.1 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><rect x="207.3" y="119.1" width="49.5" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="234.2" y="131.1" width="49.5" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="245" y="106.1" width="10" height="8" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><circle cx="250" cy="86.1" r="24" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" filter="url(#glow-anime-evt-1)"/><path d="M229.4,71.5 L230.4,58.5 L235.4,71.5 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M240.5,65.3 L241.5,48.3 L246.5,65.3 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M253.5,65.3 L254.5,47.3 L259.5,65.3 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M264.6,71.5 L269.6,57.5 L270.6,71.5 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><rect x="232.7" y="84.1" width="34.6" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-anime-evt-1)"/></g>
+<rect width="500" height="300" fill="url(#scan-anime-evt-1)"/>
+
+<g stroke="#ff2bd6" stroke-width="2" fill="none" filter="url(#glow-anime-evt-1)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff2bd6">
+  <text x="18" y="22">⛩ ANIME</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">EVENT</text>
+
+<text x="486" y="218.0" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">UPCOMING</text>
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ff2bd6" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-anime-evt-1)"><tspan x="250" dy="0">SKYBLADE REQUIEM FAN</tspan><tspan x="250" dy="20">SUMMIT</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-anime-evt-1)"><tspan x="250" dy="0">SKYBLADE REQUIEM FAN</tspan><tspan x="250" dy="20">SUMMIT</tspan></text>
+</svg>

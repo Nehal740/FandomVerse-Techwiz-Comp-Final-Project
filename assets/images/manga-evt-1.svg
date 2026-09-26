@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Crimson Kalpa Fan Summit">
+<defs>
+  <linearGradient id="bg-manga-evt-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-manga-evt-1" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff003c" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff003c" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-manga-evt-1" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-manga-evt-1" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-manga-evt-1)"/>
+<g><circle cx="250" cy="150" r="20" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.50"/><circle cx="250" cy="150" r="40" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.45"/><circle cx="250" cy="150" r="60" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.40"/><circle cx="250" cy="150" r="80" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.30"/><circle cx="250" cy="150" r="120" fill="none" stroke="#ff003c" stroke-width="1.2" opacity="0.25"/><circle cx="250" cy="150" r="140" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.20"/><circle cx="363.0" cy="232.6" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="341.8" cy="255.7" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="262.7" cy="289.4" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="184.0" cy="273.5" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="114.6" cy="114.3" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="161.1" cy="41.9" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="142.8" cy="59.9" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="247.7" cy="10.0" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="385.3" cy="113.9" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/><circle cx="387.5" cy="123.7" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-manga-evt-1)"/></g>
+<g><ellipse cx="250" cy="188.8" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M214.7,113.7 C156.4,181.8 181.6,286.0 224.8,292.0 L275.2,292.0 C318.4,286.0 343.6,181.8 285.3,113.7 Z" fill="#00fff2" opacity="0.16"/><path d="M221.2,181.8 L243.0,181.8 L243.0,292.0 L221.2,292.0 Z" fill="#080614" stroke="#ff003c" stroke-width="1.2" opacity="0.92"/><path d="M257.0,181.8 L278.8,181.8 L278.8,292.0 L257.0,292.0 Z" fill="#080614" stroke="#ff003c" stroke-width="1.2" opacity="0.92"/><path d="M208.0,109.7 L292.0,109.7 L276.0,181.8 L224.0,181.8 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.6" opacity="0.95" filter="url(#glow-manga-evt-1)"/><line x1="250" y1="113.7" x2="250" y2="179.8" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,109.7 L244.0,95.7 L248.0,109.7 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/><path d="M264.0,109.7 L256.0,95.7 L252.0,109.7 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/><rect x="212.4" y="115.7" width="42.0" height="9" rx="4" fill="#0a0818" stroke="#ff003c" stroke-width="1.1"/><rect x="236.6" y="127.7" width="42.0" height="9" rx="4" fill="#0a0818" stroke="#ff003c" stroke-width="1.1"/><rect x="245" y="102.7" width="10" height="8" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><circle cx="250" cy="85.7" r="21" fill="#0a0818" stroke="#ff003c" stroke-width="1.6" filter="url(#glow-manga-evt-1)"/><path d="M230.8,73.6 L235.8,57.6 L236.8,73.6 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M238.1,68.6 L241.1,53.6 L244.1,68.6 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M247.0,66.8 L251.0,48.8 L253.0,66.8 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M255.9,68.6 L258.9,52.6 L261.9,68.6 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M263.2,73.6 L269.2,59.6 L269.2,73.6 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><rect x="234.9" y="83.7" width="30.2" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-manga-evt-1)"/></g>
+<rect width="500" height="300" fill="url(#scan-manga-evt-1)"/>
+
+<g stroke="#ff003c" stroke-width="2" fill="none" filter="url(#glow-manga-evt-1)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff003c">
+  <text x="18" y="22">📖 MANGA</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">EVENT</text>
+
+<text x="486" y="238.0" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">UPCOMING</text>
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ff003c" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-manga-evt-1)"><tspan x="250" dy="0">CRIMSON KALPA FAN SUMMIT</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-manga-evt-1)"><tspan x="250" dy="0">CRIMSON KALPA FAN SUMMIT</tspan></text>
+</svg>

@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Harbor Nine T-Shirt">
+<defs>
+  <linearGradient id="bg-tvshows-mrc-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-tvshows-mrc-1" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#00aaff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#b026ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#00aaff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-tvshows-mrc-1" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-tvshows-mrc-1" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-tvshows-mrc-1)"/>
+<g><rect width="500" height="300" fill="#b026ff" opacity="0.04"/><rect x="2" y="0.0" width="500" height="16" fill="#00aaff" opacity="0.47"/><rect x="-27" y="18.8" width="500" height="13" fill="#b026ff" opacity="0.48"/><rect x="-27" y="37.5" width="500" height="5" fill="#00aaff" opacity="0.38"/><rect x="-7" y="56.2" width="500" height="13" fill="#b026ff" opacity="0.52"/><rect x="19" y="75.0" width="500" height="11" fill="#00aaff" opacity="0.38"/><rect x="25" y="93.8" width="500" height="5" fill="#b026ff" opacity="0.18"/><rect x="-10" y="112.5" width="500" height="7" fill="#00aaff" opacity="0.38"/><rect x="-24" y="131.2" width="500" height="9" fill="#b026ff" opacity="0.30"/><rect x="2" y="150.0" width="500" height="5" fill="#00aaff" opacity="0.24"/><rect x="-27" y="168.8" width="500" height="16" fill="#b026ff" opacity="0.37"/><rect x="-27" y="187.5" width="500" height="17" fill="#00aaff" opacity="0.30"/><rect x="-7" y="206.2" width="500" height="5" fill="#b026ff" opacity="0.34"/><rect x="19" y="225.0" width="500" height="4" fill="#00aaff" opacity="0.35"/><rect x="25" y="243.8" width="500" height="11" fill="#b026ff" opacity="0.24"/><rect x="-10" y="262.5" width="500" height="8" fill="#00aaff" opacity="0.41"/><rect x="-24" y="281.2" width="500" height="8" fill="#b026ff" opacity="0.17"/><rect x="0" y="64" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="226" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="126" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="94" width="500" height="1.5" fill="#ffffff" opacity="0.5"/></g>
+<g><ellipse cx="250" cy="185.3" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M215.8,178.6 L241.0,178.6 L242.2,292.0 L217.0,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M259.0,178.6 L284.2,178.6 L283.0,292.0 L257.8,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M201.5,104.5 L298.5,104.5 L280.1,178.6 L219.9,178.6 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" opacity="0.95" filter="url(#glow-tvshows-mrc-1)"/><line x1="250" y1="108.5" x2="250" y2="176.6" stroke="#b026ff" stroke-width="1" opacity="0.5"/><path d="M236.0,104.5 L244.0,90.5 L248.0,104.5 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M264.0,104.5 L256.0,90.5 L252.0,104.5 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M201.5,108.5 L189.9,172.6 L211.2,180.6" fill="none" stroke="#00aaff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="298.5" y1="108.5" x2="298.5" y2="178.6" stroke="#00aaff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="97.5" width="10" height="8" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><circle cx="250" cy="78.5" r="23" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" filter="url(#glow-tvshows-mrc-1)"/><path d="M230.1,64.5 L231.1,51.5 L236.1,64.5 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M240.8,58.6 L245.8,45.6 L246.8,58.6 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M253.2,58.6 L254.2,45.6 L259.2,58.6 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M263.9,64.5 L264.9,49.5 L269.9,64.5 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><rect x="233.4" y="76.5" width="33.1" height="4.2" rx="2" fill="#b026ff" opacity="0.95" filter="url(#glow-tvshows-mrc-1)"/></g>
+<rect width="500" height="300" fill="url(#scan-tvshows-mrc-1)"/>
+
+<g stroke="#00aaff" stroke-width="2" fill="none" filter="url(#glow-tvshows-mrc-1)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#00aaff">
+  <text x="18" y="22">📺 TV SHOWS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#b026ff" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#00aaff" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#b026ff" opacity="0.55" filter="url(#glow-tvshows-mrc-1)"><tspan x="250" dy="0">HARBOR NINE T-SHIRT</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-tvshows-mrc-1)"><tspan x="250" dy="0">HARBOR NINE T-SHIRT</tspan></text>
+</svg>

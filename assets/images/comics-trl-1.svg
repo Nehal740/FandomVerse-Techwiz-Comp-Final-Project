@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Captain Meridian — Official Trailer">
+<defs>
+  <linearGradient id="bg-comics-trl-1" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-comics-trl-1" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ccff00" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff003c" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ccff00" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-comics-trl-1" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-comics-trl-1" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-comics-trl-1)"/>
+<g><rect x="1.0" y="286.0" width="16.2" height="14" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="1.0" y="282.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="20.2" y="272.0" width="16.2" height="28" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="20.2" y="268.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="39.5" y="251.0" width="16.2" height="49" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="39.5" y="247.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="58.7" y="197.0" width="16.2" height="103" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="58.7" y="193.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="77.9" y="284.0" width="16.2" height="16" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="77.9" y="280.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="97.2" y="193.0" width="16.2" height="107" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="97.2" y="189.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="116.4" y="175.0" width="16.2" height="125" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="116.4" y="171.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="135.6" y="210.0" width="16.2" height="90" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="135.6" y="206.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="154.8" y="203.0" width="16.2" height="97" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="154.8" y="199.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="174.1" y="206.0" width="16.2" height="94" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="174.1" y="202.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="193.3" y="287.0" width="16.2" height="13" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="193.3" y="283.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="212.5" y="241.0" width="16.2" height="59" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="212.5" y="237.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="231.8" y="233.0" width="16.2" height="67" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="231.8" y="229.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="251.0" y="277.0" width="16.2" height="23" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="251.0" y="273.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="270.2" y="212.0" width="16.2" height="88" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="270.2" y="208.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="289.5" y="226.0" width="16.2" height="74" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="289.5" y="222.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="308.7" y="286.0" width="16.2" height="14" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="308.7" y="282.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="327.9" y="272.0" width="16.2" height="28" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="327.9" y="268.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="347.2" y="251.0" width="16.2" height="49" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="347.2" y="247.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="366.4" y="197.0" width="16.2" height="103" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="366.4" y="193.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="385.6" y="284.0" width="16.2" height="16" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="385.6" y="280.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="404.8" y="193.0" width="16.2" height="107" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="404.8" y="189.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="424.1" y="175.0" width="16.2" height="125" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="424.1" y="171.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="443.3" y="210.0" width="16.2" height="90" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="443.3" y="206.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="462.5" y="203.0" width="16.2" height="97" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="462.5" y="199.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="481.8" y="206.0" width="16.2" height="94" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-trl-1)"/><rect x="481.8" y="202.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><line x1="0" y1="299" x2="500" y2="299" stroke="#ccff00" stroke-width="1.5" opacity="0.8"/></g>
+<g><ellipse cx="250" cy="177.9" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M221.2,170.3 L243.0,170.3 L244.2,292.0 L222.4,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M257.0,170.3 L278.8,170.3 L277.6,292.0 L255.8,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M208.0,90.8 L292.0,90.8 L276.0,170.3 L224.0,170.3 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" opacity="0.95" filter="url(#glow-comics-trl-1)"/><line x1="250" y1="94.8" x2="250" y2="168.3" stroke="#ff003c" stroke-width="1" opacity="0.5"/><path d="M236.0,90.8 L244.0,76.8 L248.0,90.8 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><path d="M264.0,90.8 L256.0,76.8 L252.0,90.8 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><path d="M208.0,94.8 L197.9,164.3 L216.4,172.3" fill="none" stroke="#ccff00" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="292.0" y1="94.8" x2="292.0" y2="170.3" stroke="#ccff00" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="83.8" width="10" height="8" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><circle cx="250" cy="63.8" r="24" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" filter="url(#glow-comics-trl-1)"/><path d="M229.4,49.1 L236.4,33.1 L235.4,49.1 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M240.5,43.0 L241.5,26.0 L246.5,43.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M253.5,43.0 L257.5,28.0 L259.5,43.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M264.6,49.1 L269.6,39.1 L270.6,49.1 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><rect x="232.7" y="61.8" width="34.6" height="4.2" rx="2" fill="#ff003c" opacity="0.95" filter="url(#glow-comics-trl-1)"/></g>
+<rect width="500" height="300" fill="url(#scan-comics-trl-1)"/>
+
+<g stroke="#ccff00" stroke-width="2" fill="none" filter="url(#glow-comics-trl-1)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ccff00">
+  <text x="18" y="22">🦸 COMICS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff003c" opacity="0.9">TRAILER</text>
+
+<text x="486" y="218.0" text-anchor="end" font-family="monospace" font-size="10" fill="#ff003c" opacity="0.9">UPCOMING</text>
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ccff00" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff003c" opacity="0.55" filter="url(#glow-comics-trl-1)"><tspan x="250" dy="0">CAPTAIN MERIDIAN —</tspan><tspan x="250" dy="20">OFFICIAL TRAILER</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-comics-trl-1)"><tspan x="250" dy="0">CAPTAIN MERIDIAN —</tspan><tspan x="250" dy="20">OFFICIAL TRAILER</tspan></text>
+</svg>

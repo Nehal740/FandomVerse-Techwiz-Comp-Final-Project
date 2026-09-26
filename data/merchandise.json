@@ -61,7 +61,7 @@
   "popularity": 61,
   "featured": false,
   "price": 24,
-  "img": "https://picsum.photos/seed/gaming-mrc-1/500/300"
+  "img": "assets/images/Voidrunner_T-Shirt.jpg"
  },
  {
   "id": "gaming-mrc-2",
@@ -77,7 +77,7 @@
   "popularity": 66,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/gaming-mrc-2/500/300"
+  "img": "assets/images/Ember_Realms_Collector_Figure.jpg"
  },
  {
   "id": "gaming-mrc-3",
@@ -93,7 +93,7 @@
   "popularity": 44,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/gaming-mrc-3/500/300"
+  "img": "assets/images/Circuit_Kingdoms_Art_Poster.jpg"
  },
  {
   "id": "movies-mrc-1",
@@ -109,7 +109,7 @@
   "popularity": 65,
   "featured": false,
   "price": 24,
-  "img": "https://picsum.photos/seed/movies-mrc-1/500/300"
+  "img": "assets/images/The_Glass_Horizon_T-Shirt.jpg"
  },
  {
   "id": "movies-mrc-2",
@@ -125,7 +125,7 @@
   "popularity": 50,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/movies-mrc-2/500/300"
+  "img": "assets/images/Midnight_Cartographer_Collector_Figure.jpg"
  },
  {
   "id": "movies-mrc-3",
@@ -141,7 +141,7 @@
   "popularity": 75,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/movies-mrc-3/500/300"
+  "img": "assets/images/Iron_Lantern_Art_Poster.jpg"
  },
  {
   "id": "tvshows-mrc-1",
@@ -157,7 +157,7 @@
   "popularity": 65,
   "featured": false,
   "price": 24,
-  "img": "https://picsum.photos/seed/tvshows-mrc-1/500/300"
+  "img": "assets/images/Harbor_Nine_T-Shirt.jpg"
  },
  {
   "id": "tvshows-mrc-2",
@@ -173,7 +173,7 @@
   "popularity": 46,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/tvshows-mrc-2/500/300"
+  "img": "assets/images/The_Quiet_Syndicate_Collector_Figure.jpg"
  },
  {
   "id": "tvshows-mrc-3",
@@ -189,7 +189,7 @@
   "popularity": 65,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/tvshows-mrc-3/500/300"
+  "img": "assets/images/Orbit_Street_Art_Poster.jpg"
  },
  {
   "id": "kpop-mrc-1",
@@ -205,7 +205,7 @@
   "popularity": 61,
   "featured": false,
   "price": 24,
-  "img": "https://picsum.photos/seed/kpop-mrc-1/500/300"
+  "img": "assets/images/LUMEN-7_T-Shirt.jpg"
  },
  {
   "id": "kpop-mrc-2",
@@ -221,7 +221,7 @@
   "popularity": 93,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/kpop-mrc-2/500/300"
+  "img": "assets/images/Starfall_Seoul_Collector_Figure.jpg"
  },
  {
   "id": "kpop-mrc-3",
@@ -237,7 +237,7 @@
   "popularity": 41,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/kpop-mrc-3/500/300"
+  "img": "assets/images/Velvet_Circuit_Art_Poster.jpg"
  },
  {
   "id": "comics-mrc-1",
@@ -253,7 +253,7 @@
   "popularity": 90,
   "featured": false,
   "price": 24,
-  "img": "https://picsum.photos/seed/comics-mrc-1/500/300"
+  "img": "assets/images/Captain_Meridian_T-Shirt.jpg"
  },
  {
   "id": "comics-mrc-2",
@@ -269,7 +269,7 @@
   "popularity": 56,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/comics-mrc-2/500/300"
+  "img": "assets/images/Shadowline_Collector_Figure.jpg"
  },
  {
   "id": "comics-mrc-3",
@@ -285,7 +285,7 @@
   "popularity": 78,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/comics-mrc-3/500/300"
+  "img": "assets/images/Ironwood_Saga_Art_Poster.jpg"
  },
  {
   "id": "manga-mrc-1",
@@ -301,7 +301,7 @@
   "popularity": 50,
   "featured": false,
   "price": 24,
-  "img": "assets/images/Crimson_Kalpa.jpg"
+  "img": "assets/images/Crimson_Kalpa_T-Shirt.jpg"
  },
  {
   "id": "manga-mrc-2",
@@ -317,7 +317,7 @@
   "popularity": 41,
   "featured": false,
   "price": 60,
-  "img": "https://picsum.photos/seed/manga-mrc-2/500/300"
+  "img": "assets/images/Moonlit_Ronin_Collector_Figure.jpg"
  },
  {
   "id": "manga-mrc-3",
@@ -333,6 +333,6 @@
   "popularity": 69,
   "featured": false,
   "price": 17,
-  "img": "https://picsum.photos/seed/manga-mrc-3/500/300"
+  "img": "assets/images/Ink___Ember_Art_Poster.jpg"
  }
 ]

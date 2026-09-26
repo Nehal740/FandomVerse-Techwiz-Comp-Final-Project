@@ -12,7 +12,7 @@
   "date": "2026-04-17",
   "popularity": 73,
   "featured": true,
-  "img": "https://picsum.photos/seed/comics-art-1/500/300"
+  "img": "assets/images/Captain_Meridian_A_Beginner_s_Guide.jpg"
  },
  {
   "id": "comics-art-2",
@@ -27,7 +27,7 @@
   "date": "2026-03-23",
   "popularity": 84,
   "featured": false,
-  "img": "https://picsum.photos/seed/comics-art-2/500/300"
+  "img": "assets/images/Why_Shadowline_Is_Trending_Now.jpg"
  },
  {
   "id": "comics-art-3",
@@ -42,11 +42,11 @@
   "date": "2026-01-25",
   "popularity": 83,
   "featured": false,
-  "img": "https://picsum.photos/seed/comics-art-3/500/300"
+  "img": "assets/images/Behind_the_Scenes_of_Ironwood_Saga.jpg"
  },
  {
   "id": "comics-trl-1",
-  "title": "Captain Meridian \u2014 Official Trailer",
+  "title": "Captain Meridian — Official Trailer",
   "description": "Watch the trailer for Captain Meridian. 2:10 min.",
   "type": "trailer",
   "category": "Comics",
@@ -58,11 +58,11 @@
   "popularity": 55,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/comics-trl-1/500/300"
+  "img": "assets/images/Captain_Meridian___Official_Trailer.jpg"
  },
  {
   "id": "comics-trl-2",
-  "title": "Shadowline \u2014 Official Trailer",
+  "title": "Shadowline — Official Trailer",
   "description": "Watch the trailer for Shadowline. 2:23 min.",
   "type": "trailer",
   "category": "Comics",
@@ -74,6 +74,6 @@
   "popularity": 73,
   "featured": false,
   "status": "RECENTLY RELEASED",
-  "img": "https://picsum.photos/seed/comics-trl-2/500/300"
+  "img": "https://loremflickr.com/500/300/comic,convention"
  }
 ]
