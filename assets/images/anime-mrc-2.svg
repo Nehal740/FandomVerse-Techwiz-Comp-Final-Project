@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon Shrine Collector Figure">
+<defs>
+  <linearGradient id="bg-anime-mrc-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-anime-mrc-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff2bd6" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff2bd6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-anime-mrc-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-anime-mrc-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-anime-mrc-2)"/>
+<g><circle cx="250" cy="150" r="20" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.50"/><circle cx="250" cy="150" r="40" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.45"/><circle cx="250" cy="150" r="60" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.40"/><circle cx="250" cy="150" r="80" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.30"/><circle cx="250" cy="150" r="120" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.25"/><circle cx="250" cy="150" r="140" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.20"/><circle cx="328.4" cy="266.0" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="355.0" cy="242.6" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="226.6" cy="288.0" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="136.2" cy="231.5" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="113.9" cy="182.8" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="149.0" cy="53.1" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="248.7" cy="10.0" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="240.1" cy="10.4" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="360.6" cy="64.1" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/><circle cx="385.4" cy="114.6" r="2.4" fill="#00fff2" opacity="0.85" filter="url(#glow-anime-mrc-2)"/></g>
+<g><ellipse cx="250" cy="193.9" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M212.2,125.7 C150.0,189.0 177.0,286.0 223.0,292.0 L277.0,292.0 C323.0,286.0 350.0,189.0 287.8,125.7 Z" fill="#00fff2" opacity="0.16"/><path d="M218.6,189.0 L242.0,189.0 L241.7,292.0 L218.3,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M258.0,189.0 L281.4,189.0 L281.7,292.0 L258.3,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M205.0,121.7 L295.0,121.7 L277.9,189.0 L222.1,189.0 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" opacity="0.95" filter="url(#glow-anime-mrc-2)"/><line x1="250" y1="125.7" x2="250" y2="187.0" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,121.7 L244.0,107.7 L248.0,121.7 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><path d="M264.0,121.7 L256.0,107.7 L252.0,121.7 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><rect x="210.4" y="127.7" width="45.0" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="235.6" y="139.7" width="45.0" height="9" rx="4" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.1"/><rect x="245" y="114.7" width="10" height="8" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><circle cx="250" cy="95.7" r="23" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" filter="url(#glow-anime-mrc-2)"/><path d="M231.6,80.3 L232.6,70.3 L237.6,80.3 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M247.0,75.0 L247.0,60.0 L253.0,75.0 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M262.4,80.3 L260.4,62.3 L268.4,80.3 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><rect x="233.4" y="93.7" width="33.1" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-anime-mrc-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-anime-mrc-2)"/>
+
+<g stroke="#ff2bd6" stroke-width="2" fill="none" filter="url(#glow-anime-mrc-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff2bd6">
+  <text x="18" y="22">⛩ ANIME</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ff2bd6" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-anime-mrc-2)"><tspan x="250" dy="0">NEON SHRINE COLLECTOR</tspan><tspan x="250" dy="20">FIGURE</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-anime-mrc-2)"><tspan x="250" dy="0">NEON SHRINE COLLECTOR</tspan><tspan x="250" dy="20">FIGURE</tspan></text>
+</svg>

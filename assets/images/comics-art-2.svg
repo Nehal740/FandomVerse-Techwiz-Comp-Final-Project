@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Why Shadowline Is Trending Now">
+<defs>
+  <linearGradient id="bg-comics-art-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-comics-art-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ccff00" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff003c" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ccff00" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-comics-art-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-comics-art-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-comics-art-2)"/>
+<g><circle cx="250" cy="184" r="99" fill="url(#sun-comics-art-2)"/><rect x="0.0" y="133.0" width="23.3" height="45" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="15.3" y="138.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="33.3" y="118.0" width="23.3" height="60" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="48.7" y="123.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="66.7" y="112.0" width="23.3" height="66" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="82.0" y="117.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="100.0" y="155.0" width="23.3" height="23" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="115.3" y="160.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="133.3" y="116.0" width="23.3" height="62" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="148.7" y="121.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="166.7" y="123.0" width="23.3" height="55" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="182.0" y="128.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="200.0" y="149.0" width="23.3" height="29" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="215.3" y="154.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="233.3" y="162.0" width="23.3" height="16" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="248.7" y="167.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="266.7" y="143.0" width="23.3" height="35" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="282.0" y="148.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="300.0" y="119.0" width="23.3" height="59" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="315.3" y="124.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="333.3" y="154.0" width="23.3" height="24" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="348.7" y="159.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="366.7" y="148.0" width="23.3" height="30" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="382.0" y="153.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="400.0" y="136.0" width="23.3" height="42" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="415.3" y="141.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="433.3" y="160.0" width="23.3" height="18" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="448.7" y="165.0" width="4" height="3" fill="#ccff00" opacity="0.85"/><rect x="466.7" y="137.0" width="23.3" height="41" fill="#0a0820" stroke="#ccff00" stroke-opacity="0.35" stroke-width="0.6"/><rect x="482.0" y="142.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><line x1="0" y1="178" x2="500" y2="178" stroke="#ccff00" stroke-width="1.4" opacity="0.8" filter="url(#glow-comics-art-2)"/><line x1="0" y1="180.3" x2="500" y2="180.3" stroke="#ccff00" stroke-width="1" opacity="0.16"/><line x1="0" y1="186.1" x2="500" y2="186.1" stroke="#ccff00" stroke-width="1" opacity="0.20"/><line x1="0" y1="194.9" x2="500" y2="194.9" stroke="#ccff00" stroke-width="1" opacity="0.24"/><line x1="0" y1="206.3" x2="500" y2="206.3" stroke="#ccff00" stroke-width="1" opacity="0.28"/><line x1="0" y1="220.4" x2="500" y2="220.4" stroke="#ccff00" stroke-width="1" opacity="0.31"/><line x1="0" y1="236.8" x2="500" y2="236.8" stroke="#ccff00" stroke-width="1" opacity="0.35"/><line x1="0" y1="255.6" x2="500" y2="255.6" stroke="#ccff00" stroke-width="1" opacity="0.39"/><line x1="0" y1="276.7" x2="500" y2="276.7" stroke="#ccff00" stroke-width="1" opacity="0.43"/><line x1="0" y1="300.0" x2="500" y2="300.0" stroke="#ccff00" stroke-width="1" opacity="0.47"/><line x1="0" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="42" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="84" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="126" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="168" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="210" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="252" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="294" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="336" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="378" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="420" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/><line x1="462" y1="300" x2="250" y2="178" stroke="#ccff00" stroke-width="1" opacity="0.22"/></g>
+<g><ellipse cx="250" cy="183.1" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M217.6,176.0 L242.0,176.0 L241.1,292.0 L216.7,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M258.0,176.0 L282.4,176.0 L283.3,292.0 L258.9,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M203.0,100.2 L297.0,100.2 L279.1,176.0 L220.9,176.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" opacity="0.95" filter="url(#glow-comics-art-2)"/><line x1="250" y1="104.2" x2="250" y2="174.0" stroke="#ff003c" stroke-width="1" opacity="0.5"/><path d="M236.0,100.2 L244.0,86.2 L248.0,100.2 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><path d="M264.0,100.2 L256.0,86.2 L252.0,100.2 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><rect x="209.0" y="106.2" width="47.0" height="9" rx="4" fill="#0a0818" stroke="#ccff00" stroke-width="1.1"/><rect x="235.0" y="118.2" width="47.0" height="9" rx="4" fill="#0a0818" stroke="#ccff00" stroke-width="1.1"/><rect x="245" y="93.2" width="10" height="8" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><circle cx="250" cy="74.2" r="23" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" filter="url(#glow-comics-art-2)"/><path d="M228.8,61.6 L234.8,47.6 L234.8,61.6 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M235.0,56.6 L240.0,37.6 L241.0,56.6 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M242.8,53.9 L244.8,34.9 L248.8,53.9 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M251.2,53.9 L258.2,43.9 L257.2,53.9 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M259.0,56.6 L266.0,37.6 L265.0,56.6 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M265.2,61.6 L263.2,44.6 L271.2,61.6 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><rect x="233.4" y="72.2" width="33.1" height="4.2" rx="2" fill="#ff003c" opacity="0.95" filter="url(#glow-comics-art-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-comics-art-2)"/>
+
+<g stroke="#ccff00" stroke-width="2" fill="none" filter="url(#glow-comics-art-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ccff00">
+  <text x="18" y="22">🦸 COMICS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff003c" opacity="0.9">ARTICLE</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ccff00" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff003c" opacity="0.55" filter="url(#glow-comics-art-2)"><tspan x="250" dy="0">WHY SHADOWLINE IS</tspan><tspan x="250" dy="20">TRENDING NOW</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-comics-art-2)"><tspan x="250" dy="0">WHY SHADOWLINE IS</tspan><tspan x="250" dy="20">TRENDING NOW</tspan></text>
+</svg>

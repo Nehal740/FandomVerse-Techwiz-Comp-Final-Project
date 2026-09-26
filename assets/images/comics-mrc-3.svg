@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ironwood Saga Art Poster">
+<defs>
+  <linearGradient id="bg-comics-mrc-3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-comics-mrc-3" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ccff00" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff003c" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ccff00" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-comics-mrc-3" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-comics-mrc-3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-comics-mrc-3)"/>
+<g><rect x="1.0" y="288.0" width="16.2" height="12" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="1.0" y="284.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="20.2" y="170.0" width="16.2" height="130" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="20.2" y="166.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="39.5" y="198.0" width="16.2" height="102" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="39.5" y="194.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="58.7" y="218.0" width="16.2" height="82" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="58.7" y="214.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="77.9" y="230.0" width="16.2" height="70" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="77.9" y="226.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="97.2" y="285.0" width="16.2" height="15" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="97.2" y="281.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="116.4" y="253.0" width="16.2" height="47" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="116.4" y="249.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="135.6" y="214.0" width="16.2" height="86" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="135.6" y="210.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="154.8" y="164.0" width="16.2" height="136" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="154.8" y="160.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="174.1" y="189.0" width="16.2" height="111" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="174.1" y="185.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="193.3" y="166.0" width="16.2" height="134" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="193.3" y="162.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="212.5" y="262.0" width="16.2" height="38" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="212.5" y="258.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="231.8" y="265.0" width="16.2" height="35" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="231.8" y="261.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="251.0" y="245.0" width="16.2" height="55" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="251.0" y="241.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="270.2" y="221.0" width="16.2" height="79" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="270.2" y="217.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="289.5" y="226.0" width="16.2" height="74" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="289.5" y="222.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="308.7" y="288.0" width="16.2" height="12" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="308.7" y="284.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="327.9" y="170.0" width="16.2" height="130" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="327.9" y="166.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="347.2" y="198.0" width="16.2" height="102" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="347.2" y="194.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="366.4" y="218.0" width="16.2" height="82" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="366.4" y="214.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="385.6" y="230.0" width="16.2" height="70" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="385.6" y="226.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="404.8" y="285.0" width="16.2" height="15" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="404.8" y="281.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="424.1" y="253.0" width="16.2" height="47" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="424.1" y="249.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="443.3" y="214.0" width="16.2" height="86" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="443.3" y="210.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="462.5" y="164.0" width="16.2" height="136" fill="#ccff00" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="462.5" y="160.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="481.8" y="189.0" width="16.2" height="111" fill="#ff003c" opacity="0.65" filter="url(#glow-comics-mrc-3)"/><rect x="481.8" y="185.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><line x1="0" y1="299" x2="500" y2="299" stroke="#ccff00" stroke-width="1.5" opacity="0.8"/></g>
+<g><ellipse cx="250" cy="190.0" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M220.1,184.4 L244.0,184.4 L244.9,292.0 L221.0,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M256.0,184.4 L279.9,184.4 L279.0,292.0 L255.1,292.0 Z" fill="#080614" stroke="#ccff00" stroke-width="1.2" opacity="0.92"/><path d="M204.0,114.0 L296.0,114.0 L278.5,184.4 L221.5,184.4 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" opacity="0.95" filter="url(#glow-comics-mrc-3)"/><line x1="250" y1="118.0" x2="250" y2="182.4" stroke="#ff003c" stroke-width="1" opacity="0.5"/><path d="M236.0,114.0 L244.0,100.0 L248.0,114.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><path d="M264.0,114.0 L256.0,100.0 L252.0,114.0 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/><line x1="204.0" y1="118.0" x2="207.7" y2="192.4" stroke="#ccff00" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="296.0" y1="118.0" x2="292.3" y2="192.4" stroke="#ccff00" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="107.0" width="10" height="8" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><circle cx="250" cy="88.0" r="23" fill="#0a0818" stroke="#ccff00" stroke-width="1.6" filter="url(#glow-comics-mrc-3)"/><path d="M229.3,74.8 L229.3,64.8 L235.3,74.8 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M237.2,69.3 L237.2,54.3 L243.2,69.3 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M247.0,67.3 L245.0,50.3 L253.0,67.3 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M256.8,69.3 L259.8,53.3 L262.8,69.3 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><path d="M264.7,74.8 L269.7,58.8 L270.7,74.8 Z" fill="#0a0818" stroke="#ccff00" stroke-width="1"/><rect x="233.4" y="86.0" width="33.1" height="4.2" rx="2" fill="#ff003c" opacity="0.95" filter="url(#glow-comics-mrc-3)"/></g>
+<rect width="500" height="300" fill="url(#scan-comics-mrc-3)"/>
+
+<g stroke="#ccff00" stroke-width="2" fill="none" filter="url(#glow-comics-mrc-3)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ccff00">
+  <text x="18" y="22">🦸 COMICS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff003c" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ccff00" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ccff00" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff003c" opacity="0.55" filter="url(#glow-comics-mrc-3)"><tspan x="250" dy="0">IRONWOOD SAGA ART POSTER</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-comics-mrc-3)"><tspan x="250" dy="0">IRONWOOD SAGA ART POSTER</tspan></text>
+</svg>

@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Circuit Kingdoms Fan Summit">
+<defs>
+  <linearGradient id="bg-gaming-evt-3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-gaming-evt-3" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#00fff2" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff2bd6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#00fff2" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-gaming-evt-3" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-gaming-evt-3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-gaming-evt-3)"/>
+<g><circle cx="250" cy="150" r="20" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.50"/><circle cx="250" cy="150" r="40" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.45"/><circle cx="250" cy="150" r="60" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.40"/><circle cx="250" cy="150" r="80" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.30"/><circle cx="250" cy="150" r="120" fill="none" stroke="#00fff2" stroke-width="1.2" opacity="0.25"/><circle cx="250" cy="150" r="140" fill="none" stroke="#ff2bd6" stroke-width="1.2" opacity="0.20"/><circle cx="355.5" cy="242.1" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="293.9" cy="282.9" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="277.9" cy="287.2" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="153.0" cy="251.0" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="135.1" cy="230.1" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="110.9" cy="134.1" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="166.3" cy="37.7" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="213.6" cy="14.8" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="378.2" cy="93.7" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/><circle cx="388.9" cy="132.4" r="2.4" fill="#ff2bd6" opacity="0.85" filter="url(#glow-gaming-evt-3)"/></g>
+<g><ellipse cx="250" cy="183.7" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M222.4,175.5 L244.0,175.5 L245.2,292.0 L223.6,292.0 Z" fill="#080614" stroke="#00fff2" stroke-width="1.2" opacity="0.92"/><path d="M256.0,175.5 L277.6,175.5 L276.4,292.0 L254.8,292.0 Z" fill="#080614" stroke="#00fff2" stroke-width="1.2" opacity="0.92"/><path d="M208.5,99.4 L291.5,99.4 L275.7,175.5 L224.3,175.5 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1.6" opacity="0.95" filter="url(#glow-gaming-evt-3)"/><line x1="250" y1="103.4" x2="250" y2="173.5" stroke="#ff2bd6" stroke-width="1" opacity="0.5"/><path d="M236.0,99.4 L244.0,85.4 L248.0,99.4 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1.2" opacity="0.9"/><path d="M264.0,99.4 L256.0,85.4 L252.0,99.4 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1.2" opacity="0.9"/><line x1="208.5" y1="103.4" x2="211.8" y2="183.5" stroke="#00fff2" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="291.5" y1="103.4" x2="288.2" y2="183.5" stroke="#00fff2" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="92.4" width="10" height="8" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><circle cx="250" cy="75.4" r="21" fill="#0a0818" stroke="#00fff2" stroke-width="1.6" filter="url(#glow-gaming-evt-3)"/><path d="M230.3,63.9 L237.3,48.9 L236.3,63.9 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M236.0,59.2 L239.0,40.2 L242.0,59.2 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M243.2,56.8 L246.2,39.8 L249.2,56.8 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M250.8,56.8 L257.8,43.8 L256.8,56.8 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M258.0,59.2 L263.0,44.2 L264.0,59.2 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><path d="M263.7,63.9 L264.7,45.9 L269.7,63.9 Z" fill="#0a0818" stroke="#00fff2" stroke-width="1"/><rect x="234.9" y="73.4" width="30.2" height="4.2" rx="2" fill="#ff2bd6" opacity="0.95" filter="url(#glow-gaming-evt-3)"/></g>
+<rect width="500" height="300" fill="url(#scan-gaming-evt-3)"/>
+
+<g stroke="#00fff2" stroke-width="2" fill="none" filter="url(#glow-gaming-evt-3)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#00fff2">
+  <text x="18" y="22">🎮 GAMING</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff2bd6" opacity="0.9">EVENT</text>
+
+<text x="486" y="218.0" text-anchor="end" font-family="monospace" font-size="10" fill="#ff2bd6" opacity="0.9">COMPLETED</text>
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#00fff2" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#00fff2" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff2bd6" opacity="0.55" filter="url(#glow-gaming-evt-3)"><tspan x="250" dy="0">CIRCUIT KINGDOMS FAN</tspan><tspan x="250" dy="20">SUMMIT</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-gaming-evt-3)"><tspan x="250" dy="0">CIRCUIT KINGDOMS FAN</tspan><tspan x="250" dy="20">SUMMIT</tspan></text>
+</svg>

@@ -12,7 +12,7 @@
   "date": "2026-05-05",
   "popularity": 77,
   "featured": true,
-  "img": "https://picsum.photos/seed/tvshows-art-1/500/300"
+  "img": "assets/images/Harbor_Nine_A_Beginner_s_Guide.jpg"
  },
  {
   "id": "tvshows-art-2",
@@ -27,7 +27,7 @@
   "date": "2026-09-09",
   "popularity": 95,
   "featured": false,
-  "img": "assets/images/Why_The_Quiet_Syndicate_Is_Trending_Now.jpg"
+  "img": "https://loremflickr.com/500/300/tv,screen"
  },
  {
   "id": "tvshows-art-3",
@@ -42,11 +42,11 @@
   "date": "2026-07-12",
   "popularity": 93,
   "featured": false,
-  "img": "https://picsum.photos/seed/tvshows-art-3/500/300"
+  "img": "assets/images/Behind_the_Scenes_of_Orbit_Street.jpg"
  },
  {
   "id": "tvshows-trl-1",
-  "title": "Harbor Nine \u2014 Official Trailer",
+  "title": "Harbor Nine — Official Trailer",
   "description": "Watch the trailer for Harbor Nine. 2:10 min.",
   "type": "trailer",
   "category": "TV Shows",
@@ -58,11 +58,11 @@
   "popularity": 59,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/tvshows-trl-1/500/300"
+  "img": "assets/images/Harbor_Nine___Official_Trailer.jpg"
  },
  {
   "id": "tvshows-trl-2",
-  "title": "The Quiet Syndicate \u2014 Official Trailer",
+  "title": "The Quiet Syndicate — Official Trailer",
   "description": "Watch the trailer for The Quiet Syndicate. 2:23 min.",
   "type": "trailer",
   "category": "TV Shows",
@@ -74,6 +74,6 @@
   "popularity": 59,
   "featured": false,
   "status": "RECENTLY RELEASED",
-  "img": "https://picsum.photos/seed/tvshows-trl-2/500/300"
+  "img": "assets/images/The_Quiet_Syndicate___Official_Trailer.jpg"
  }
 ]

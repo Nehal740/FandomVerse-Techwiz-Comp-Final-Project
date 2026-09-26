@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yuna Kade">
+<defs>
+  <linearGradient id="bg-anime-chr-4" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-anime-chr-4" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff2bd6" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff2bd6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-anime-chr-4" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-anime-chr-4" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-anime-chr-4)"/>
+<g><rect width="500" height="300" fill="#00fff2" opacity="0.04"/><rect x="-8" y="0.0" width="500" height="10" fill="#ff2bd6" opacity="0.17"/><rect x="-4" y="18.8" width="500" height="8" fill="#00fff2" opacity="0.51"/><rect x="-18" y="37.5" width="500" height="16" fill="#ff2bd6" opacity="0.41"/><rect x="-10" y="56.2" width="500" height="9" fill="#00fff2" opacity="0.50"/><rect x="-10" y="75.0" width="500" height="6" fill="#ff2bd6" opacity="0.47"/><rect x="-11" y="93.8" width="500" height="5" fill="#00fff2" opacity="0.24"/><rect x="25" y="112.5" width="500" height="4" fill="#ff2bd6" opacity="0.35"/><rect x="17" y="131.2" width="500" height="9" fill="#00fff2" opacity="0.40"/><rect x="-8" y="150.0" width="500" height="10" fill="#ff2bd6" opacity="0.35"/><rect x="-4" y="168.8" width="500" height="17" fill="#00fff2" opacity="0.16"/><rect x="-18" y="187.5" width="500" height="9" fill="#ff2bd6" opacity="0.34"/><rect x="-10" y="206.2" width="500" height="16" fill="#00fff2" opacity="0.45"/><rect x="-10" y="225.0" width="500" height="11" fill="#ff2bd6" opacity="0.30"/><rect x="-11" y="243.8" width="500" height="4" fill="#00fff2" opacity="0.35"/><rect x="25" y="262.5" width="500" height="9" fill="#ff2bd6" opacity="0.22"/><rect x="17" y="281.2" width="500" height="16" fill="#00fff2" opacity="0.33"/><rect x="0" y="164" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="252" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="72" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="170" width="500" height="1.5" fill="#ffffff" opacity="0.5"/></g>
+<g><ellipse cx="250" cy="185.0" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M214.7,105.9 C155.4,177.1 180.6,286.0 224.8,292.0 L275.2,292.0 C319.4,286.0 344.6,177.1 285.3,105.9 Z" fill="#00fff2" opacity="0.16"/><path d="M219.2,177.1 L241.0,177.1 L239.5,292.0 L217.7,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M259.0,177.1 L280.8,177.1 L282.3,292.0 L260.5,292.0 Z" fill="#080614" stroke="#ff2bd6" stroke-width="1.2" opacity="0.92"/><path d="M208.0,101.9 L292.0,101.9 L276.0,177.1 L224.0,177.1 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" opacity="0.95" filter="url(#glow-anime-chr-4)"/><line x1="250" y1="105.9" x2="250" y2="175.1" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,101.9 L244.0,87.9 L248.0,101.9 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><path d="M264.0,101.9 L256.0,87.9 L252.0,101.9 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/><path d="M208.0,105.9 L197.9,171.1 L216.4,179.1" fill="none" stroke="#ff2bd6" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="292.0" y1="105.9" x2="292.0" y2="177.1" stroke="#ff2bd6" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="94.9" width="10" height="8" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><circle cx="250" cy="77.9" r="21" fill="#0a0818" stroke="#ff2bd6" stroke-width="1.6" filter="url(#glow-anime-chr-4)"/><path d="M232.9,63.9 L236.9,51.9 L238.9,63.9 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M247.0,59.0 L250.0,40.0 L253.0,59.0 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><path d="M261.1,63.9 L261.1,53.9 L267.1,63.9 Z" fill="#0a0818" stroke="#ff2bd6" stroke-width="1"/><rect x="234.9" y="75.9" width="30.2" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-anime-chr-4)"/></g>
+<rect width="500" height="300" fill="url(#scan-anime-chr-4)"/>
+
+<g stroke="#ff2bd6" stroke-width="2" fill="none" filter="url(#glow-anime-chr-4)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff2bd6">
+  <text x="18" y="22">⛩ ANIME</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">CHARACTER</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ff2bd6" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ff2bd6" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-anime-chr-4)"><tspan x="250" dy="0">YUNA KADE</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-anime-chr-4)"><tspan x="250" dy="0">YUNA KADE</tspan></text>
+</svg>

@@ -12,7 +12,7 @@
   "date": "2026-01-07",
   "popularity": 54,
   "featured": true,
-  "img": "https://picsum.photos/seed/kpop-art-1/500/300"
+  "img": "assets/images/LUMEN-7_A_Beginner_s_Guide.jpg"
  },
  {
   "id": "kpop-art-2",
@@ -27,7 +27,7 @@
   "date": "2026-04-15",
   "popularity": 60,
   "featured": false,
-  "img": "https://picsum.photos/seed/kpop-art-2/500/300"
+  "img": "assets/images/Why_Starfall_Seoul_Is_Trending_Now.jpg"
  },
  {
   "id": "kpop-art-3",
@@ -42,11 +42,11 @@
   "date": "2026-02-11",
   "popularity": 88,
   "featured": false,
-  "img": "https://picsum.photos/seed/kpop-art-3/500/300"
+  "img": "assets/images/Behind_the_Scenes_of_Velvet_Circuit.jpg"
  },
  {
   "id": "kpop-trl-1",
-  "title": "LUMEN-7 \u2014 Official Trailer",
+  "title": "LUMEN-7 — Official Trailer",
   "description": "Watch the trailer for LUMEN-7. 2:10 min.",
   "type": "trailer",
   "category": "K-Pop",
@@ -58,11 +58,11 @@
   "popularity": 50,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/kpop-trl-1/500/300"
+  "img": "assets/images/LUMEN-7___Official_Trailer.jpg"
  },
  {
   "id": "kpop-trl-2",
-  "title": "Starfall Seoul \u2014 Official Trailer",
+  "title": "Starfall Seoul — Official Trailer",
   "description": "Watch the trailer for Starfall Seoul. 2:23 min.",
   "type": "trailer",
   "category": "K-Pop",
@@ -74,6 +74,6 @@
   "popularity": 56,
   "featured": false,
   "status": "RECENTLY RELEASED",
-  "img": "https://picsum.photos/seed/kpop-trl-2/500/300"
+  "img": "assets/images/Starfall_Seoul___Official_Trailer.jpg"
  }
 ]

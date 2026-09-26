@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Midnight Cartographer — Official Trailer">
+<defs>
+  <linearGradient id="bg-movies-trl-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-movies-trl-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff8800" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#0088ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff8800" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-movies-trl-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-movies-trl-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-movies-trl-2)"/>
+<g><circle cx="250" cy="150" r="130" fill="url(#sun-movies-trl-2)" opacity="0.5"/><line x1="250" y1="150" x2="458.0" y2="150.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="451.9" y2="204.1" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="415.4" y2="245.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="401.3" y2="301.3" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="344.5" y2="313.7" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="303.6" y2="349.9" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="250.0" y2="363.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="196.9" y2="348.0" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="152.5" y2="318.9" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="117.8" y2="282.2" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="104.5" y2="234.0" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="70.3" y2="198.1" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="48.0" y2="150.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="91.6" y2="107.6" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="60.3" y2="40.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="134.7" y2="34.7" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="146.0" y2="-30.1" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="195.9" y2="-51.9" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="250.0" y2="-41.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="305.4" y2="-56.7" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="344.5" y2="-13.7" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="396.4" y2="3.6" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="434.5" y2="43.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="448.0" y2="96.9" stroke="#ff8800" stroke-width="1" opacity="0.28"/><circle cx="250" cy="150" r="40" fill="none" stroke="#0088ff" stroke-width="1" opacity="0.35"/><circle cx="250" cy="150" r="70" fill="none" stroke="#0088ff" stroke-width="1" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#0088ff" stroke-width="1" opacity="0.35"/></g>
+<g><ellipse cx="250" cy="180.8" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M219.3,174.5 L244.0,174.5 L244.3,292.0 L219.6,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M256.0,174.5 L280.7,174.5 L280.4,292.0 L255.7,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M202.5,97.6 L297.5,97.6 L279.4,174.5 L220.6,174.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" opacity="0.95" filter="url(#glow-movies-trl-2)"/><line x1="250" y1="101.6" x2="250" y2="172.5" stroke="#0088ff" stroke-width="1" opacity="0.5"/><path d="M236.0,97.6 L244.0,83.6 L248.0,97.6 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><path d="M264.0,97.6 L256.0,83.6 L252.0,97.6 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><line x1="202.5" y1="101.6" x2="206.3" y2="182.5" stroke="#ff8800" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="297.5" y1="101.6" x2="293.7" y2="182.5" stroke="#ff8800" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="90.6" width="10" height="8" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><circle cx="250" cy="69.6" r="25" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" filter="url(#glow-movies-trl-2)"/><path d="M227.2,55.9 L226.2,36.9 L233.2,55.9 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M233.9,50.5 L235.9,33.5 L239.9,50.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M242.4,47.5 L249.4,34.5 L248.4,47.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M251.6,47.5 L256.6,32.5 L257.6,47.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M260.1,50.5 L261.1,35.5 L266.1,50.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M266.8,55.9 L269.8,38.9 L272.8,55.9 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><rect x="232.0" y="67.6" width="36.0" height="4.2" rx="2" fill="#0088ff" opacity="0.95" filter="url(#glow-movies-trl-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-movies-trl-2)"/>
+
+<g stroke="#ff8800" stroke-width="2" fill="none" filter="url(#glow-movies-trl-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff8800">
+  <text x="18" y="22">🎬 MOVIES</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#0088ff" opacity="0.9">TRAILER</text>
+
+<text x="486" y="218.0" text-anchor="end" font-family="monospace" font-size="10" fill="#0088ff" opacity="0.9">RECENTLY RELEASED</text>
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ff8800" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#0088ff" opacity="0.55" filter="url(#glow-movies-trl-2)"><tspan x="250" dy="0">MIDNIGHT CARTOGRAPHER —</tspan><tspan x="250" dy="20">OFFICIAL TRAILER</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-movies-trl-2)"><tspan x="250" dy="0">MIDNIGHT CARTOGRAPHER —</tspan><tspan x="250" dy="20">OFFICIAL TRAILER</tspan></text>
+</svg>

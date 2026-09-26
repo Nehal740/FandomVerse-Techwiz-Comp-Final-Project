@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jax Ryuu">
+<defs>
+  <linearGradient id="bg-kpop-chr-5" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-kpop-chr-5" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#b026ff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff2bd6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#b026ff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-kpop-chr-5" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-kpop-chr-5" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-kpop-chr-5)"/>
+<g><rect width="500" height="300" fill="#b026ff" opacity="0.03"/><path d="M160,262 L250,262 L250,122 L250,122" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M250,122 L105,122 L105,46 L105,46" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M105,46 L105,46 L105,256 L289,256" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M289,256 L289,256 L289,220 L246,220" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M246,220 L378,220 L378,98 L378,98" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M378,98 L168,98 L168,34 L168,34" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M168,34 L54,34 L54,46 L54,46" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><path d="M54,46 L369,46 L369,88 L369,88" stroke="#b026ff" stroke-width="1.4" fill="none" opacity="0.55" filter="url(#glow-kpop-chr-5)"/><circle cx="160" cy="262" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="250" cy="122" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="105" cy="46" r="5" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="289" cy="256" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="246" cy="220" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="378" cy="98" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="168" cy="34" r="5" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="54" cy="46" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/><circle cx="369" cy="88" r="4" fill="#ff2bd6" opacity="0.9" filter="url(#glow-kpop-chr-5)"/></g>
+<g><ellipse cx="250" cy="183.9" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M214.7,106.8 C155.4,177.6 180.6,286.0 224.8,292.0 L275.2,292.0 C319.4,286.0 344.6,177.6 285.3,106.8 Z" fill="#ff2bd6" opacity="0.16"/><path d="M220.2,177.6 L242.0,177.6 L241.1,292.0 L219.3,292.0 Z" fill="#080614" stroke="#b026ff" stroke-width="1.2" opacity="0.92"/><path d="M258.0,177.6 L279.8,177.6 L280.7,292.0 L258.9,292.0 Z" fill="#080614" stroke="#b026ff" stroke-width="1.2" opacity="0.92"/><path d="M208.0,102.8 L292.0,102.8 L276.0,177.6 L224.0,177.6 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1.6" opacity="0.95" filter="url(#glow-kpop-chr-5)"/><line x1="250" y1="106.8" x2="250" y2="175.6" stroke="#ff2bd6" stroke-width="1" opacity="0.5"/><path d="M236.0,102.8 L244.0,88.8 L248.0,102.8 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1.2" opacity="0.9"/><path d="M264.0,102.8 L256.0,88.8 L252.0,102.8 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1.2" opacity="0.9"/><line x1="208.0" y1="106.8" x2="211.4" y2="185.6" stroke="#b026ff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="292.0" y1="106.8" x2="288.6" y2="185.6" stroke="#b026ff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="95.8" width="10" height="8" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><circle cx="250" cy="75.8" r="24" fill="#0a0818" stroke="#b026ff" stroke-width="1.6" filter="url(#glow-kpop-chr-5)"/><path d="M229.4,61.1 L232.4,49.1 L235.4,61.1 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><path d="M240.5,55.0 L241.5,39.0 L246.5,55.0 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><path d="M253.5,55.0 L253.5,39.0 L259.5,55.0 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><path d="M264.6,61.1 L268.6,43.1 L270.6,61.1 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><rect x="232.7" y="73.8" width="34.6" height="4.2" rx="2" fill="#ff2bd6" opacity="0.95" filter="url(#glow-kpop-chr-5)"/></g>
+<rect width="500" height="300" fill="url(#scan-kpop-chr-5)"/>
+
+<g stroke="#b026ff" stroke-width="2" fill="none" filter="url(#glow-kpop-chr-5)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#b026ff">
+  <text x="18" y="22">🎤 K-POP</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff2bd6" opacity="0.9">CHARACTER</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#b026ff" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#b026ff" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff2bd6" opacity="0.55" filter="url(#glow-kpop-chr-5)"><tspan x="250" dy="0">JAX RYUU</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-kpop-chr-5)"><tspan x="250" dy="0">JAX RYUU</tspan></text>
+</svg>

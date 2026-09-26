@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yuna Kade">
+<defs>
+  <linearGradient id="bg-tvshows-chr-4" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-tvshows-chr-4" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#00aaff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#b026ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#00aaff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-tvshows-chr-4" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-tvshows-chr-4" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-tvshows-chr-4)"/>
+<g><circle cx="250" cy="150" r="130" fill="url(#sun-tvshows-chr-4)" opacity="0.5"/><line x1="250" y1="150" x2="433.0" y2="150.0" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="426.8" y2="197.4" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="435.3" y2="257.0" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="385.1" y2="285.1" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="350.5" y2="324.1" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="306.2" y2="359.6" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="250.0" y2="323.0" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="193.3" y2="361.5" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="155.0" y2="314.5" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="122.0" y2="278.0" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="90.7" y2="242.0" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="75.2" y2="196.8" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="87.0" y2="150.0" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="48.1" y2="95.9" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="104.5" y2="66.0" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="120.6" y2="20.6" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="158.5" y2="-8.5" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="202.6" y2="-26.8" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="250.0" y2="-64.0" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="299.4" y2="-34.5" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="350.5" y2="-24.1" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="403.4" y2="-3.4" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="399.8" y2="63.5" stroke="#00aaff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="461.5" y2="93.3" stroke="#00aaff" stroke-width="1" opacity="0.28"/><circle cx="250" cy="150" r="40" fill="none" stroke="#b026ff" stroke-width="1" opacity="0.35"/><circle cx="250" cy="150" r="70" fill="none" stroke="#b026ff" stroke-width="1" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#b026ff" stroke-width="1" opacity="0.35"/></g>
+<g><ellipse cx="250" cy="181.0" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M223.5,172.9 L244.0,172.9 L242.8,292.0 L222.3,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M256.0,172.9 L276.5,172.9 L277.7,292.0 L257.2,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M210.5,95.1 L289.5,95.1 L274.5,172.9 L225.5,172.9 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" opacity="0.95" filter="url(#glow-tvshows-chr-4)"/><line x1="250" y1="99.1" x2="250" y2="170.9" stroke="#b026ff" stroke-width="1" opacity="0.5"/><path d="M236.0,95.1 L244.0,81.1 L248.0,95.1 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M264.0,95.1 L256.0,81.1 L252.0,95.1 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><rect x="214.1" y="101.1" width="39.5" height="9" rx="4" fill="#0a0818" stroke="#00aaff" stroke-width="1.1"/><rect x="237.4" y="113.1" width="39.5" height="9" rx="4" fill="#0a0818" stroke="#00aaff" stroke-width="1.1"/><rect x="245" y="88.1" width="10" height="8" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><circle cx="250" cy="70.1" r="22" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" filter="url(#glow-tvshows-chr-4)"/><path d="M230.0,57.4 L232.0,46.4 L236.0,57.4 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M237.6,52.1 L236.6,35.1 L243.6,52.1 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M247.0,50.3 L246.0,37.3 L253.0,50.3 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M256.4,52.1 L261.4,33.1 L262.4,52.1 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M264.0,57.4 L265.0,47.4 L270.0,57.4 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><rect x="234.2" y="68.1" width="31.7" height="4.2" rx="2" fill="#b026ff" opacity="0.95" filter="url(#glow-tvshows-chr-4)"/></g>
+<rect width="500" height="300" fill="url(#scan-tvshows-chr-4)"/>
+
+<g stroke="#00aaff" stroke-width="2" fill="none" filter="url(#glow-tvshows-chr-4)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#00aaff">
+  <text x="18" y="22">📺 TV SHOWS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#b026ff" opacity="0.9">CHARACTER</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#00aaff" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#b026ff" opacity="0.55" filter="url(#glow-tvshows-chr-4)"><tspan x="250" dy="0">YUNA KADE</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-tvshows-chr-4)"><tspan x="250" dy="0">YUNA KADE</tspan></text>
+</svg>

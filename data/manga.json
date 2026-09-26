@@ -12,7 +12,7 @@
   "date": "2026-06-15",
   "popularity": 96,
   "featured": true,
-  "img": "assets/images/Crimson_Kalpa.jpg"
+  "img": "assets/images/Crimson_Kalpa_A_Beginner_s_Guide.jpg"
  },
  {
   "id": "manga-art-2",
@@ -27,7 +27,7 @@
   "date": "2026-06-12",
   "popularity": 55,
   "featured": false,
-  "img": "https://picsum.photos/seed/manga-art-2/500/300"
+  "img": "assets/images/Why_Moonlit_Ronin_Is_Trending_Now.jpg"
  },
  {
   "id": "manga-art-3",
@@ -42,11 +42,11 @@
   "date": "2026-04-04",
   "popularity": 64,
   "featured": false,
-  "img": "https://picsum.photos/seed/manga-art-3/500/300"
+  "img": "assets/images/Behind_the_Scenes_of_Ink___Ember.jpg"
  },
  {
   "id": "manga-trl-1",
-  "title": "Crimson Kalpa \u2014 Official Trailer",
+  "title": "Crimson Kalpa — Official Trailer",
   "description": "Watch the trailer for Crimson Kalpa. 2:10 min.",
   "type": "trailer",
   "category": "Manga",
@@ -58,11 +58,11 @@
   "popularity": 71,
   "featured": false,
   "status": "UPCOMING",
-  "img": "assets/images/Crimson_Kalpa.jpg"
+  "img": "assets/images/Crimson_Kalpa___Official_Trailer.jpg"
  },
  {
   "id": "manga-trl-2",
-  "title": "Moonlit Ronin \u2014 Official Trailer",
+  "title": "Moonlit Ronin — Official Trailer",
   "description": "Watch the trailer for Moonlit Ronin. 2:23 min.",
   "type": "trailer",
   "category": "Manga",
@@ -74,6 +74,6 @@
   "popularity": 89,
   "featured": false,
   "status": "RECENTLY RELEASED",
-  "img": "https://picsum.photos/seed/manga-trl-2/500/300"
+  "img": "assets/images/Moonlit_Ronin___Official_Trailer.jpg"
  }
 ]

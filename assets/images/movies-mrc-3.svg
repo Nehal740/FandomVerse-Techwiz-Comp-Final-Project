@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Iron Lantern Art Poster">
+<defs>
+  <linearGradient id="bg-movies-mrc-3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-movies-mrc-3" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff8800" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#0088ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff8800" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-movies-mrc-3" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-movies-mrc-3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-movies-mrc-3)"/>
+<g><rect x="1.0" y="278.0" width="16.2" height="22" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="1.0" y="274.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="20.2" y="166.0" width="16.2" height="134" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="20.2" y="162.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="39.5" y="170.0" width="16.2" height="130" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="39.5" y="166.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="58.7" y="181.0" width="16.2" height="119" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="58.7" y="177.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="77.9" y="205.0" width="16.2" height="95" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="77.9" y="201.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="97.2" y="230.0" width="16.2" height="70" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="97.2" y="226.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="116.4" y="256.0" width="16.2" height="44" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="116.4" y="252.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="135.6" y="161.0" width="16.2" height="139" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="135.6" y="157.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="154.8" y="245.0" width="16.2" height="55" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="154.8" y="241.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="174.1" y="228.0" width="16.2" height="72" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="174.1" y="224.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="193.3" y="187.0" width="16.2" height="113" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="193.3" y="183.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="212.5" y="168.0" width="16.2" height="132" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="212.5" y="164.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="231.8" y="164.0" width="16.2" height="136" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="231.8" y="160.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="251.0" y="277.0" width="16.2" height="23" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="251.0" y="273.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="270.2" y="246.0" width="16.2" height="54" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="270.2" y="242.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="289.5" y="220.0" width="16.2" height="80" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="289.5" y="216.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="308.7" y="278.0" width="16.2" height="22" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="308.7" y="274.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="327.9" y="166.0" width="16.2" height="134" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="327.9" y="162.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="347.2" y="170.0" width="16.2" height="130" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="347.2" y="166.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="366.4" y="181.0" width="16.2" height="119" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="366.4" y="177.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="385.6" y="205.0" width="16.2" height="95" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="385.6" y="201.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="404.8" y="230.0" width="16.2" height="70" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="404.8" y="226.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="424.1" y="256.0" width="16.2" height="44" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="424.1" y="252.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="443.3" y="161.0" width="16.2" height="139" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="443.3" y="157.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="462.5" y="245.0" width="16.2" height="55" fill="#ff8800" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="462.5" y="241.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><rect x="481.8" y="228.0" width="16.2" height="72" fill="#0088ff" opacity="0.65" filter="url(#glow-movies-mrc-3)"/><rect x="481.8" y="224.0" width="16.2" height="2" fill="#ffffff" opacity="0.5"/><line x1="0" y1="299" x2="500" y2="299" stroke="#ff8800" stroke-width="1.5" opacity="0.8"/></g>
+<g><ellipse cx="250" cy="189.8" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M210.1,119.7 C142.5,185.4 171.0,286.0 221.5,292.0 L278.5,292.0 C329.0,286.0 357.5,185.4 289.9,119.7 Z" fill="#0088ff" opacity="0.16"/><path d="M216.3,185.4 L241.0,185.4 L240.1,292.0 L215.4,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M259.0,185.4 L283.7,185.4 L284.6,292.0 L259.9,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M202.5,115.7 L297.5,115.7 L279.4,185.4 L220.6,185.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" opacity="0.95" filter="url(#glow-movies-mrc-3)"/><line x1="250" y1="119.7" x2="250" y2="183.4" stroke="#0088ff" stroke-width="1" opacity="0.5"/><path d="M236.0,115.7 L244.0,101.7 L248.0,115.7 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><path d="M264.0,115.7 L256.0,101.7 L252.0,115.7 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><rect x="208.7" y="121.7" width="47.5" height="9" rx="4" fill="#0a0818" stroke="#ff8800" stroke-width="1.1"/><rect x="234.8" y="133.7" width="47.5" height="9" rx="4" fill="#0a0818" stroke="#ff8800" stroke-width="1.1"/><rect x="245" y="108.7" width="10" height="8" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><circle cx="250" cy="87.7" r="25" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" filter="url(#glow-movies-mrc-3)"/><path d="M227.2,74.0 L225.2,59.0 L233.2,74.0 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M233.9,68.5 L240.9,58.5 L239.9,68.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M242.4,65.6 L245.4,51.6 L248.4,65.6 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M251.6,65.6 L249.6,46.6 L257.6,65.6 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M260.1,68.5 L262.1,53.5 L266.1,68.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M266.8,74.0 L273.8,62.0 L272.8,74.0 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><rect x="232.0" y="85.7" width="36.0" height="4.2" rx="2" fill="#0088ff" opacity="0.95" filter="url(#glow-movies-mrc-3)"/></g>
+<rect width="500" height="300" fill="url(#scan-movies-mrc-3)"/>
+
+<g stroke="#ff8800" stroke-width="2" fill="none" filter="url(#glow-movies-mrc-3)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff8800">
+  <text x="18" y="22">🎬 MOVIES</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#0088ff" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ff8800" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#0088ff" opacity="0.55" filter="url(#glow-movies-mrc-3)"><tspan x="250" dy="0">IRON LANTERN ART POSTER</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-movies-mrc-3)"><tspan x="250" dy="0">IRON LANTERN ART POSTER</tspan></text>
+</svg>

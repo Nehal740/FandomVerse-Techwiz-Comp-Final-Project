@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jax Ryuu">
+<defs>
+  <linearGradient id="bg-movies-chr-5" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-movies-chr-5" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff8800" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#0088ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff8800" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-movies-chr-5" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-movies-chr-5" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-movies-chr-5)"/>
+<g><rect width="500" height="300" fill="#0088ff" opacity="0.04"/><rect x="23" y="0.0" width="500" height="5" fill="#ff8800" opacity="0.48"/><rect x="6" y="18.8" width="500" height="15" fill="#0088ff" opacity="0.18"/><rect x="-18" y="37.5" width="500" height="16" fill="#ff8800" opacity="0.31"/><rect x="-21" y="56.2" width="500" height="12" fill="#0088ff" opacity="0.15"/><rect x="-27" y="75.0" width="500" height="14" fill="#ff8800" opacity="0.47"/><rect x="-29" y="93.8" width="500" height="10" fill="#0088ff" opacity="0.41"/><rect x="-15" y="112.5" width="500" height="13" fill="#ff8800" opacity="0.24"/><rect x="23" y="131.2" width="500" height="16" fill="#0088ff" opacity="0.51"/><rect x="23" y="150.0" width="500" height="9" fill="#ff8800" opacity="0.18"/><rect x="6" y="168.8" width="500" height="5" fill="#0088ff" opacity="0.34"/><rect x="-18" y="187.5" width="500" height="5" fill="#ff8800" opacity="0.16"/><rect x="-21" y="206.2" width="500" height="16" fill="#0088ff" opacity="0.29"/><rect x="-27" y="225.0" width="500" height="17" fill="#ff8800" opacity="0.50"/><rect x="-29" y="243.8" width="500" height="15" fill="#0088ff" opacity="0.50"/><rect x="-15" y="262.5" width="500" height="5" fill="#ff8800" opacity="0.48"/><rect x="23" y="281.2" width="500" height="9" fill="#0088ff" opacity="0.24"/><rect x="0" y="246" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="266" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="212" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="260" width="500" height="1.5" fill="#ffffff" opacity="0.5"/></g>
+<g><ellipse cx="250" cy="189.3" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M218.6,182.3 L243.0,182.3 L242.7,292.0 L218.3,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M257.0,182.3 L281.4,182.3 L281.7,292.0 L257.3,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M203.0,110.5 L297.0,110.5 L279.1,182.3 L220.9,182.3 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" opacity="0.95" filter="url(#glow-movies-chr-5)"/><line x1="250" y1="114.5" x2="250" y2="180.3" stroke="#0088ff" stroke-width="1" opacity="0.5"/><path d="M236.0,110.5 L244.0,96.5 L248.0,110.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><path d="M264.0,110.5 L256.0,96.5 L252.0,110.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><line x1="203.0" y1="114.5" x2="206.8" y2="190.3" stroke="#ff8800" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="297.0" y1="114.5" x2="293.2" y2="190.3" stroke="#ff8800" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="103.5" width="10" height="8" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><circle cx="250" cy="86.5" r="21" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" filter="url(#glow-movies-chr-5)"/><path d="M230.3,75.0 L234.3,63.0 L236.3,75.0 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M236.0,70.4 L234.0,54.4 L242.0,70.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M243.2,68.0 L243.2,49.0 L249.2,68.0 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M250.8,68.0 L254.8,52.0 L256.8,68.0 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M258.0,70.4 L265.0,57.4 L264.0,70.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M263.7,75.0 L267.7,56.0 L269.7,75.0 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><rect x="234.9" y="84.5" width="30.2" height="4.2" rx="2" fill="#0088ff" opacity="0.95" filter="url(#glow-movies-chr-5)"/></g>
+<rect width="500" height="300" fill="url(#scan-movies-chr-5)"/>
+
+<g stroke="#ff8800" stroke-width="2" fill="none" filter="url(#glow-movies-chr-5)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff8800">
+  <text x="18" y="22">🎬 MOVIES</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#0088ff" opacity="0.9">CHARACTER</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#ff8800" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#0088ff" opacity="0.55" filter="url(#glow-movies-chr-5)"><tspan x="250" dy="0">JAX RYUU</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-movies-chr-5)"><tspan x="250" dy="0">JAX RYUU</tspan></text>
+</svg>

@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Moonlit Ronin Collector Figure">
+<defs>
+  <linearGradient id="bg-manga-mrc-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-manga-mrc-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff003c" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#00fff2" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff003c" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-manga-mrc-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-manga-mrc-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-manga-mrc-2)"/>
+<g><circle cx="250" cy="184" r="95" fill="url(#sun-manga-mrc-2)"/><rect x="0.0" y="137.0" width="25.0" height="41" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="17.0" y="142.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="35.7" y="144.0" width="25.0" height="34" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="52.7" y="149.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="71.4" y="118.0" width="25.0" height="60" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="88.4" y="123.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="107.1" y="114.0" width="25.0" height="64" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="124.1" y="119.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="142.9" y="123.0" width="25.0" height="55" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="159.9" y="128.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="178.6" y="144.0" width="25.0" height="34" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="195.6" y="149.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="214.3" y="133.0" width="25.0" height="45" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="231.3" y="138.0" width="4" height="3" fill="#ff003c" opacity="0.85"/><rect x="250.0" y="110.0" width="25.0" height="68" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="267.0" y="115.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="285.7" y="108.0" width="25.0" height="70" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="302.7" y="113.0" width="4" height="3" fill="#ff003c" opacity="0.85"/><rect x="321.4" y="131.0" width="25.0" height="47" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="338.4" y="136.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="357.1" y="132.0" width="25.0" height="46" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="374.1" y="137.0" width="4" height="3" fill="#ff003c" opacity="0.85"/><rect x="392.9" y="127.0" width="25.0" height="51" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="409.9" y="132.0" width="4" height="3" fill="#ff003c" opacity="0.85"/><rect x="428.6" y="119.0" width="25.0" height="59" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="445.6" y="124.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="464.3" y="135.0" width="25.0" height="43" fill="#0a0820" stroke="#ff003c" stroke-opacity="0.35" stroke-width="0.6"/><rect x="481.3" y="140.0" width="4" height="3" fill="#ff003c" opacity="0.85"/><line x1="0" y1="178" x2="500" y2="178" stroke="#ff003c" stroke-width="1.4" opacity="0.8" filter="url(#glow-manga-mrc-2)"/><line x1="0" y1="180.3" x2="500" y2="180.3" stroke="#ff003c" stroke-width="1" opacity="0.16"/><line x1="0" y1="186.1" x2="500" y2="186.1" stroke="#ff003c" stroke-width="1" opacity="0.20"/><line x1="0" y1="194.9" x2="500" y2="194.9" stroke="#ff003c" stroke-width="1" opacity="0.24"/><line x1="0" y1="206.3" x2="500" y2="206.3" stroke="#ff003c" stroke-width="1" opacity="0.28"/><line x1="0" y1="220.4" x2="500" y2="220.4" stroke="#ff003c" stroke-width="1" opacity="0.31"/><line x1="0" y1="236.8" x2="500" y2="236.8" stroke="#ff003c" stroke-width="1" opacity="0.35"/><line x1="0" y1="255.6" x2="500" y2="255.6" stroke="#ff003c" stroke-width="1" opacity="0.39"/><line x1="0" y1="276.7" x2="500" y2="276.7" stroke="#ff003c" stroke-width="1" opacity="0.43"/><line x1="0" y1="300.0" x2="500" y2="300.0" stroke="#ff003c" stroke-width="1" opacity="0.47"/><line x1="0" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="42" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="84" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="126" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="168" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="210" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="252" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="294" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="336" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="378" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="420" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/><line x1="462" y1="300" x2="250" y2="178" stroke="#ff003c" stroke-width="1" opacity="0.22"/></g>
+<g><ellipse cx="250" cy="195.2" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M219.4,190.6 L242.0,190.6 L241.4,292.0 L218.8,292.0 Z" fill="#080614" stroke="#ff003c" stroke-width="1.2" opacity="0.92"/><path d="M258.0,190.6 L280.6,190.6 L281.2,292.0 L258.6,292.0 Z" fill="#080614" stroke="#ff003c" stroke-width="1.2" opacity="0.92"/><path d="M206.5,124.3 L293.5,124.3 L277.0,190.6 L223.0,190.6 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.6" opacity="0.95" filter="url(#glow-manga-mrc-2)"/><line x1="250" y1="128.3" x2="250" y2="188.6" stroke="#00fff2" stroke-width="1" opacity="0.5"/><path d="M236.0,124.3 L244.0,110.3 L248.0,124.3 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/><path d="M264.0,124.3 L256.0,110.3 L252.0,124.3 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/><line x1="206.5" y1="128.3" x2="210.0" y2="198.6" stroke="#ff003c" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="293.5" y1="128.3" x2="290.0" y2="198.6" stroke="#ff003c" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="117.3" width="10" height="8" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><circle cx="250" cy="98.3" r="23" fill="#0a0818" stroke="#ff003c" stroke-width="1.6" filter="url(#glow-manga-mrc-2)"/><path d="M231.6,82.9 L229.6,65.9 L237.6,82.9 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M247.0,77.6 L247.0,63.6 L253.0,77.6 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><path d="M262.4,82.9 L267.4,69.9 L268.4,82.9 Z" fill="#0a0818" stroke="#ff003c" stroke-width="1"/><rect x="233.4" y="96.3" width="33.1" height="4.2" rx="2" fill="#00fff2" opacity="0.95" filter="url(#glow-manga-mrc-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-manga-mrc-2)"/>
+
+<g stroke="#ff003c" stroke-width="2" fill="none" filter="url(#glow-manga-mrc-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff003c">
+  <text x="18" y="22">📖 MANGA</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#00fff2" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ff003c" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ff003c" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#00fff2" opacity="0.55" filter="url(#glow-manga-mrc-2)"><tspan x="250" dy="0">MOONLIT RONIN COLLECTOR</tspan><tspan x="250" dy="20">FIGURE</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-manga-mrc-2)"><tspan x="250" dy="0">MOONLIT RONIN COLLECTOR</tspan><tspan x="250" dy="20">FIGURE</tspan></text>
+</svg>

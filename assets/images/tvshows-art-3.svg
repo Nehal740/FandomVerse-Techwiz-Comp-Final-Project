@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Behind the Scenes of Orbit Street">
+<defs>
+  <linearGradient id="bg-tvshows-art-3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-tvshows-art-3" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#00aaff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#b026ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#00aaff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-tvshows-art-3" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-tvshows-art-3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-tvshows-art-3)"/>
+<g><rect width="500" height="300" fill="#b026ff" opacity="0.04"/><rect x="-9" y="0.0" width="500" height="9" fill="#00aaff" opacity="0.16"/><rect x="15" y="18.8" width="500" height="4" fill="#b026ff" opacity="0.25"/><rect x="-29" y="37.5" width="500" height="11" fill="#00aaff" opacity="0.40"/><rect x="9" y="56.2" width="500" height="12" fill="#b026ff" opacity="0.51"/><rect x="-28" y="75.0" width="500" height="17" fill="#00aaff" opacity="0.36"/><rect x="-30" y="93.8" width="500" height="13" fill="#b026ff" opacity="0.52"/><rect x="-6" y="112.5" width="500" height="15" fill="#00aaff" opacity="0.54"/><rect x="-10" y="131.2" width="500" height="9" fill="#b026ff" opacity="0.18"/><rect x="-9" y="150.0" width="500" height="4" fill="#00aaff" opacity="0.37"/><rect x="15" y="168.8" width="500" height="14" fill="#b026ff" opacity="0.29"/><rect x="-29" y="187.5" width="500" height="8" fill="#00aaff" opacity="0.35"/><rect x="9" y="206.2" width="500" height="5" fill="#b026ff" opacity="0.50"/><rect x="-28" y="225.0" width="500" height="8" fill="#00aaff" opacity="0.39"/><rect x="-30" y="243.8" width="500" height="17" fill="#b026ff" opacity="0.20"/><rect x="-6" y="262.5" width="500" height="4" fill="#00aaff" opacity="0.35"/><rect x="-10" y="281.2" width="500" height="5" fill="#b026ff" opacity="0.38"/><rect x="0" y="162" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="180" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="230" width="500" height="1.5" fill="#ffffff" opacity="0.5"/><rect x="0" y="92" width="500" height="1.5" fill="#ffffff" opacity="0.5"/></g>
+<g><ellipse cx="250" cy="184.9" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M222.4,177.6 L244.0,177.6 L244.0,292.0 L222.4,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M256.0,177.6 L277.6,177.6 L277.6,292.0 L256.0,292.0 Z" fill="#080614" stroke="#00aaff" stroke-width="1.2" opacity="0.92"/><path d="M208.5,102.8 L291.5,102.8 L275.7,177.6 L224.3,177.6 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" opacity="0.95" filter="url(#glow-tvshows-art-3)"/><line x1="250" y1="106.8" x2="250" y2="175.6" stroke="#b026ff" stroke-width="1" opacity="0.5"/><path d="M236.0,102.8 L244.0,88.8 L248.0,102.8 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M264.0,102.8 L256.0,88.8 L252.0,102.8 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/><path d="M208.5,106.8 L198.5,171.6 L216.8,179.6" fill="none" stroke="#00aaff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="291.5" y1="106.8" x2="291.5" y2="177.6" stroke="#00aaff" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="95.8" width="10" height="8" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><circle cx="250" cy="77.8" r="22" fill="#0a0818" stroke="#00aaff" stroke-width="1.6" filter="url(#glow-tvshows-art-3)"/><path d="M230.0,65.2 L233.0,54.2 L236.0,65.2 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M237.6,59.9 L241.6,42.9 L243.6,59.9 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M247.0,58.0 L246.0,39.0 L253.0,58.0 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M256.4,59.9 L261.4,46.9 L262.4,59.9 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><path d="M264.0,65.2 L271.0,53.2 L270.0,65.2 Z" fill="#0a0818" stroke="#00aaff" stroke-width="1"/><rect x="234.2" y="75.8" width="31.7" height="4.2" rx="2" fill="#b026ff" opacity="0.95" filter="url(#glow-tvshows-art-3)"/></g>
+<rect width="500" height="300" fill="url(#scan-tvshows-art-3)"/>
+
+<g stroke="#00aaff" stroke-width="2" fill="none" filter="url(#glow-tvshows-art-3)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#00aaff">
+  <text x="18" y="22">📺 TV SHOWS</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#b026ff" opacity="0.9">ARTICLE</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#00aaff" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#00aaff" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#b026ff" opacity="0.55" filter="url(#glow-tvshows-art-3)"><tspan x="250" dy="0">BEHIND THE SCENES OF</tspan><tspan x="250" dy="20">ORBIT STREET</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-tvshows-art-3)"><tspan x="250" dy="0">BEHIND THE SCENES OF</tspan><tspan x="250" dy="20">ORBIT STREET</tspan></text>
+</svg>

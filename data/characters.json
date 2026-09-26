@@ -87,7 +87,7 @@
   "date": "2026-08-19",
   "popularity": 79,
   "featured": true,
-  "img": "https://picsum.photos/seed/gaming-chr-1/500/300"
+  "img": "assets/images/Kaito_Voss_gaming.jpg"
  },
  {
   "id": "gaming-chr-2",
@@ -102,7 +102,7 @@
   "date": "2026-06-10",
   "popularity": 65,
   "featured": false,
-  "img": "https://picsum.photos/seed/gaming-chr-2/500/300"
+  "img": "assets/images/Mira_Solen_gaming.jpg"
  },
  {
   "id": "gaming-chr-3",
@@ -117,7 +117,7 @@
   "date": "2026-03-23",
   "popularity": 99,
   "featured": false,
-  "img": "assets/images/Ren_Ashford2.jpg"
+  "img": "assets/images/Ren_Ashford_gaming.jpg"
  },
  {
   "id": "gaming-chr-4",
@@ -132,7 +132,7 @@
   "date": "2026-04-03",
   "popularity": 86,
   "featured": false,
-  "img": "assets/images/Yuna_Kade2.jpg"
+  "img": "assets/images/Yuna_Kade_gaming.jpg"
  },
  {
   "id": "gaming-chr-5",
@@ -147,7 +147,7 @@
   "date": "2026-05-17",
   "popularity": 81,
   "featured": false,
-  "img": "https://picsum.photos/seed/gaming-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu_gaming.jpg"
  },
  {
   "id": "movies-chr-1",
@@ -162,7 +162,7 @@
   "date": "2026-02-02",
   "popularity": 96,
   "featured": true,
-  "img": "https://picsum.photos/seed/movies-chr-1/500/300"
+  "img": "assets/images/Kaito_Voss_movies.jpg"
  },
  {
   "id": "movies-chr-2",
@@ -177,7 +177,7 @@
   "date": "2026-05-21",
   "popularity": 86,
   "featured": false,
-  "img": "https://picsum.photos/seed/movies-chr-2/500/300"
+  "img": "assets/images/Mira_Solen_movies.jpg"
  },
  {
   "id": "movies-chr-3",
@@ -207,7 +207,7 @@
   "date": "2026-07-22",
   "popularity": 72,
   "featured": false,
-  "img": "https://picsum.photos/seed/movies-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade_movies.jpg"
  },
  {
   "id": "movies-chr-5",
@@ -222,7 +222,7 @@
   "date": "2026-01-15",
   "popularity": 72,
   "featured": false,
-  "img": "https://picsum.photos/seed/movies-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu_movies.jpg"
  },
  {
   "id": "tvshows-chr-1",
@@ -237,7 +237,7 @@
   "date": "2026-04-22",
   "popularity": 64,
   "featured": true,
-  "img": "https://picsum.photos/seed/tvshows-chr-1/500/300"
+  "img": "assets/images/Kaito_Voss_tvshows.jpg"
  },
  {
   "id": "tvshows-chr-2",
@@ -252,7 +252,7 @@
   "date": "2026-01-16",
   "popularity": 87,
   "featured": false,
-  "img": "https://picsum.photos/seed/tvshows-chr-2/500/300"
+  "img": "assets/images/Mira_Solen_tvshows.jpg"
  },
  {
   "id": "tvshows-chr-3",
@@ -267,7 +267,7 @@
   "date": "2026-03-09",
   "popularity": 68,
   "featured": false,
-  "img": "https://picsum.photos/seed/tvshows-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford_tvshows.jpg"
  },
  {
   "id": "tvshows-chr-4",
@@ -282,7 +282,7 @@
   "date": "2026-01-05",
   "popularity": 76,
   "featured": false,
-  "img": "https://picsum.photos/seed/tvshows-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade_tvshows.jpg"
  },
  {
   "id": "tvshows-chr-5",
@@ -297,7 +297,7 @@
   "date": "2026-09-12",
   "popularity": 89,
   "featured": false,
-  "img": "https://picsum.photos/seed/tvshows-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu_tvshows.jpg"
  },
  {
   "id": "kpop-chr-1",
@@ -312,7 +312,7 @@
   "date": "2026-06-20",
   "popularity": 51,
   "featured": true,
-  "img": "https://picsum.photos/seed/kpop-chr-1/500/300"
+  "img": "assets/images/Kaito_Voss_kpop.jpg"
  },
  {
   "id": "kpop-chr-2",
@@ -327,7 +327,7 @@
   "date": "2026-02-28",
   "popularity": 63,
   "featured": false,
-  "img": "https://picsum.photos/seed/kpop-chr-2/500/300"
+  "img": "assets/images/Mira_Solen_kpop.jpg"
  },
  {
   "id": "kpop-chr-3",
@@ -342,7 +342,7 @@
   "date": "2026-07-05",
   "popularity": 90,
   "featured": false,
-  "img": "https://picsum.photos/seed/kpop-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford_kpop.jpg"
  },
  {
   "id": "kpop-chr-4",
@@ -357,7 +357,7 @@
   "date": "2026-05-12",
   "popularity": 88,
   "featured": false,
-  "img": "https://picsum.photos/seed/kpop-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade_kpop.jpg"
  },
  {
   "id": "kpop-chr-5",
@@ -372,7 +372,7 @@
   "date": "2026-06-16",
   "popularity": 57,
   "featured": false,
-  "img": "https://picsum.photos/seed/kpop-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu_kpop.jpg"
  },
  {
   "id": "comics-chr-1",
@@ -387,7 +387,7 @@
   "date": "2026-03-12",
   "popularity": 99,
   "featured": true,
-  "img": "https://picsum.photos/seed/comics-chr-1/500/300"
+  "img": "assets/images/Kaito_Voss_comics.jpg"
  },
  {
   "id": "comics-chr-2",
@@ -402,7 +402,7 @@
   "date": "2026-04-18",
   "popularity": 84,
   "featured": false,
-  "img": "https://picsum.photos/seed/comics-chr-2/500/300"
+  "img": "assets/images/Mira_Solen_comics.jpg"
  },
  {
   "id": "comics-chr-3",
@@ -417,7 +417,7 @@
   "date": "2026-09-11",
   "popularity": 90,
   "featured": false,
-  "img": "https://picsum.photos/seed/comics-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford_comics.jpg"
  },
  {
   "id": "comics-chr-4",
@@ -432,7 +432,7 @@
   "date": "2026-04-20",
   "popularity": 98,
   "featured": false,
-  "img": "https://picsum.photos/seed/comics-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade_comics.jpg"
  },
  {
   "id": "comics-chr-5",
@@ -447,7 +447,7 @@
   "date": "2026-04-26",
   "popularity": 65,
   "featured": false,
-  "img": "https://picsum.photos/seed/comics-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu_comics.jpg"
  },
  {
   "id": "manga-chr-1",
@@ -462,7 +462,7 @@
   "date": "2026-01-16",
   "popularity": 91,
   "featured": true,
-  "img": "assets/images/Crimson_Kalpa.jpg"
+  "img": "assets/images/Kaito_Voss_manga.jpg"
  },
  {
   "id": "manga-chr-2",
@@ -477,7 +477,7 @@
   "date": "2026-06-26",
   "popularity": 91,
   "featured": false,
-  "img": "https://picsum.photos/seed/manga-chr-2/500/300"
+  "img": "assets/images/Mira_Solen_manga.jpg"
  },
  {
   "id": "manga-chr-3",
@@ -492,7 +492,7 @@
   "date": "2026-02-27",
   "popularity": 92,
   "featured": false,
-  "img": "https://picsum.photos/seed/manga-chr-3/500/300"
+  "img": "assets/images/Ren_Ashford_manga.jpg"
  },
  {
   "id": "manga-chr-4",
@@ -507,7 +507,7 @@
   "date": "2026-02-13",
   "popularity": 95,
   "featured": false,
-  "img": "https://picsum.photos/seed/manga-chr-4/500/300"
+  "img": "assets/images/Yuna_Kade_manga.jpg"
  },
  {
   "id": "manga-chr-5",
@@ -522,6 +522,6 @@
   "date": "2026-04-16",
   "popularity": 61,
   "featured": false,
-  "img": "https://picsum.photos/seed/manga-chr-5/500/300"
+  "img": "assets/images/Jax_Ryuu_manga.jpg"
  }
 ]

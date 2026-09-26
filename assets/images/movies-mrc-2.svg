@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Midnight Cartographer Collector Figure">
+<defs>
+  <linearGradient id="bg-movies-mrc-2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-movies-mrc-2" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#ff8800" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#0088ff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ff8800" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-movies-mrc-2" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-movies-mrc-2" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-movies-mrc-2)"/>
+<g><circle cx="250" cy="150" r="130" fill="url(#sun-movies-mrc-2)" opacity="0.5"/><line x1="250" y1="150" x2="410.0" y2="150.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="446.1" y2="202.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="395.5" y2="234.0" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="368.1" y2="268.1" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="349.5" y2="322.3" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="299.4" y2="334.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="250.0" y2="355.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="205.7" y2="315.2" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="151.5" y2="320.6" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="107.2" y2="292.8" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="105.4" y2="233.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="89.7" y2="193.0" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="73.0" y2="150.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="48.1" y2="95.9" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="105.4" y2="66.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="122.0" y2="22.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="170.0" y2="11.4" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="197.5" y2="-46.1" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="250.0" y2="-18.0" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="293.2" y2="-11.3" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="349.5" y2="-22.3" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="385.1" y2="14.9" stroke="#0088ff" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="427.5" y2="47.5" stroke="#ff8800" stroke-width="1" opacity="0.28"/><line x1="250" y1="150" x2="415.2" y2="105.7" stroke="#ff8800" stroke-width="1" opacity="0.28"/><circle cx="250" cy="150" r="40" fill="none" stroke="#0088ff" stroke-width="1" opacity="0.35"/><circle cx="250" cy="150" r="70" fill="none" stroke="#0088ff" stroke-width="1" opacity="0.35"/><circle cx="250" cy="150" r="100" fill="none" stroke="#0088ff" stroke-width="1" opacity="0.35"/></g>
+<g><ellipse cx="250" cy="191.7" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M217.9,186.4 L241.0,186.4 L241.3,292.0 L218.2,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M259.0,186.4 L282.1,186.4 L281.8,292.0 L258.7,292.0 Z" fill="#080614" stroke="#ff8800" stroke-width="1.2" opacity="0.92"/><path d="M205.5,117.4 L294.5,117.4 L277.6,186.4 L222.4,186.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" opacity="0.95" filter="url(#glow-movies-mrc-2)"/><line x1="250" y1="121.4" x2="250" y2="184.4" stroke="#0088ff" stroke-width="1" opacity="0.5"/><path d="M236.0,117.4 L244.0,103.4 L248.0,117.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><path d="M264.0,117.4 L256.0,103.4 L252.0,117.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/><path d="M205.5,121.4 L194.8,180.4 L214.4,188.4" fill="none" stroke="#ff8800" stroke-width="9" stroke-linecap="round" opacity="0.9"/><line x1="294.5" y1="121.4" x2="294.5" y2="186.4" stroke="#ff8800" stroke-width="9" stroke-linecap="round" opacity="0.9"/><rect x="245" y="110.4" width="10" height="8" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><circle cx="250" cy="91.4" r="23" fill="#0a0818" stroke="#ff8800" stroke-width="1.6" filter="url(#glow-movies-mrc-2)"/><path d="M230.1,77.4 L236.1,58.4 L236.1,77.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M240.8,71.5 L245.8,60.5 L246.8,71.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M253.2,71.5 L260.2,56.5 L259.2,71.5 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><path d="M263.9,77.4 L262.9,66.4 L269.9,77.4 Z" fill="#0a0818" stroke="#ff8800" stroke-width="1"/><rect x="233.4" y="89.4" width="33.1" height="4.2" rx="2" fill="#0088ff" opacity="0.95" filter="url(#glow-movies-mrc-2)"/></g>
+<rect width="500" height="300" fill="url(#scan-movies-mrc-2)"/>
+
+<g stroke="#ff8800" stroke-width="2" fill="none" filter="url(#glow-movies-mrc-2)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#ff8800">
+  <text x="18" y="22">🎬 MOVIES</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#0088ff" opacity="0.9">MERCH</text>
+
+
+<rect x="14" y="226.0" width="472" height="66.0" fill="#04020f" opacity="0.72" stroke="#ff8800" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="226.0" x2="486" y2="226.0" stroke="#ff8800" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="249.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#0088ff" opacity="0.55" filter="url(#glow-movies-mrc-2)"><tspan x="250" dy="0">MIDNIGHT CARTOGRAPHER</tspan><tspan x="250" dy="20">COLLECTOR FIGURE</tspan></text>
+<text x="250" y="248.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-movies-mrc-2)"><tspan x="250" dy="0">MIDNIGHT CARTOGRAPHER</tspan><tspan x="250" dy="20">COLLECTOR FIGURE</tspan></text>
+</svg>

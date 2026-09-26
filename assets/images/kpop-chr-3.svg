@@ -1,0 +1,48 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ren Ashford">
+<defs>
+  <linearGradient id="bg-kpop-chr-3" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05030f"/>
+    <stop offset="55%" stop-color="#0d0730"/>
+    <stop offset="100%" stop-color="#000000"/>
+  </linearGradient>
+  <radialGradient id="sun-kpop-chr-3" cx="50%" cy="100%" r="75%">
+    <stop offset="0%" stop-color="#b026ff" stop-opacity="0.95"/>
+    <stop offset="60%" stop-color="#ff2bd6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#b026ff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow-kpop-chr-3" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4.2" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <pattern id="scan-kpop-chr-3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" opacity="0.035"/>
+  </pattern>
+</defs>
+
+<rect width="500" height="300" fill="url(#bg-kpop-chr-3)"/>
+<g><circle cx="250" cy="184" r="89" fill="url(#sun-kpop-chr-3)"/><rect x="0.0" y="111.0" width="21.9" height="67" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="13.9" y="116.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="31.2" y="133.0" width="21.9" height="45" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="45.1" y="138.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="62.5" y="129.0" width="21.9" height="49" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="76.4" y="134.0" width="4" height="3" fill="#b026ff" opacity="0.85"/><rect x="93.8" y="118.0" width="21.9" height="60" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="107.6" y="123.0" width="4" height="3" fill="#b026ff" opacity="0.85"/><rect x="125.0" y="150.0" width="21.9" height="28" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="138.9" y="155.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="156.2" y="150.0" width="21.9" height="28" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="170.1" y="155.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="187.5" y="144.0" width="21.9" height="34" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="201.4" y="149.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="218.8" y="115.0" width="21.9" height="63" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="232.6" y="120.0" width="4" height="3" fill="#b026ff" opacity="0.85"/><rect x="250.0" y="111.0" width="21.9" height="67" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="263.9" y="116.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="281.2" y="106.0" width="21.9" height="72" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="295.1" y="111.0" width="4" height="3" fill="#b026ff" opacity="0.85"/><rect x="312.5" y="128.0" width="21.9" height="50" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="326.4" y="133.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="343.8" y="132.0" width="21.9" height="46" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="357.6" y="137.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="375.0" y="155.0" width="21.9" height="23" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="388.9" y="160.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="406.2" y="118.0" width="21.9" height="60" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="420.1" y="123.0" width="4" height="3" fill="#0d0b2a" opacity="0.85"/><rect x="437.5" y="141.0" width="21.9" height="37" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="451.4" y="146.0" width="4" height="3" fill="#b026ff" opacity="0.85"/><rect x="468.8" y="129.0" width="21.9" height="49" fill="#0a0820" stroke="#b026ff" stroke-opacity="0.35" stroke-width="0.6"/><rect x="482.6" y="134.0" width="4" height="3" fill="#b026ff" opacity="0.85"/><line x1="0" y1="178" x2="500" y2="178" stroke="#b026ff" stroke-width="1.4" opacity="0.8" filter="url(#glow-kpop-chr-3)"/><line x1="0" y1="180.3" x2="500" y2="180.3" stroke="#b026ff" stroke-width="1" opacity="0.16"/><line x1="0" y1="186.1" x2="500" y2="186.1" stroke="#b026ff" stroke-width="1" opacity="0.20"/><line x1="0" y1="194.9" x2="500" y2="194.9" stroke="#b026ff" stroke-width="1" opacity="0.24"/><line x1="0" y1="206.3" x2="500" y2="206.3" stroke="#b026ff" stroke-width="1" opacity="0.28"/><line x1="0" y1="220.4" x2="500" y2="220.4" stroke="#b026ff" stroke-width="1" opacity="0.31"/><line x1="0" y1="236.8" x2="500" y2="236.8" stroke="#b026ff" stroke-width="1" opacity="0.35"/><line x1="0" y1="255.6" x2="500" y2="255.6" stroke="#b026ff" stroke-width="1" opacity="0.39"/><line x1="0" y1="276.7" x2="500" y2="276.7" stroke="#b026ff" stroke-width="1" opacity="0.43"/><line x1="0" y1="300.0" x2="500" y2="300.0" stroke="#b026ff" stroke-width="1" opacity="0.47"/><line x1="0" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="42" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="84" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="126" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="168" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="210" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="252" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="294" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="336" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="378" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="420" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/><line x1="462" y1="300" x2="250" y2="178" stroke="#b026ff" stroke-width="1" opacity="0.22"/></g>
+<g><ellipse cx="250" cy="190.4" rx="150" ry="130" fill="#020108" opacity="0.55"/><path d="M213.0,118.8 C154.8,184.9 181.2,286.0 223.6,292.0 L276.4,292.0 C318.8,286.0 345.2,184.9 287.0,118.8 Z" fill="#ff2bd6" opacity="0.16"/><path d="M221.1,184.9 L244.0,184.9 L244.9,292.0 L222.0,292.0 Z" fill="#080614" stroke="#b026ff" stroke-width="1.2" opacity="0.92"/><path d="M256.0,184.9 L278.9,184.9 L278.0,292.0 L255.1,292.0 Z" fill="#080614" stroke="#b026ff" stroke-width="1.2" opacity="0.92"/><path d="M206.0,114.8 L294.0,114.8 L277.3,184.9 L222.7,184.9 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1.6" opacity="0.95" filter="url(#glow-kpop-chr-3)"/><line x1="250" y1="118.8" x2="250" y2="182.9" stroke="#ff2bd6" stroke-width="1" opacity="0.5"/><path d="M236.0,114.8 L244.0,100.8 L248.0,114.8 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1.2" opacity="0.9"/><path d="M264.0,114.8 L256.0,100.8 L252.0,114.8 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1.2" opacity="0.9"/><rect x="211.1" y="120.8" width="44.0" height="9" rx="4" fill="#0a0818" stroke="#b026ff" stroke-width="1.1"/><rect x="235.9" y="132.8" width="44.0" height="9" rx="4" fill="#0a0818" stroke="#b026ff" stroke-width="1.1"/><rect x="245" y="107.8" width="10" height="8" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><circle cx="250" cy="88.8" r="23" fill="#0a0818" stroke="#b026ff" stroke-width="1.6" filter="url(#glow-kpop-chr-3)"/><path d="M230.1,74.8 L229.1,58.8 L236.1,74.8 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><path d="M240.8,68.9 L240.8,56.9 L246.8,68.9 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><path d="M253.2,68.9 L257.2,52.9 L259.2,68.9 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><path d="M263.9,74.8 L263.9,59.8 L269.9,74.8 Z" fill="#0a0818" stroke="#b026ff" stroke-width="1"/><rect x="233.4" y="86.8" width="33.1" height="4.2" rx="2" fill="#ff2bd6" opacity="0.95" filter="url(#glow-kpop-chr-3)"/></g>
+<rect width="500" height="300" fill="url(#scan-kpop-chr-3)"/>
+
+<g stroke="#b026ff" stroke-width="2" fill="none" filter="url(#glow-kpop-chr-3)" opacity="0.9">
+  <path d="M10,26 L10,10 L26,10"/>
+  <path d="M474,10 L490,10 L490,26"/>
+  <path d="M10,274 L10,290 L26,290"/>
+  <path d="M474,290 L490,290 L490,274"/>
+</g>
+
+<g font-family="monospace" font-size="11" fill="#b026ff">
+  <text x="18" y="22">🎤 K-POP</text>
+</g>
+<text x="486" y="22" text-anchor="end" font-family="monospace" font-size="10" fill="#ff2bd6" opacity="0.9">CHARACTER</text>
+
+
+<rect x="14" y="246.0" width="472" height="46.0" fill="#04020f" opacity="0.72" stroke="#b026ff" stroke-opacity="0.55" stroke-width="1"/>
+<line x1="14" y1="246.0" x2="486" y2="246.0" stroke="#b026ff" stroke-width="1.2" opacity="0.9"/>
+
+<text x="251" y="269.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ff2bd6" opacity="0.55" filter="url(#glow-kpop-chr-3)"><tspan x="250" dy="0">REN ASHFORD</tspan></text>
+<text x="250" y="268.0" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="16" fill="#ffffff" filter="url(#glow-kpop-chr-3)"><tspan x="250" dy="0">REN ASHFORD</tspan></text>
+</svg>

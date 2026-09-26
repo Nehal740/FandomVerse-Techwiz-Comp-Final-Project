@@ -77,7 +77,7 @@
   "popularity": 44,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/gaming-evt-2/500/300"
+  "img": "assets/images/Ember_Realms_Fan_Summit.jpg"
  },
  {
   "id": "gaming-evt-3",
@@ -93,7 +93,7 @@
   "popularity": 66,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/gaming-evt-3/500/300"
+  "img": "assets/images/Circuit_Kingdoms_Fan_Summit.jpg"
  },
  {
   "id": "movies-evt-1",
@@ -109,7 +109,7 @@
   "popularity": 47,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/movies-evt-1/500/300"
+  "img": "assets/images/The_Glass_Horizon_Fan_Summit.jpg"
  },
  {
   "id": "movies-evt-2",
@@ -125,7 +125,7 @@
   "popularity": 53,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/movies-evt-2/500/300"
+  "img": "assets/images/Midnight_Cartographer_Fan_Summit.jpg"
  },
  {
   "id": "movies-evt-3",
@@ -141,7 +141,7 @@
   "popularity": 87,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/movies-evt-3/500/300"
+  "img": "assets/images/Iron_Lantern_Fan_Summit.jpg"
  },
  {
   "id": "tvshows-evt-1",
@@ -157,7 +157,7 @@
   "popularity": 84,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/tvshows-evt-1/500/300"
+  "img": "assets/images/Harbor_Nine_Fan_Summit.jpg"
  },
  {
   "id": "tvshows-evt-2",
@@ -173,7 +173,7 @@
   "popularity": 81,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/tvshows-evt-2/500/300"
+  "img": "assets/images/The_Quiet_Syndicate_Fan_Summit.jpg"
  },
  {
   "id": "tvshows-evt-3",
@@ -189,7 +189,7 @@
   "popularity": 95,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/tvshows-evt-3/500/300"
+  "img": "assets/images/Orbit_Street_Fan_Summit.jpg"
  },
  {
   "id": "kpop-evt-1",
@@ -205,7 +205,7 @@
   "popularity": 71,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/kpop-evt-1/500/300"
+  "img": "assets/images/LUMEN-7_Fan_Summit.jpg"
  },
  {
   "id": "kpop-evt-2",
@@ -221,7 +221,7 @@
   "popularity": 70,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/kpop-evt-2/500/300"
+  "img": "assets/images/Starfall_Seoul_Fan_Summit.jpg"
  },
  {
   "id": "kpop-evt-3",
@@ -237,7 +237,7 @@
   "popularity": 49,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/kpop-evt-3/500/300"
+  "img": "assets/images/Velvet_Circuit_Fan_Summit.jpg"
  },
  {
   "id": "comics-evt-1",
@@ -253,7 +253,7 @@
   "popularity": 91,
   "featured": false,
   "status": "UPCOMING",
-  "img": "https://picsum.photos/seed/comics-evt-1/500/300"
+  "img": "assets/images/Captain_Meridian_Fan_Summit.jpg"
  },
  {
   "id": "comics-evt-2",
@@ -269,7 +269,7 @@
   "popularity": 73,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/comics-evt-2/500/300"
+  "img": "assets/images/Shadowline_Fan_Summit.jpg"
  },
  {
   "id": "comics-evt-3",
@@ -285,7 +285,7 @@
   "popularity": 86,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/comics-evt-3/500/300"
+  "img": "assets/images/Ironwood_Saga_Fan_Summit.jpg"
  },
  {
   "id": "manga-evt-1",
@@ -317,7 +317,7 @@
   "popularity": 91,
   "featured": false,
   "status": "LIVE",
-  "img": "https://picsum.photos/seed/manga-evt-2/500/300"
+  "img": "assets/images/Moonlit_Ronin_Fan_Summit.jpg"
  },
  {
   "id": "manga-evt-3",
@@ -333,6 +333,6 @@
   "popularity": 65,
   "featured": false,
   "status": "COMPLETED",
-  "img": "https://picsum.photos/seed/manga-evt-3/500/300"
+  "img": "assets/images/Ink___Ember_Fan_Summit.jpg"
  }
 ]
