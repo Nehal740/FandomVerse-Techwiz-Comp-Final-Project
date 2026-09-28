@@ -93,13 +93,13 @@ function viewCart() {
 
 // ---------- VIEW: ABOUT / CONTACT ----------
 function viewAbout() {
-  const cards = [['Mission', 'A unified portal for exploring multiple fandom communities.'], ['Features', 'Search, filters, bookmarks, demo cart, events, trailers and a scripted guide.'], ['Technology', 'HTML5, CSS3, vanilla JavaScript, JSON, LocalStorage and SessionStorage.'], ['Project Team', 'Add your team member names and roles here.']];
+  const cards = [['Mission', 'A unified portal for exploring multiple fandom communities.'], ['Features', 'Search, filters, bookmarks, demo cart, events, trailers and a scripted guide.'], ['Technology', 'HTML5, CSS3, vanilla JavaScript, JSON, LocalStorage and SessionStorage.'], [' ALPHA SQUAD', ' M.Nehal, Yasir Baloch, Umar Farooq, Shahzaib, Zia, Sagar.']];
   app.innerHTML = `<section class="container page"><nav class="crumbs"><a href="#/">Home</a> / About</nav><h1 class="h1">ABOUT FANDOMVERSE</h1><div class="about-grid">${cards.map(([h, t]) => `<div class="glass reveal"><h3>${h}</h3><p class="muted">${t}</p></div>`).join('')}</div></section>`;
 }
 function viewContact() {
   app.innerHTML = `<section class="container page"><nav class="crumbs"><a href="#/">Home</a> / Contact</nav><h1 class="h1">CONTACT</h1>
   <form class="contact" id="cform"><label>Name<input required></label><label>Email<input type="email" required></label><label>Subject<input required></label><label>Message<textarea rows="5" required></textarea></label><button class="btn">Submit</button><p class="muted"><small>Frontend-only form — nothing is sent.</small></p></form>
-  <p class="muted">📍 Your University Address • ✉ team@fandomverse.example • ☎ +00 000 0000</p></section>`;
+  <p class="muted">📍 Aptech dha phase2 karachi • ✉ team@fandomverse@email.com • ☎ +92-31*1*7*1*6</p></section>`;
   $('#cform').onsubmit = e => { e.preventDefault(); e.target.reset(); toast('Message noted (demo only).'); };
 }
 
